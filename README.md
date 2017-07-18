@@ -56,3 +56,8 @@ from datetime import datetime
 ```
 
 To run the cells, either use `cmd + <enter>` or use the navigation: cell -> run all
+
+
+Data Sources
+---------------
+* The World Bank [GDP](http://databank.worldbank.org/data/download/GDP.pdf)

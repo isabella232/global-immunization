@@ -1,4 +1,4 @@
-,unicef_region,iso3,country,IncomeGroup,GDP 2016,2016 PPP,Perc under 14,DTP1-16,DTP1-96,DTP1-86
+,unicef_region,iso3,country,IncomeGroup,GDP 2016,PPP 2016,Pop % under 14,DTP1-16,DTP1-96,DTP1-86
 0,South Asia,AFG,Afghanistan,Low income,"19,469",1876.544682,43.0,73.0,56.0,32.0
 1,Eastern Europe & Central Asia,ALB,Albania,Upper middle income,"11,927",11928.53656,17.0,99.0,98.0,98.0
 2,Middle East & North Africa,DZA,Algeria,Upper middle income,"156,080",15074.92481,29.0,96.0,96.0,92.0

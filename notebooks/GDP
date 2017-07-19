@@ -1,0 +1,196 @@
+,unicef_region,iso3,country,GDP,2016,1996,1986,Perc under 14
+0,South Asia,AFG,Afghanistan,"19,469",73.0,56.0,32.0,43.0
+1,Eastern Europe & Central Asia,ALB,Albania,"11,927",99.0,98.0,98.0,17.0
+2,Middle East & North Africa,DZA,Algeria,"156,080",96.0,96.0,92.0,29.0
+3,Western Europe,AND,Andorra, .. ,99.0,,,
+4,Eastern & Southern Africa,AGO,Angola,"89,633",79.0,53.0,31.0,47.0
+5,Latin America & Caribbean,ATG,Antigua and Barbuda,"1,449",99.0,99.0,98.0,24.0
+6,Latin America & Caribbean,ARG,Argentina,"545,866",97.0,94.0,86.0,25.0
+7,Eastern Europe & Central Asia,ARM,Armenia,"10,547",97.0,95.0,,20.0
+8,East Asia & Pacific,AUS,Australia,"1,204,616",98.0,95.0,91.0,19.0
+9,Western Europe,AUT,Austria,"386,428",99.0,96.0,96.0,14.0
+10,Eastern Europe & Central Asia,AZE,Azerbaijan,"37,848",98.0,82.0,,23.0
+11,Latin America & Caribbean,BHS,Bahamas,"9,047",95.0,95.0,95.0,20.0
+12,Middle East & North Africa,BHR,Bahrain,"31,859",99.0,96.0,97.0,20.0
+13,South Asia,BGD,Bangladesh,"221,415",99.0,91.0,22.0,28.0
+14,Latin America & Caribbean,BRB,Barbados,"4,588",99.0,95.0,92.0,19.0
+15,Eastern Europe & Central Asia,BLR,Belarus,"47,433",99.0,98.0,,17.0
+16,Western Europe,BEL,Belgium,"466,366",99.0,98.0,98.0,17.0
+17,Latin America & Caribbean,BLZ,Belize,"1,765",98.0,95.0,98.0,31.0
+18,West & Central Africa,BEN,Benin,"8,583",86.0,86.0,36.0,43.0
+19,South Asia,BTN,Bhutan,"2,237",99.0,95.0,77.0,27.0
+20,Latin America & Caribbean,BOL,Bolivia (Plurinational State of),"33,806",99.0,82.0,67.0,32.0
+21,Eastern Europe & Central Asia,BIH,Bosnia and Herzegovina,"16,560",90.0,86.0,,14.0
+22,Eastern & Southern Africa,BWA,Botswana,"15,275",98.0,98.0,98.0,31.0
+23,Latin America & Caribbean,BRA,Brazil,"1,796,187",89.0,75.0,80.0,22.0
+24,East Asia & Pacific,BRN,Brunei Darussalam,"11,400",99.0,99.0,95.0,23.0
+25,Eastern Europe & Central Asia,BGR,Bulgaria,"52,395",94.0,98.0,99.0,14.0
+26,West & Central Africa,BFA,Burkina Faso,"12,115",95.0,78.0,48.0,45.0
+27,Eastern & Southern Africa,BDI,Burundi,"3,007",97.0,86.0,76.0,45.0
+28,West & Central Africa,CPV,Cabo Verde,"1,617",96.0,90.0,77.0,30.0
+29,East Asia & Pacific,KHM,Cambodia,"20,017",92.0,59.0,62.0,31.0
+30,West & Central Africa,CMR,Cameroon,"24,204",92.0,71.0,58.0,43.0
+31,North America,CAN,Canada,"1,529,760",96.0,98.0,,16.0
+32,West & Central Africa,CAF,Central African Republic,"1,756",69.0,72.0,42.0,43.0
+33,West & Central Africa,TCD,Chad,"9,601",60.0,44.0,31.0,47.0
+34,Latin America & Caribbean,CHL,Chile,"247,028",99.0,97.0,96.0,20.0
+35,East Asia & Pacific,CHN,China,"11,199,145",99.0,94.0,92.0,18.0
+36,Latin America & Caribbean,COL,Colombia,"282,463",93.0,95.0,72.0,23.0
+37,Eastern & Southern Africa,COM,Comoros,617,96.0,82.0,88.0,40.0
+38,West & Central Africa,COG,Congo,"7,834",85.0,62.0,88.0,42.0
+39,East Asia & Pacific,COK,Cook Islands,,99.0,91.0,95.0,
+40,Latin America & Caribbean,CRI,Costa Rica,"57,436",99.0,95.0,96.0,22.0
+41,West & Central Africa,CIV,Côte d’Ivoire,"36,165",98.0,70.0,55.0,
+42,Eastern Europe & Central Asia,HRV,Croatia,"50,425",98.0,97.0,,15.0
+43,Latin America & Caribbean,CUB,Cuba,"87,133",99.0,96.0,99.0,16.0
+44,Western Europe,CYP,Cyprus,"19,802",98.0,98.0,97.0,17.0
+45,Western Europe,CZE,Czech Republic,"192,925",98.0,98.0,,
+46,East Asia & Pacific,PRK,Democratic People’s Republic of Korea, .. ,97.0,74.0,82.0,
+47,West & Central Africa,COD,Democratic Republic of the Congo,"34,999",80.0,41.0,57.0,
+48,Western Europe,DNK,Denmark,"306,143",97.0,94.0,97.0,16.0
+49,Eastern & Southern Africa,DJI,Djibouti,"1,727",90.0,66.0,48.0,31.0
+50,Latin America & Caribbean,DMA,Dominica,525,99.0,99.0,97.0,
+51,Latin America & Caribbean,DOM,Dominican Republic,"71,584",98.0,88.0,93.0,29.0
+52,Latin America & Caribbean,ECU,Ecuador,"97,802",94.0,94.0,69.0,28.0
+53,Middle East & North Africa,EGY,Egypt,"336,297",96.0,96.0,93.0,33.0
+54,Latin America & Caribbean,SLV,El Salvador,"26,797",97.0,98.0,74.0,27.0
+55,West & Central Africa,GNQ,Equatorial Guinea,"10,179",40.0,94.0,21.0,37.0
+56,Eastern & Southern Africa,ERI,Eritrea, .. ,97.0,75.0,,42.0
+57,Western Europe,EST,Estonia,"23,137",94.0,96.0,,16.0
+58,Eastern & Southern Africa,ETH,Ethiopia,"72,374",86.0,78.0,27.0,41.0
+59,East Asia & Pacific,FJI,Fiji,"4,632",99.0,98.0,88.0,28.0
+60,Western Europe,FIN,Finland,"236,785",99.0,99.0,98.0,16.0
+61,Western Europe,FRA,France,"2,465,454",99.0,98.0,98.0,18.0
+62,West & Central Africa,GAB,Gabon,"14,214",83.0,78.0,66.0,36.0
+63,West & Central Africa,GMB,Gambia,965,99.0,99.0,93.0,45.0
+64,Eastern Europe & Central Asia,GEO,Georgia,"14,333",97.0,90.0,,19.0
+65,Western Europe,DEU,Germany,"3,466,757",95.0,94.0,96.0,13.0
+66,West & Central Africa,GHA,Ghana,"42,690",94.0,88.0,60.0,39.0
+67,Western Europe,GRC,Greece,"194,559",99.0,96.0,93.0,14.0
+68,Latin America & Caribbean,GRD,Grenada,"1,016",98.0,93.0,98.0,26.0
+69,Latin America & Caribbean,GTM,Guatemala,"68,763",96.0,86.0,62.0,35.0
+70,West & Central Africa,GIN,Guinea,"6,299",65.0,72.0,37.0,42.0
+71,West & Central Africa,GNB,Guinea-Bissau,"1,126",95.0,77.0,88.0,41.0
+72,Latin America & Caribbean,GUY,Guyana,"3,446",97.0,94.0,84.0,29.0
+73,Latin America & Caribbean,HTI,Haiti,"8,023",78.0,75.0,48.0,33.0
+74,Latin America & Caribbean,HND,Honduras,"21,517",99.0,97.0,83.0,32.0
+75,Western Europe,HUN,Hungary,"124,343",99.0,99.0,99.0,14.0
+76,Western Europe,ISL,Iceland,"20,047",96.0,99.0,99.0,20.0
+77,South Asia,IND,India,"2,263,523",91.0,86.0,44.0,28.0
+78,East Asia & Pacific,IDN,Indonesia,"932,259",95.0,89.0,72.0,27.0
+79,Middle East & North Africa,IRN,Iran (Islamic Republic of),"393,436",99.0,99.0,80.0,24.0
+80,Middle East & North Africa,IRQ,Iraq,"171,489",73.0,88.0,98.0,40.0
+81,Western Europe,IRL,Ireland,"294,054",98.0,90.0,69.0,22.0
+82,Middle East & North Africa,ISR,Israel,"318,744",94.0,97.0,97.0,28.0
+83,Western Europe,ITA,Italy,"1,849,970",97.0,98.0,,14.0
+84,Latin America & Caribbean,JAM,Jamaica,"14,027",99.0,97.0,90.0,23.0
+85,East Asia & Pacific,JPN,Japan,"4,939,384",99.0,99.0,94.0,13.0
+86,Middle East & North Africa,JOR,Jordan,"38,655",99.0,99.0,96.0,36.0
+87,Eastern Europe & Central Asia,KAZ,Kazakhstan,"133,657",93.0,98.0,,28.0
+88,Eastern & Southern Africa,KEN,Kenya,"70,529",96.0,96.0,89.0,40.0
+89,East Asia & Pacific,KIR,Kiribati,166,82.0,92.0,62.0,35.0
+90,Middle East & North Africa,KWT,Kuwait,"114,041",99.0,99.0,97.0,21.0
+91,Eastern Europe & Central Asia,KGZ,Kyrgyzstan,"6,551",97.0,98.0,,32.0
+92,East Asia & Pacific,LAO,Lao People’s Democratic Republic,"15,903",85.0,80.0,24.0,
+93,Western Europe,LVA,Latvia,"27,677",99.0,99.0,,15.0
+94,Middle East & North Africa,LBN,Lebanon,"47,537",84.0,97.0,55.0,23.0
+95,Eastern & Southern Africa,LSO,Lesotho,"2,200",98.0,94.0,91.0,35.0
+96,West & Central Africa,LBR,Liberia,"2,101",99.0,,,42.0
+97,Middle East & North Africa,LBY,Libya, .. ,98.0,98.0,94.0,28.0
+98,Western Europe,LTU,Lithuania,"42,739",97.0,97.0,,15.0
+99,Western Europe,LUX,Luxembourg,"59,948",99.0,98.0,95.0,16.0
+100,Eastern & Southern Africa,MDG,Madagascar,"9,991",84.0,73.0,55.0,41.0
+101,Eastern & Southern Africa,MWI,Malawi,"5,442",89.0,96.0,80.0,44.0
+102,East Asia & Pacific,MYS,Malaysia,"296,359",99.0,98.0,73.0,24.0
+103,South Asia,MDV,Maldives,"3,591",99.0,98.0,67.0,23.0
+104,West & Central Africa,MLI,Mali,"14,045",86.0,77.0,28.0,48.0
+105,Western Europe,MLT,Malta,"10,949",97.0,97.0,95.0,14.0
+106,East Asia & Pacific,MHL,Marshall Islands,183,87.0,92.0,,
+107,West & Central Africa,MRT,Mauritania,"4,635",87.0,89.0,57.0,40.0
+108,Eastern & Southern Africa,MUS,Mauritius,"12,164",97.0,96.0,95.0,18.0
+109,Latin America & Caribbean,MEX,Mexico,"1,045,998",99.0,98.0,75.0,27.0
+110,East Asia & Pacific,FSM,Micronesia (Federated States of ),322,95.0,92.0,,
+111,Western Europe,MCO,Monaco, .. ,99.0,99.0,,
+112,East Asia & Pacific,MNG,Mongolia,"11,160",99.0,96.0,93.0,30.0
+113,Eastern Europe & Central Asia,MNE,Montenegro,"4,173",97.0,,,18.0
+114,Middle East & North Africa,MAR,Morocco,"101,445",99.0,91.0,84.0,27.0
+115,Eastern & Southern Africa,MOZ,Mozambique,"11,015",90.0,76.0,57.0,45.0
+116,East Asia & Pacific,MMR,Myanmar,"67,430",94.0,96.0,44.0,27.0
+117,Eastern & Southern Africa,NAM,Namibia,"10,267",98.0,88.0,,37.0
+118,East Asia & Pacific,NRU,Nauru,102,98.0,77.0,82.0,
+119,South Asia,NPL,Nepal,"21,144",92.0,85.0,63.0,31.0
+120,Western Europe,NLD,Netherlands,"770,845",98.0,98.0,98.0,16.0
+121,East Asia & Pacific,NZL,New Zealand,"185,017",92.0,96.0,88.0,20.0
+122,Latin America & Caribbean,NIC,Nicaragua,"13,231",99.0,93.0,70.0,29.0
+123,West & Central Africa,NER,Niger,"7,509",87.0,44.0,24.0,50.0
+124,West & Central Africa,NGA,Nigeria,"405,083",64.0,51.0,46.0,44.0
+125,East Asia & Pacific,NIU,Niue,,99.0,99.0,93.0,
+126,Western Europe,NOR,Norway,"370,557",99.0,98.0,94.0,18.0
+127,Middle East & North Africa,OMN,Oman,"66,293",99.0,99.0,94.0,22.0
+128,South Asia,PAK,Pakistan,"283,660",79.0,62.0,59.0,35.0
+129,East Asia & Pacific,PLW,Palau,293,99.0,98.0,98.0,
+130,Latin America & Caribbean,PAN,Panama,"55,188",96.0,97.0,88.0,27.0
+131,East Asia & Pacific,PNG,Papua New Guinea,"16,929",87.0,80.0,69.0,36.0
+132,Latin America & Caribbean,PRY,Paraguay,"27,441",99.0,89.0,77.0,29.0
+133,Latin America & Caribbean,PER,Peru,"192,094",94.0,97.0,74.0,27.0
+134,East Asia & Pacific,PHL,Philippines,"304,905",87.0,82.0,86.0,32.0
+135,Western Europe,POL,Poland,"469,509",99.0,98.0,98.0,15.0
+136,Western Europe,PRT,Portugal,"204,565",99.0,98.0,93.0,14.0
+137,Middle East & North Africa,QAT,Qatar,"152,469",99.0,97.0,89.0,14.0
+138,East Asia & Pacific,KOR,Republic of Korea,"1,411,246",98.0,96.0,91.0,13.0
+139,Eastern Europe & Central Asia,MDA,Republic of Moldova,"6,750",94.0,98.0,,16.0
+140,Eastern Europe & Central Asia,ROU,Romania,"186,691",96.0,98.0,96.0,15.0
+141,Eastern Europe & Central Asia,RUS,Russian Federation,"1,283,162",97.0,94.0,,18.0
+142,Eastern & Southern Africa,RWA,Rwanda,"8,376",99.0,96.0,95.0,40.0
+143,Latin America & Caribbean,KNA,Saint Kitts and Nevis,917,99.0,99.0,99.0,
+144,Latin America & Caribbean,LCA,Saint Lucia,"1,379",95.0,96.0,92.0,19.0
+145,Latin America & Caribbean,VCT,Saint Vincent and The Grenadines,771,99.0,99.0,98.0,
+146,East Asia & Pacific,WSM,Samoa,786,95.0,98.0,97.0,37.0
+147,Western Europe,SMR,San Marino, .. ,78.0,99.0,99.0,
+148,West & Central Africa,STP,Sao Tome and Principe,351,97.0,87.0,85.0,43.0
+149,Middle East & North Africa,SAU,Saudi Arabia,"646,438",98.0,97.0,95.0,25.0
+150,West & Central Africa,SEN,Senegal,"14,765",96.0,88.0,77.0,43.0
+151,Eastern Europe & Central Asia,SRB,Serbia,"37,745",97.0,97.0,,16.0
+152,Eastern & Southern Africa,SYC,Seychelles,"1,427",98.0,99.0,97.0,22.0
+153,West & Central Africa,SLE,Sierra Leone,"3,669",97.0,,,42.0
+154,East Asia & Pacific,SGP,Singapore,"296,966",98.0,94.0,97.0,15.0
+155,Western Europe,SVK,Slovakia,"89,552",99.0,99.0,,15.0
+156,Western Europe,SVN,Slovenia,"43,991",98.0,98.0,,15.0
+157,East Asia & Pacific,SLB,Solomon Islands,"1,202",99.0,89.0,67.0,39.0
+158,Eastern & Southern Africa,SOM,Somalia,"6,217",52.0,45.0,40.0,46.0
+159,Eastern & Southern Africa,ZAF,South Africa,"294,841",78.0,90.0,88.0,29.0
+160,Eastern & Southern Africa,SSD,South Sudan,"9,015",35.0,,,42.0
+161,Western Europe,ESP,Spain,"1,232,088",99.0,96.0,96.0,15.0
+162,South Asia,LKA,Sri Lanka,"81,322",99.0,97.0,91.0,24.0
+163,Middle East & North Africa,PSE,State of Palestine,"13,397",99.0,98.0,,40.0
+164,Eastern & Southern Africa,SDN,Sudan,"95,584",97.0,79.0,36.0,41.0
+165,Latin America & Caribbean,SUR,Suriname,"3,621",92.0,93.0,93.0,26.0
+166,Eastern & Southern Africa,SWZ,Swaziland,"3,727",96.0,94.0,90.0,37.0
+167,Western Europe,SWE,Sweden,"511,000",99.0,99.0,99.0,18.0
+168,Western Europe,CHE,Switzerland,"659,827",99.0,93.0,96.0,15.0
+169,Middle East & North Africa,SYR,Syrian Arab Republic, .. ,61.0,96.0,90.0,37.0
+170,Eastern Europe & Central Asia,TJK,Tajikistan,"6,952",98.0,80.0,,35.0
+171,East Asia & Pacific,THA,Thailand,"406,840",99.0,97.0,86.0,17.0
+172,Eastern Europe & Central Asia,MKD,The former Yugoslav Republic of Macedonia,"10,900",97.0,97.0,,
+173,East Asia & Pacific,TLS,Timor-Leste,"1,442",95.0,,,44.0
+174,West & Central Africa,TGO,Togo,"4,400",93.0,70.0,59.0,42.0
+175,East Asia & Pacific,TON,Tonga,395,83.0,99.0,91.0,36.0
+176,Latin America & Caribbean,TTO,Trinidad and Tobago,"20,989",97.0,96.0,88.0,21.0
+177,Middle East & North Africa,TUN,Tunisia,"42,063",99.0,98.0,89.0,24.0
+178,Eastern Europe & Central Asia,TUR,Turkey,"857,749",99.0,89.0,70.0,25.0
+179,Eastern Europe & Central Asia,TKM,Turkmenistan,"36,180",99.0,98.0,,31.0
+180,East Asia & Pacific,TUV,Tuvalu,34,99.0,98.0,90.0,
+181,Eastern & Southern Africa,UGA,Uganda,"25,528",89.0,80.0,45.0,48.0
+182,Eastern Europe & Central Asia,UKR,Ukraine,"93,270",42.0,99.0,,15.0
+183,Middle East & North Africa,ARE,United Arab Emirates,"348,743",99.0,96.0,92.0,14.0
+184,Western Europe,GBR,United Kingdom of Great Britain and Northern Ireland,"2,618,886",98.0,97.0,86.0,
+185,Eastern & Southern Africa,TZA,United Republic of Tanzania,"47,431",99.0,94.0,90.0,45.0
+186,North America,USA,United States of America,"18,569,100",97.0,98.0,98.0,19.0
+187,Latin America & Caribbean,URY,Uruguay,"52,420",97.0,97.0,88.0,21.0
+188,Eastern Europe & Central Asia,UZB,Uzbekistan,"67,220",99.0,98.0,,28.0
+189,East Asia & Pacific,VUT,Vanuatu,774,75.0,86.0,56.0,36.0
+190,Latin America & Caribbean,VEN,Venezuela (Bolivarian Republic of), .. ,98.0,80.0,80.0,28.0
+191,East Asia & Pacific,VNM,Viet Nam,"202,616",96.0,97.0,68.0,23.0
+192,Middle East & North Africa,YEM,Yemen,"27,318",76.0,72.0,35.0,40.0
+193,Eastern & Southern Africa,ZMB,Zambia,"19,551",99.0,94.0,86.0,45.0
+194,Eastern & Southern Africa,ZWE,Zimbabwe,"16,289",94.0,96.0,91.0,41.0

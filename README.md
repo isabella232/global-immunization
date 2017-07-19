@@ -60,4 +60,6 @@ To run the cells, either use `cmd + <enter>` or use the navigation: cell -> run 
 
 Data Sources
 ---------------
-* The World Bank [GDP](http://databank.worldbank.org/data/download/GDP.pdf)
+* The World Bank
+..* [GDP](http://databank.worldbank.org/data/download/GDP.pdf)
+..* [PPP](http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD)

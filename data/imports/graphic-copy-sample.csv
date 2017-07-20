@@ -1,0 +1,243 @@
+name,name_abbrev,id,lat,lon,amt,amt_refugee
+Afghanistan,Afg.,4,,,15.75,15277900
+Aland Islands,Aland,248,60.211,20.275,186.25,"498,100"
+Albania,Alb.,8,,,32,11982220
+Algeria,Alg.,12,,,233,-
+American Samoa,Am. Samoa,16,-14.300,-170.700,84.75,"13,998,480"
+Andorra,And.,20,42.500,1.517,163.25,24480
+Angola,Ang.,24,,,25.75,11067750
+Anguilla,Ang.,660,18.227,-63.049,137.75,586000
+Antarctica,Ant.,10,,,137.25,"4,645,690"
+Antigua and Barbuda,Ant.B.,28,17.117,-61.850,152.5,1222900
+Argentina,Arg.,32,,,145.75,2260440
+Armenia,Arm.,51,,,59,79000
+Aruba,Aruba,533,12.500,-69.967,79.5,"298,600"
+Ashmore and Cartier Islands,A.C.Is.,36,-12.258,123.042,65,"46,107,600"
+Australia,Auz.,36,,,167.25,54340
+Austria,Aust.,40,,,173.25,1609560
+Azerbaijan,Aze.,31,,,69.25,1942930
+Bahamas,Bhs.,44,,,139.75,116250
+Bahrain,Bahr.,48,26.028,50.550,8,4805680
+Bangladesh,Bang.,50,,,105,218160
+Barbados,Barb.,52,13.167,-59.550,27.5,3536640
+Belarus,Bela.,112,,,64.75,490980
+Belgium,Belg.,56,,,179,710520
+Belize,Belize,84,,,126,46043360
+Benin,Benin,204,,,7.25,98670
+Bermuda,Berm.,60,32.300,-64.783,86,991900
+Bhutan,Bhutan,64,,,224.25,8636850
+Bolivia,Bolivia,68,,,76.5,4888800
+Bosnia and Herzegovina,B.H.,70,,,73,163800
+Botswana,Bwa.,72,,,4.5,4961550
+Brazil,Brazil,76,,,171.5,10343220
+British Indian Ocean Territory,I.O.T.,86,-6.000,71.500,52.5,"5,859,840"
+British Virgin Islands,V.I. (Br.),92,18.429,-64.624,60.75,"2,003,370"
+Brunei,Brunei,96,,,109.75,7003000
+Bulgaria,Bulg.,100,,,218,3611000
+Burkina Faso,B.F.,854,,,164.75,253713060
+Burundi,Bur.,108,,,232.25,11285180
+Cambodia,Camb.,116,,,49.75,325600
+Cameroon,Cam.,120,,,24.25,2209620
+Canada,Can.,124,,,168,-
+Cape Verde,C.Vd.,132,15.111,-23.617,15.75,1079320
+Cayman Islands,Cym. Is.,136,19.333,-81.400,231.75,
+Central African Republic,C.A.R.,140,,,21.5,628350
+Chad,Chad,148,,,236.25,1837600
+Chile,Chile,152,,,7.25,200600
+China,China,156,,,8.25,
+Colombia,Col.,170,,,107,
+Comoros,Com.,174,-11.683,43.267,95.75,
+Congo,D.R.C.,180,,,153.5,917440
+Cook Islands,Cook Is.,184,-21.200,-159.767,196.25,296670
+Costa Rica,C.R.,188,,,222.25,-
+Croatia,Cro.,191,,,158.25,3122430
+Cuba,Cuba,192,,,100.25,4655000
+Curacao,Cur.,531,12.183,-69.000,92.5,32192490
+Cyprus,Cyp.,196,,,96,1722060
+Czech Republic,Cz. Rep.,203,,,196.25,469160
+Denmark,Den.,208,,,23.75,2128980
+Djibouti,Dji.,262,,,149.75,209600
+Dominica,D'inca,212,15.300,-61.383,145,43032370
+Dominican Republic,Dom. Rep.,214,,,222,253680
+East Timor,T.L.,626,,,138,883680
+Ecuador,Ecu.,218,,,35.5,11696400
+Egypt,Egypt,818,,,125,729000
+El Salvador,El. S.,222,,,93.5,945450
+Equatorial Guinea,Eq. G.,226,,,242.5,743280
+Eritrea,Erit.,232,,,7.25,10674820
+Estonia,Est.,233,,,174.5,11245260
+Ethiopia,Eth.,231,,,193.75,1562400
+Falkland Islands,Flk. Is.,238,,,133.25,"28,080"
+Faroe Islands,Faeroe Is.,234,62.000,-6.783,51.5,"5,919,900"
+Fiji,Fiji,242,,,74.5,5341140
+Finland,Fin.,246,,,85.75,763010
+France,Fr.,250,,,186.5,225620
+French Polynesia,Fr. Poly.,258,-17.533,-149.567,139.25,"3,623,730"
+French Southern and Antarctic Lands,Fr. S.A.L.,260,,,163.5,"2,964,800"
+Gabon,Gabon,266,,,85.25,1361080
+Gambia,Gambia,270,,,217.5,67000
+Georgia,Geo.,268,,,176.75,374970400
+Germany,Ger.,276,,,111.75,71277570
+Ghana,Ghana,288,,,188.75,19479120
+Gibraltar,Gib.,292,36.143,-5.353,37,15310000
+Greece,Greece,300,,,82.25,1047640
+Greenland,Grlnd.,304,,,209.5,"2,330,160"
+Grenada,Gren.,308,12.050,-61.750,46.25,8310400
+Guam,Guam,316,13.500,144.800,242.25,"664,700"
+Guatemala,Guat.,320,,,102.75,16572920
+Guernsey,Guern.,831,49.450,-2.550,156.75,"3,492,720"
+Guinea,Gin.,324,,,117.5,5097120
+Guinea-Bissau,GnB.,624,,,171.25,19880000
+Guyana,Guy.,328,,,36.75,40600
+Haiti,Haiti,332,,,124.25,868770
+Heard Island and McDonald Islands,H.M.Is.,334,53.000,73.500,93.25,"1,934,400"
+Honduras,Hond.,340,,,163.5,
+Hong Kong,H.K.,344,22.278,114.175,168.75,292500
+Hungary,Hun.,348,,,19,1398860
+Iceland,Iceland,352,,,83.5,781550
+India,India,356,,,217.25,1987440000
+Indonesia,Indo.,360,,,224,1785000
+Iran,Iran,364,,,246.75,433500
+Iraq,Iraq,368,,,206,93280
+Ireland,Ire.,372,,,180.75,10484110
+Isle of Man,IoMan,833,54.250,-4.500,243.5,"8,193,680"
+Israel,Isr.,376,,,0.75,7589760
+Italy,Italy,380,,,87.5,100280
+Ivory Coast,I.C.,384,,,159,8900160
+Jamaica,Jam.,388,,,241.25,60340
+Japan,Japan,392,,,53.25,-
+Jersey,Jey.,832,49.190,-2.110,129,"1,768,000"
+Jordan,Jord.,400,,,164,227700
+Kazakhstan,Kaz.,398,,,42,34874010
+Kenya,Ken.,404,,,82.5,
+Kiribati,Kir.,296,1.467,173.033,207,-
+Kosovo,Kos.,-2,,,179.25,"922,800"
+Kuwait,Kwt.,414,,,118.25,113220
+Kyrgyzstan,Kgz.,417,,,91.25,9649800
+Laos,Laos,418,,,35.75,13351050
+Latvia,Lat.,428,,,226,14410170
+Lebanon,Leb.,422,,,235.75,937580
+Lesotho,Les.,426,,,122.25,-
+Liberia,Liberia,430,,,188,9084550
+Libya,Libya,434,,,244,2725760
+Liechtenstein,Liech.,438,47.142,9.523,83.5,"941,200"
+Lithuania,Lith.,440,,,61,1803220
+Luxembourg,Lux.,442,,,16.75,10738500
+Macao,Mac.,446,22.167,113.550,88.75,83989840
+Macedonia,Mkd.,807,,,19,-
+Madagascar,Mad.,450,,,49.75,954900
+Malawi,Mal.,454,,,213.5,1019920
+Malaysia,Malay.,458,,,0.75,68955600
+Maldives,Mald.,462,3.200,73.220,116,-
+Mali,Mali,466,,,201.75,1106730
+Malta,Malta,470,35.883,14.500,172.5,2970360
+Marshall Islands,M. Is.,584,7.067,171.267,230.25,1975190
+Mauritania,Mrt.,478,,,120,8684550
+Mauritius,Mus.,480,-20.200,57.500,115,33573760
+Mexico,Mex.,484,,,31.5,5725650
+Micronesia,F.S.M.,583,6.917,158.183,115.75,"1,446,200"
+Moldova,Mda.,498,,,174,369460
+Monaco,Mco.,492,43.733,7.420,178.5,6627660
+Mongolia,Mong.,496,,,151.75,648160
+Montenegro,Mont.,499,,,87.25,2951850
+Montserrat,Monts.,500,16.750,-62.200,45.5,"25,918,200"
+Morocco,Mor.,504,,,49.25,4883200
+Mozambique,Moz.,508,,,191.75,-
+Myanmar,Myan.,104,,,244.75,34010
+Namibia,Nam.,516,,,47,
+Nauru,Nauru,520,-0.533,166.933,1.75,"72,520"
+Nepal,Nepal,524,,,38.75,-
+Netherlands,Neth.,528,,,170,87720
+New Caledonia,New C.,540,,,168.5,"8,234,500"
+New Zealand,N.Z.,554,,,71,6815930
+Nicaragua,Nic.,558,,,198.5,1406560
+Niger,Niger,562,,,142,20900
+Nigeria,Nigeria,566,,,95.25,3173940
+Niue,Niue,570,-19.050,-169.917,52,856350
+Norfolk Island,Nfk. I.,574,-29.033,167.950,53.75,817200
+North Korea,N.K.,408,,,246.25,312000
+Northern Cyprus,N. Cy.,-1,,,75.25,"238,290"
+Northern Mariana Islands,N.M.I.,580,17.000,146.000,220.75,"6,781,780"
+Norway,Nor.,578,,,204.25,16447930
+Oman,Oman,512,,,226.5,5281920
+Pakistan,Pak.,586,,,200.75,6953100
+Palau,Palau,585,7.500,134.617,113,5010480
+Palestinian Territories,Pal.,275,,,97,1968400
+Panama,Pan.,591,,,67.75,16618530
+Papua New Guinea,P.N.G.,598,,,157.5,146380
+Paraguay,Para.,600,,,78.5,505790
+Peru,Peru,604,,,176.75,1783980
+Philippines,Phil.,608,,,230.25,1271400
+Pitcairn Islands,Pit. Is.,612,-25.067,-130.100,70,"6,759,900"
+Poland,Pol.,616,,,118,3122350
+Portugal,Port.,620,,,225.5,11736460
+Puerto Rico,P.R.,630,,,180.75,
+Qatar,Qatar,634,,,236,570240
+Republic of Congo,Rep. Congo,178,,,232.5,3275160
+Romania,Rom.,642,,,36.25,38880
+Russia,Rus.,643,,,127.25,287490
+Rwanda,Rwa.,646,,,87,2767680
+Saint-Barthélemy,St. B.,652,17.900,-62.833,128.75,"20,186,250"
+Samoa,Samoa,882,-13.833,-171.750,216.25,1784980
+San Marino,S.M.,674,43.933,12.467,160,-
+São Tomé and Príncipe,S.T.P.,678,0.333,6.733,82.25,20574240
+Saudi Arabia,Saud.,682,,,166,6633450
+Senegal,Sen.,686,,,75.25,1316000
+Serbia,Serb.,688,,,93.75,
+Seychelles,Syc.,690,-4.617,55.450,228,25789500
+Sierra Leone,S.L.,694,,,134,61647210
+Singapore,Sing.,702,1.300,103.800,184,725970
+Sint Maarten,St. M.,534,18.067,63.050,186.5,"8,935,080"
+Slovakia,Svk.,703,,,247.75,99360
+Slovenia,Slo.,705,,,63.25,8953560
+Solomon Islands,S. Is.,90,,,28.25,21974430
+Somalia,Som.,706,,,69,11300000
+Somaliland,Solnd.,-3,,,114.5,"7,692,300"
+South Africa,S.Af.,710,,,58,6777300
+South Georgia and the South Sandwich Islands,S.G. S.S. Is.,239,-54.250,-36.750,27.5,
+South Korea,S.K.,410,,,187.5,799
+South Sudan,S. Sud.,728,,,188,747987
+Spain,Sp.,724,,,75.25,147
+Sri Lanka,Sri L.,144,,,231.5,138037
+St. Helena,St.H.,654,-15.950,-5.717,45.5,
+St. Kitts and Nevis,St.K.N.,659,17.300,-62.733,94.75,42
+St. Lucia,S.L.,662,14.017,-60.983,192.25,1139
+St. Martin,St. M.,663,18.067,-63.050,48.5,
+St. Pierre and Miquelon,St. P.M.,666,46.783,-56.200,74.75,1
+St. Vincent and the Grenadines,St.V.G.,670,13.167,-61.233,223.75,1906
+Sudan,Sudan,729,,,170,681028
+Suriname,Sur.,740,,,114.5,65
+Swaziland,Swz.,748,,,32,332
+Sweden,Swe.,752,,,48.75,28
+Switzerland,Switz.,756,,,65,20
+Syria,Syria,760,,,145.75,4285305
+Taiwan,Taiwan,158,,,183.5,
+Tajikistan,Tjk.,762,,,194.25,1762
+Tanzania,Tanz.,834,,,233.25,2254
+Thailand,Thai.,764,,,87.75,909
+Togo,Togo,768,,,193.75,11100
+Tonga,Tongo,776,-21.133,-175.200,182.5,100
+Trinidad and Tobago,Tr.T.,780,,,89,543
+Tunisia,Tun.,788,,,50.25,3536
+Turkey,Tur.,792,,,68,73306
+Turkmenistan,Turkm.,795,,,224.75,1519
+Turks and Caicos Islands,T.C. Is.,796,21.750,-71.583,169.25,18
+Tuvalu,Tuv.,798,8.533,179.217,195.5,3
+U.S. Minor Outlying Islands,U.S. MOI,581,19.300,166.633,237.25,
+U.S. Virgin Islands,V.I. (U.S.),850,18.350,64.933,137,
+Uganda,Uga.,800,,,125,13308
+Ukraine,Ukr.,804,,,129,339540
+United Arab Emirates,U.A.E.,784,,,132.75,183
+United Kingdom,U.K.,826,,,86,255
+United States,U.S.A.,840,39.828,-98.580,46.75,5184
+Uruguay,Ury.,858,,,217.5,182
+Uzbekistan,Uzb.,860,,,168.5,7055
+Vanuatu,Van.,548,,,49.25,1
+Vatican City,Vat.,336,41.903,12.453,175.75,
+Venezuela,Ven.,862,,,98.25,15374
+Vietnam,Viet.,704,,,130.25,318078
+Wallis and Futuna,Wlf.,876,13.300,176.200,193.5,1
+Western Sahara,W. Sah.,732,,,156,117638
+Yemen,Yem.,887,,,220.5,11450
+Zambia,Zambia,894,,,120.5,732
+Zimbabwe,Zimb.,716,,,14.5,75202

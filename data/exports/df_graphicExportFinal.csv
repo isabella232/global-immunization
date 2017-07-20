@@ -1,0 +1,222 @@
+,iso3,ISO_A3,ISO_N3,name_abbrev,GEOUNIT,NAME_LONG,population,DTP1-16,name,id,lat,lon,amt,amt_refugee
+0,ATG,-99,-99.0,Ant.,Antigua,Antigua,24480.0,99.0,Antarctica,10.0,,,137.25,"4,645,690"
+1,ATG,-99,-99.0,Barb.,Barbuda,Barbuda,24480.0,99.0,Barbados,52.0,13.167,-59.55,27.5,3536640
+2,BRB,BRB,52.0,Barb.,Barbados,Barbados,54340.0,99.0,Barbados,52.0,13.167,-59.55,27.5,3536640
+3,AFG,AFG,4.0,Afg.,Afghanistan,Afghanistan,15277900.0,73.0,Afghanistan,4.0,,,15.75,15277900
+4,AGO,AGO,24.0,Ang.,Angola,Angola,13998480.0,79.0,Angola,24.0,,,25.75,11067750
+5,AGO,AGO,24.0,Ang.,Angola,Angola,13998480.0,79.0,Anguilla,660.0,18.227,-63.049,137.75,586000
+6,ALB,ALB,8.0,Alb.,Albania,Albania,498100.0,99.0,Albania,8.0,,,32.0,11982220
+7,AND,AND,20.0,And.,Andorra,Andorra,,99.0,Andorra,20.0,42.5,1.517,163.25,24480
+8,ARE,ARE,784.0,U.A.E.,United Arab Emirates,United Arab Emirates,1316000.0,99.0,United Arab Emirates,784.0,,,132.75,183
+9,ARG,ARG,32.0,Arg.,Argentina,Argentina,11067750.0,97.0,Argentina,32.0,,,145.75,2260440
+10,ARM,ARM,51.0,Arm.,Armenia,Armenia,586000.0,97.0,Armenia,51.0,,,59.0,79000
+11,AUS,-99,36.0,A.C.Is.,Ashmore and Cartier Islands,Ashmore and Cartier Islands,4645690.0,98.0,Ashmore and Cartier Islands,36.0,-12.258,123.042,65.0,"46,107,600"
+12,AUS,AUS,36.0,Auz.,Australia,Australia,4645690.0,98.0,Australia,36.0,,,167.25,54340
+13,AUS,-99,-99.0,C.S.I.,Coral Sea Islands,Coral Sea Islands,4645690.0,98.0,,,,,,
+14,AUT,AUT,40.0,Aust.,Austria,Austria,1222900.0,99.0,Austria,40.0,,,173.25,1609560
+15,AZE,AZE,31.0,Aze.,Azerbaijan,Azerbaijan,2260440.0,98.0,Azerbaijan,31.0,,,69.25,1942930
+16,BEL,-99,-99.0,Brus.,Brussels Capital Region,Brussels,1942930.0,99.0,,,,,,
+17,BEL,-99,-99.0,Flem.,Flemish Region,Flemish Region,1942930.0,99.0,,,,,,
+18,BEL,-99,-99.0,Wal.,Walloon Region,Walloon Region,1942930.0,99.0,,,,,,
+19,BDI,BDI,108.0,Bur.,Burundi,Burundi,4888800.0,97.0,Burundi,108.0,,,232.25,11285180
+20,BEN,BEN,204.0,Benin,Benin,Benin,4805680.0,86.0,Benin,204.0,,,7.25,98670
+21,BFA,BFA,854.0,B.F.,Burkina Faso,Burkina Faso,8636850.0,95.0,Burkina Faso,854.0,,,164.75,253713060
+22,BGD,BGD,50.0,Bang.,Bangladesh,Bangladesh,46107600.0,99.0,Bangladesh,50.0,,,105.0,218160
+23,BGR,BGR,100.0,Bulg.,Bulgaria,Bulgaria,991900.0,94.0,Bulgaria,100.0,,,218.0,3611000
+24,BIH,-99,-99.0,B.D.,Brcko District,Brcko District,490980.0,90.0,,,,,,
+25,BIH,-99,-99.0,B.H.,Bosnia and Herzegovina,Federation of Bosnia and Herzegovina,490980.0,90.0,Bosnia and Herzegovina,70.0,,,73.0,163800
+26,BIH,-99,-99.0,Srp.,Republic Srpska,Republic Srpska,490980.0,90.0,,,,,,
+27,BHR,BHR,48.0,Bahr.,Bahrain,Bahrain,298600.0,99.0,Bahrain,48.0,26.028,50.55,8.0,4805680
+28,BHS,BHS,44.0,Bhs.,The Bahamas,Bahamas,79000.0,95.0,Bahamas,44.0,,,139.75,116250
+29,BLR,BLR,112.0,Bela.,Belarus,Belarus,1609560.0,99.0,Belarus,112.0,,,64.75,490980
+30,BLZ,BLZ,84.0,Belize,Belize,Belize,116250.0,98.0,Belize,84.0,,,126.0,46043360
+31,BOL,BOL,68.0,Bolivia,Bolivia,Bolivia,3536640.0,99.0,Bolivia,68.0,,,76.5,4888800
+32,BRA,BRA,76.0,Brazil,Brazil,Brazil,46043360.0,89.0,Brazil,76.0,,,171.5,10343220
+33,BRN,BRN,96.0,Brunei,Brunei,Brunei Darussalam,98670.0,99.0,Brunei,96.0,,,109.75,7003000
+34,BTN,BTN,64.0,Bhutan,Bhutan,Bhutan,218160.0,99.0,Bhutan,64.0,,,224.25,8636850
+35,BWA,BWA,72.0,Bwa.,Botswana,Botswana,710520.0,98.0,Botswana,72.0,,,4.5,4961550
+36,CAF,CAF,140.0,C.A.R.,Central African Republic,Central African Republic,2003370.0,69.0,Central African Republic,140.0,,,21.5,628350
+37,CAN,CAN,124.0,Can.,Canada,Canada,5859840.0,96.0,Canada,124.0,,,168.0,-
+38,CHE,CHE,756.0,Switz.,Switzerland,Switzerland,1271400.0,99.0,Switzerland,756.0,,,65.0,20
+39,CHL,CHL,152.0,Chile,Chile,Chile,3611000.0,99.0,Chile,152.0,,,7.25,200600
+40,CHN,CHN,156.0,China,China,China,253713060.0,99.0,China,156.0,,,8.25,
+41,CIV,CIV,384.0,I.C.,Ivory Coast,Côte d'Ivoire,,98.0,Ivory Coast,384.0,,,159.0,8900160
+42,FRA,-99,-99.0,Clp. I.,Clipperton Island,Clipperton Island,11696400.0,99.0,,,,,,
+43,FRA,FRA,249.0,Fr.,France,France,11696400.0,99.0,France,250.0,,,186.5,225620
+44,CMR,CMR,120.0,Cam.,Cameroon,Cameroon,10343220.0,92.0,Cameroon,120.0,,,24.25,2209620
+45,CYP,-99,-99.0,,Cyprus No Mans Area,Cyprus U.N. Buffer Zone,200600.0,98.0,,,,,,
+46,CYP,-99,-99.0,N. Cy.,Northern Cyprus,Northern Cyprus,200600.0,98.0,Northern Cyprus,-1.0,,,75.25,"238,290"
+47,CYP,CYP,196.0,Cyp.,Cyprus,Cyprus,200600.0,98.0,Cyprus,196.0,,,96.0,1722060
+48,COD,COD,180.0,D.R.C.,Democratic Republic of the Congo,Democratic Republic of the Congo,,80.0,Congo,180.0,,,153.5,917440
+49,COG,COG,178.0,Rep. Congo,Republic of Congo,Republic of Congo,2209620.0,85.0,Republic of Congo,178.0,,,232.5,3275160
+50,COK,COK,184.0,Cook Is.,Cook Islands,Cook Islands,,99.0,Cook Islands,184.0,-21.2,-159.767,196.25,296670
+51,COL,COL,170.0,Col.,Colombia,Colombia,11285180.0,93.0,Colombia,170.0,,,107.0,
+52,COM,COM,174.0,Com.,Comoros,Comoros,325600.0,96.0,Comoros,174.0,-11.683,43.267,95.75,
+53,CPV,CPV,132.0,C.Vd.,Cape Verde,Cape Verde,163800.0,96.0,Cape Verde,132.0,15.111,-23.617,15.75,1079320
+54,CRI,CRI,188.0,C.R.,Costa Rica,Costa Rica,1079320.0,99.0,Costa Rica,188.0,,,222.25,-
+55,CUB,CUB,192.0,Cuba,Cuba,Cuba,1837600.0,99.0,Cuba,192.0,,,100.25,4655000
+56,CZE,CZE,203.0,Cz. Rep.,Czech Republic,Czech Republic,,98.0,Czech Republic,203.0,,,196.25,469160
+57,DEU,DEU,276.0,Ger.,Germany,Germany,10674820.0,95.0,Germany,276.0,,,111.75,71277570
+58,DJI,DJI,262.0,Dji.,Djibouti,Djibouti,296670.0,90.0,Djibouti,262.0,,,149.75,209600
+59,DMA,DMA,212.0,D'inca,Dominica,Dominica,,99.0,Dominica,212.0,15.3,-61.383,145.0,43032370
+60,DNK,DNK,208.0,Den.,Denmark,Denmark,917440.0,97.0,Denmark,208.0,,,23.75,2128980
+61,DOM,DOM,214.0,Dom. Rep.,Dominican Republic,Dominican Republic,3122430.0,98.0,Dominican Republic,214.0,,,222.0,253680
+62,DZA,DZA,12.0,Alg.,Algeria,Algeria,11982220.0,96.0,Algeria,12.0,,,233.0,-
+63,ECU,ECU,218.0,Ecu.,Ecuador,Ecuador,4655000.0,94.0,Ecuador,218.0,,,35.5,11696400
+64,EGY,EGY,818.0,Egypt,Egypt,Egypt,32192490.0,96.0,Egypt,818.0,,,125.0,729000
+65,ERI,ERI,232.0,Erit.,Eritrea,Eritrea,2128980.0,97.0,Eritrea,232.0,,,7.25,10674820
+66,GBR,-99,-99.0,Dhek.,Dhekelia Sovereign Base Area,Dhekelia,,98.0,,,,,,
+67,GBR,-99,-99.0,Akr.,Akrotiri Sovereign Base Area,Akrotiri,,98.0,,,,,,
+68,ESP,ESP,724.0,Sp.,Spain,Spain,6953100.0,99.0,Spain,724.0,,,75.25,147
+69,EST,EST,233.0,Est.,Estonia,Estonia,209600.0,94.0,Estonia,233.0,,,174.5,11245260
+70,ETH,ETH,231.0,Eth.,Ethiopia,Ethiopia,43032370.0,86.0,Ethiopia,231.0,,,193.75,1562400
+71,FIN,FIN,246.0,Fin.,Finland,Finland,883680.0,99.0,Finland,246.0,,,85.75,763010
+72,FJI,FJI,242.0,Fiji,Fiji,Fiji,253680.0,99.0,Fiji,242.0,,,74.5,5341140
+73,FSM,FSM,583.0,F.S.M.,Federated States of Micronesia,Federated States of Micronesia,,95.0,Micronesia,583.0,6.917,158.183,115.75,"1,446,200"
+74,GAB,GAB,266.0,Gabon,Gabon,Gabon,729000.0,83.0,Gabon,266.0,,,85.25,1361080
+75,PSE,-99,275.0,Gaza,Gaza,Gaza,1968400.0,99.0,,,,,,
+76,PSE,-99,275.0,W.B.,West Bank,West Bank,1968400.0,99.0,,,,,,
+77,GEO,-99,-99.0,Ajaria,Ajaria,Adjara,743280.0,97.0,,,,,,
+78,GEO,-99,-99.0,Geo.,Georgia,Georgia,743280.0,97.0,Georgia,268.0,,,176.75,374970400
+79,GHA,GHA,288.0,Ghana,Ghana,Ghana,11245260.0,94.0,Ghana,288.0,,,188.75,19479120
+80,GIN,GIN,324.0,Gin.,Guinea,Guinea,5341140.0,65.0,Guinea,324.0,,,117.5,5097120
+81,GMB,GMB,270.0,Gambia,Gambia,The Gambia,945450.0,99.0,Gambia,270.0,,,217.5,67000
+82,GNB,GNB,624.0,GnB.,Guinea Bissau,Guinea-Bissau,763010.0,95.0,Guinea-Bissau,624.0,,,171.25,19880000
+83,GNQ,GNQ,226.0,Eq. G.,Equatorial Guinea,Equatorial Guinea,469160.0,40.0,Equatorial Guinea,226.0,,,242.5,743280
+84,GRC,GRC,300.0,Greece,Greece,Greece,1562400.0,99.0,Greece,300.0,,,82.25,1047640
+85,GRD,GRD,308.0,Gren.,Grenada,Grenada,28080.0,98.0,Grenada,308.0,12.05,-61.75,46.25,8310400
+86,GTM,GTM,320.0,Guat.,Guatemala,Guatemala,5919900.0,96.0,Guatemala,320.0,,,102.75,16572920
+87,GUY,GUY,328.0,Guy.,Guyana,Guyana,225620.0,97.0,Guyana,328.0,,,36.75,40600
+88,HND,HND,340.0,Hond.,Honduras,Honduras,2964800.0,99.0,Honduras,340.0,,,163.5,
+89,HRV,HRV,191.0,Cro.,Croatia,Croatia,628350.0,98.0,Croatia,191.0,,,158.25,3122430
+90,HTI,HTI,332.0,Haiti,Haiti,Haiti,3623730.0,78.0,Haiti,332.0,,,124.25,868770
+91,HUN,HUN,348.0,Hun.,Hungary,Hungary,1361080.0,99.0,Hungary,348.0,,,19.0,1398860
+92,IDN,IDN,360.0,Indo.,Indonesia,Indonesia,71277570.0,95.0,Indonesia,360.0,,,224.0,1785000
+93,IND,IND,356.0,India,India,India,374970400.0,91.0,India,356.0,,,217.25,1987440000
+94,IRQ,-99,-99.0,KRG,Iraqi Kurdistan,Iraqi Kurdistan,15310000.0,73.0,,,,,,
+95,IRQ,-99,-99.0,Iraq,Iraq,Iraq,15310000.0,73.0,Iraq,368.0,,,206.0,93280
+96,IRL,IRL,372.0,Ire.,Ireland,Ireland,1047640.0,98.0,Ireland,372.0,,,180.75,10484110
+97,IRN,IRN,364.0,Iran,Iran,Iran,19479120.0,99.0,Iran,364.0,,,246.75,433500
+98,ISL,ISL,352.0,Iceland,Iceland,Iceland,67000.0,96.0,Iceland,352.0,,,83.5,781550
+99,ISR,ISR,376.0,Isr.,Israel,Israel,2330160.0,94.0,Israel,376.0,,,0.75,7589760
+100,ITA,ITA,380.0,Italy,Italy,Italy,8310400.0,97.0,Italy,380.0,,,87.5,100280
+101,JAM,JAM,388.0,Jam.,Jamaica,Jamaica,664700.0,99.0,Jamaica,388.0,,,241.25,60340
+102,JOR,JOR,400.0,Jord.,Jordan,Jordan,3492720.0,99.0,Jordan,400.0,,,164.0,227700
+103,JPN,JPN,392.0,Japan,Japan,Japan,16572920.0,99.0,Japan,392.0,,,53.25,-
+104,KAZ,-99,-99.0,Bayk.,Baykonur Cosmodrome,Baikonur Cosmodrome,5097120.0,93.0,,,,,,
+105,KAZ,KAZ,398.0,Kaz.,Kazakhstan,Kazakhstan,5097120.0,93.0,Kazakhstan,398.0,,,42.0,34874010
+106,KEN,KEN,404.0,Ken.,Kenya,Kenya,19880000.0,96.0,Kenya,404.0,,,82.5,
+107,KGZ,KGZ,417.0,Kgz.,Kyrgyzstan,Kyrgyzstan,1934400.0,97.0,Kyrgyzstan,417.0,,,91.25,9649800
+108,KHM,KHM,116.0,Camb.,Cambodia,Cambodia,4961550.0,92.0,Cambodia,116.0,,,49.75,325600
+109,KIR,KIR,296.0,Kir.,Kiribati,Kiribati,40600.0,82.0,Kiribati,296.0,1.467,173.033,207.0,-
+110,KNA,KNA,659.0,St.K.N.,Saint Kitts and Nevis,Saint Kitts and Nevis,,99.0,St. Kitts and Nevis,659.0,17.3,-62.733,94.75,42
+111,KOR,KOR,410.0,S.K.,South Korea,Republic of Korea,6627660.0,98.0,South Korea,410.0,,,187.5,799
+112,SRB,-99,-99.0,Kos.,Kosovo,Kosovo,1406560.0,97.0,Kosovo,-2.0,,,179.25,"922,800"
+113,SRB,-99,-99.0,Serb.,Serbia,Serbia,1406560.0,97.0,Serbia,688.0,,,93.75,
+114,SRB,-99,-99.0,Vojv.,Vojvodina,Vojvodina,1406560.0,97.0,,,,,,
+115,KWT,KWT,414.0,Kwt.,Kuwait,Kuwait,868770.0,99.0,Kuwait,414.0,,,118.25,113220
+116,LAO,LAO,418.0,Laos,Laos,Lao PDR,,85.0,Laos,418.0,,,35.75,13351050
+117,LBN,LBN,422.0,Leb.,Lebanon,Lebanon,1398860.0,84.0,Lebanon,422.0,,,235.75,937580
+118,LBR,LBR,430.0,Liberia,Liberia,Liberia,1987440.0,99.0,Liberia,430.0,,,188.0,9084550
+119,LBY,LBY,434.0,Libya,Libya,Libya,1785000.0,98.0,Libya,434.0,,,244.0,2725760
+120,LCA,LCA,662.0,S.L.,Saint Lucia,Saint Lucia,34010.0,95.0,Sierra Leone,694.0,,,134.0,61647210
+121,LCA,LCA,662.0,S.L.,Saint Lucia,Saint Lucia,34010.0,95.0,St. Lucia,662.0,14.017,-60.983,192.25,1139
+122,SLE,SLE,694.0,S.L.,Sierra Leone,Sierra Leone,3173940.0,97.0,Sierra Leone,694.0,,,134.0,61647210
+123,SLE,SLE,694.0,S.L.,Sierra Leone,Sierra Leone,3173940.0,97.0,St. Lucia,662.0,14.017,-60.983,192.25,1139
+124,LKA,LKA,144.0,Sri L.,Sri Lanka,Sri Lanka,5010480.0,99.0,Sri Lanka,144.0,,,231.5,138037
+125,LSO,LSO,426.0,Les.,Lesotho,Lesotho,781550.0,98.0,Lesotho,426.0,,,122.25,-
+126,LTU,LTU,440.0,Lith.,Lithuania,Lithuania,433500.0,97.0,Lithuania,440.0,,,61.0,1803220
+127,LUX,LUX,442.0,Lux.,Luxembourg,Luxembourg,93280.0,99.0,Luxembourg,442.0,,,16.75,10738500
+128,LVA,LVA,428.0,Lat.,Latvia,Latvia,292500.0,99.0,Latvia,428.0,,,226.0,14410170
+129,MAR,MAR,504.0,Mor.,Morocco,Morocco,9649800.0,99.0,Morocco,504.0,,,49.25,4883200
+130,MAR,ESH,732.0,W. Sah.,Western Sahara,Western Sahara,9649800.0,99.0,Western Sahara,732.0,,,156.0,117638
+131,MCO,MCO,492.0,Mco.,Monaco,Monaco,,99.0,Monaco,492.0,43.733,7.42,178.5,6627660
+132,MDA,MDA,498.0,Mda.,Moldova,Moldova,648160.0,94.0,Moldova,498.0,,,174.0,369460
+133,MDG,MDG,450.0,Mad.,Madagascar,Madagascar,10484110.0,84.0,Madagascar,450.0,,,49.75,954900
+134,MDV,MDV,462.0,Mald.,Maldives,Maldives,100280.0,99.0,Maldives,462.0,3.2,73.22,116.0,-
+135,MEX,MEX,484.0,Mex.,Mexico,Mexico,34874010.0,99.0,Mexico,484.0,,,31.5,5725650
+136,MHL,MHL,584.0,M. Is.,Marshall Islands,Marshall Islands,,87.0,Marshall Islands,584.0,7.067,171.267,230.25,1975190
+137,MKD,MKD,807.0,Mkd.,Macedonia,Macedonia,,97.0,Macedonia,807.0,,,19.0,-
+138,MLI,MLI,466.0,Mali,Mali,Mali,8900160.0,86.0,Mali,466.0,,,201.75,1106730
+139,MLT,MLT,470.0,Malta,Malta,Malta,60340.0,97.0,Malta,470.0,35.883,14.5,172.5,2970360
+140,MMR,MMR,104.0,Myan.,Myanmar,Myanmar,14410170.0,94.0,Myanmar,104.0,,,244.75,34010
+141,MNE,MNE,499.0,Mont.,Montenegro,Montenegro,113220.0,97.0,Montenegro,499.0,,,87.25,2951850
+142,MNG,MNG,496.0,Mong.,Mongolia,Mongolia,922800.0,99.0,Mongolia,496.0,,,151.75,648160
+143,MOZ,MOZ,508.0,Moz.,Mozambique,Mozambique,13351050.0,90.0,Mozambique,508.0,,,191.75,-
+144,MRT,MRT,478.0,Mrt.,Mauritania,Mauritania,1768000.0,87.0,Mauritania,478.0,,,120.0,8684550
+145,MUS,MUS,480.0,Mus.,Mauritius,Mauritius,227700.0,97.0,Mauritius,480.0,-20.2,57.5,115.0,33573760
+146,MWI,MWI,454.0,Mal.,Malawi,Malawi,8193680.0,89.0,Malawi,454.0,,,213.5,1019920
+147,MYS,MYS,458.0,Malay.,Malaysia,Malaysia,7589760.0,99.0,Malaysia,458.0,,,0.75,68955600
+148,NAM,NAM,516.0,Nam.,Namibia,Namibia,937580.0,98.0,Namibia,516.0,,,47.0,
+149,NER,NER,562.0,Niger,Niger,Niger,10738500.0,87.0,Niger,562.0,,,142.0,20900
+150,NGA,NGA,566.0,Nigeria,Nigeria,Nigeria,83989840.0,64.0,Nigeria,566.0,,,95.25,3173940
+151,NIC,NIC,558.0,Nic.,Nicaragua,Nicaragua,1803220.0,99.0,Nicaragua,558.0,,,198.5,1406560
+152,NIU,NIU,570.0,Niue,Niue,Niue,,99.0,Niue,570.0,-19.05,-169.917,52.0,856350
+153,NLD,-99,-99.0,Neth.,Netherlands,Netherlands,2725760.0,98.0,Netherlands,528.0,,,170.0,87720
+154,NOR,NOR,578.0,Nor.,Norway,Norway,954900.0,99.0,Norway,578.0,,,204.25,16447930
+155,NPL,NPL,524.0,Nepal,Nepal,Nepal,9084550.0,92.0,Nepal,524.0,,,38.75,-
+156,NRU,NRU,520.0,Nauru,Nauru,Nauru,,98.0,Nauru,520.0,-0.533,166.933,1.75,"72,520"
+157,NZL,NZL,554.0,N.Z.,New Zealand,New Zealand,941200.0,92.0,New Zealand,554.0,,,71.0,6815930
+158,OMN,OMN,512.0,Oman,Oman,Oman,1019920.0,99.0,Oman,512.0,,,226.5,5281920
+159,PAK,PAK,586.0,Pak.,Pakistan,Pakistan,68955600.0,79.0,Pakistan,586.0,,,200.75,6953100
+160,PAN,PAN,591.0,Pan.,Panama,Panama,1106730.0,96.0,Panama,591.0,,,67.75,16618530
+161,PER,PER,604.0,Peru,Peru,Peru,8684550.0,94.0,Peru,604.0,,,176.75,1783980
+162,PHL,PHL,608.0,Phil.,Philippines,Philippines,33573760.0,87.0,Philippines,608.0,,,230.25,1271400
+163,PLW,PLW,585.0,Palau,Palau,Palau,,99.0,Palau,585.0,7.5,134.617,113.0,5010480
+164,PNG,-99,-99.0,Boug.,Bougainville,Bougainville,2970360.0,87.0,,,,,,
+165,PNG,-99,-99.0,P.N.G.,Papua New Guinea,Papua New Guinea,2970360.0,87.0,Papua New Guinea,598.0,,,157.5,146380
+166,POL,POL,616.0,Pol.,Poland,Poland,5725650.0,99.0,Poland,616.0,,,118.0,3122350
+167,PRK,PRK,408.0,N.K.,North Korea,Dem. Rep. Korea,,97.0,North Korea,408.0,,,246.25,312000
+168,PRT,-99,-99.0,Port.,Portugal,Portugal,1446200.0,99.0,Portugal,620.0,,,225.5,11736460
+169,PRY,PRY,600.0,Para.,Paraguay,Paraguay,1975190.0,99.0,Paraguay,600.0,,,78.5,505790
+170,QAT,QAT,634.0,Qatar,Qatar,Qatar,369460.0,99.0,Qatar,634.0,,,236.0,570240
+171,ROU,ROU,642.0,Rom.,Romania,Romania,2951850.0,96.0,Romania,642.0,,,36.25,38880
+172,RUS,RUS,643.0,Rus.,Russia,Russian Federation,25918200.0,97.0,Russia,643.0,,,127.25,287490
+173,RWA,RWA,646.0,Rwa.,Rwanda,Rwanda,4883200.0,99.0,Rwanda,646.0,,,87.0,2767680
+174,SAU,SAU,682.0,Saud.,Saudi Arabia,Saudi Arabia,8234500.0,98.0,Saudi Arabia,682.0,,,166.0,6633450
+175,SDN,SDN,729.0,Sudan,Sudan,Sudan,16618530.0,97.0,Sudan,729.0,,,170.0,681028
+176,SSD,SSD,728.0,S. Sud.,South Sudan,South Sudan,5281920.0,35.0,South Sudan,728.0,,,188.0,747987
+177,SEN,SEN,686.0,Sen.,Senegal,Senegal,6815930.0,96.0,Senegal,686.0,,,75.25,1316000
+178,SGP,SGP,702.0,Sing.,Singapore,Singapore,856350.0,98.0,Singapore,702.0,1.3,103.8,184.0,725970
+179,SLB,SLB,90.0,S. Is.,Solomon Islands,Solomon Islands,238290.0,99.0,Solomon Islands,90.0,,,28.25,21974430
+180,SLV,SLV,222.0,El. S.,El Salvador,El Salvador,1722060.0,97.0,El Salvador,222.0,,,93.5,945450
+181,SMR,SMR,674.0,S.M.,San Marino,San Marino,,78.0,San Marino,674.0,43.933,12.467,160.0,-
+182,SOM,-99,-99.0,Solnd.,Somaliland,Somaliland,6781780.0,52.0,Somaliland,-3.0,,,114.5,"7,692,300"
+183,SOM,-99,-99.0,Punt.,Puntland,Puntland,6781780.0,52.0,,,,,,
+184,SOM,-99,-99.0,Som.,Somalia,Somalia,6781780.0,52.0,Somalia,706.0,,,69.0,11300000
+185,STP,STP,678.0,S.T.P.,Sao Tome and Principe,São Tomé and Principe,87720.0,97.0,São Tomé and Príncipe,678.0,0.333,6.733,82.25,20574240
+186,SUR,SUR,740.0,Sur.,Suriname,Suriname,146380.0,92.0,Suriname,740.0,,,114.5,65
+187,SVK,SVK,703.0,Svk.,Slovakia,Slovakia,817200.0,99.0,Slovakia,703.0,,,247.75,99360
+188,SVN,SVN,705.0,Slo.,Slovenia,Slovenia,312000.0,98.0,Slovenia,705.0,,,63.25,8953560
+189,SWE,SWE,752.0,Swe.,Sweden,Sweden,1783980.0,99.0,Sweden,752.0,,,48.75,28
+190,SWZ,SWZ,748.0,Swz.,Swaziland,Swaziland,505790.0,96.0,Swaziland,748.0,,,32.0,332
+191,SYC,SYC,690.0,Syc.,Seychelles,Seychelles,20900.0,98.0,Seychelles,690.0,-4.617,55.45,228.0,25789500
+192,SYR,-99,-99.0,DOF,UNDOF,UNDOF Zone,6759900.0,61.0,,,,,,
+193,SYR,SYR,760.0,Syria,Syria,Syrian Arab Republic,6759900.0,61.0,Syria,760.0,,,145.75,4285305
+194,TCD,TCD,148.0,Chad,Chad,Chad,7003000.0,60.0,Chad,148.0,,,236.25,1837600
+195,TGO,TGO,768.0,Togo,Togo,Togo,3275160.0,93.0,Togo,768.0,,,193.75,11100
+196,THA,THA,764.0,Thai.,Thailand,Thailand,11736460.0,99.0,Thailand,764.0,,,87.75,909
+197,TJK,TJK,762.0,Tjk.,Tajikistan,Tajikistan,3122350.0,98.0,Tajikistan,762.0,,,194.25,1762
+198,TKM,TKM,795.0,Turkm.,Turkmenistan,Turkmenistan,1784980.0,99.0,Turkmenistan,795.0,,,224.75,1519
+199,TLS,TLS,626.0,T.L.,East Timor,Timor-Leste,570240.0,95.0,East Timor,626.0,,,138.0,883680
+200,TON,TON,776.0,Tongo,Tonga,Tonga,38880.0,83.0,Tonga,776.0,-21.133,-175.2,182.5,100
+201,TTO,TTO,780.0,Tr.T.,Trinidad and Tobago,Trinidad and Tobago,287490.0,97.0,Trinidad and Tobago,780.0,,,89.0,543
+202,TUN,TUN,788.0,Tun.,Tunisia,Tunisia,2767680.0,99.0,Tunisia,788.0,,,50.25,3536
+203,TUR,TUR,792.0,Tur.,Turkey,Turkey,20186250.0,99.0,Turkey,792.0,,,68.0,73306
+204,TUV,TUV,798.0,Tuv.,Tuvalu,Tuvalu,,99.0,Tuvalu,798.0,8.533,179.217,195.5,3
+205,TZA,TZA,834.0,Tanz.,Tanzania,Tanzania,25789500.0,99.0,Tanzania,834.0,,,233.25,2254
+206,TZA,-99,-99.0,Zan.,Zanzibar,Zanzibar,25789500.0,99.0,,,,,,
+207,UGA,UGA,800.0,Uga.,Uganda,Uganda,20574240.0,89.0,Uganda,800.0,,,125.0,13308
+208,UKR,UKR,804.0,Ukr.,Ukraine,Ukraine,6633450.0,42.0,Ukraine,804.0,,,129.0,339540
+209,URY,URY,858.0,Ury.,Uruguay,Uruguay,725970.0,97.0,Uruguay,858.0,,,217.5,182
+210,USA,USA,840.0,U.S.A.,United States of America,United States,61647210.0,97.0,United States,840.0,39.828,-98.58,46.75,5184
+211,UZB,UZB,860.0,Uzb.,Uzbekistan,Uzbekistan,8935080.0,99.0,Uzbekistan,860.0,,,168.5,7055
+212,VCT,VCT,670.0,St.V.G.,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,,99.0,St. Vincent and the Grenadines,670.0,13.167,-61.233,223.75,1906
+213,VEN,VEN,862.0,Ven.,Venezuela,Venezuela,8953560.0,98.0,Venezuela,862.0,,,98.25,15374
+214,VNM,VNM,704.0,Viet.,Vietnam,Vietnam,21974430.0,96.0,Vietnam,704.0,,,130.25,318078
+215,VUT,VUT,548.0,Van.,Vanuatu,Vanuatu,99360.0,75.0,Vanuatu,548.0,,,49.25,1
+216,WSM,WSM,882.0,Samoa,Samoa,Samoa,72520.0,95.0,Samoa,882.0,-13.833,-171.75,216.25,1784980
+217,YEM,YEM,887.0,Yem.,Yemen,Yemen,11300000.0,76.0,Yemen,887.0,,,220.5,11450
+218,ZAF,ZAF,710.0,S.Af.,South Africa,South Africa,16447930.0,78.0,South Africa,710.0,,,58.0,6777300
+219,ZMB,ZMB,894.0,Zambia,Zambia,Zambia,7692300.0,99.0,Zambia,894.0,,,120.5,732
+220,ZWE,ZWE,716.0,Zimb.,Zimbabwe,Zimbabwe,6777300.0,94.0,Zimbabwe,716.0,,,14.5,75202

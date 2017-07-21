@@ -1,0 +1,196 @@
+,ISO_A3,ADM0_DIF,LEVEL,ADM0_A3,ADM0_A3_IS,GU_A3,ISO_N3,TYPE,GEOUNIT,ABBREV,NAME,NAME_LONG
+0,ABW,1.0,2.0,ABW,ABW,ABW,533,Country,Aruba,Aruba,Aruba,Aruba
+1,AFG,0.0,2.0,AFG,AFG,AFG,4,Sovereign country,Afghanistan,Afg.,Afghanistan,Afghanistan
+2,AGO,0.0,2.0,AGO,AGO,AGO,24,Sovereign country,Angola,Ang.,Angola,Angola
+3,ALB,0.0,2.0,ALB,ALB,ALB,8,Sovereign country,Albania,Alb.,Albania,Albania
+4,ALA,1.0,2.0,ALD,ALA,ALD,248,Country,Aland,Aland,Aland,Aland Islands
+5,AND,0.0,2.0,AND,AND,AND,20,Sovereign country,Andorra,And.,Andorra,Andorra
+6,ARE,0.0,2.0,ARE,ARE,ARE,784,Sovereign country,United Arab Emirates,U.A.E.,United Arab Emirates,United Arab Emirates
+7,ARG,0.0,2.0,ARG,ARG,ARG,32,Sovereign country,Argentina,Arg.,Argentina,Argentina
+8,ARM,0.0,2.0,ARM,ARM,ARM,51,Sovereign country,Armenia,Arm.,Armenia,Armenia
+9,AUS,1.0,2.0,AUS,AUS,AUS,36,Country,Australia,Auz.,Australia,Australia
+10,AUT,0.0,2.0,AUT,AUT,AUT,40,Sovereign country,Austria,Aust.,Austria,Austria
+11,AZE,0.0,2.0,AZE,AZE,AZE,31,Sovereign country,Azerbaijan,Aze.,Azerbaijan,Azerbaijan
+12,BDI,0.0,2.0,BDI,BDI,BDI,108,Sovereign country,Burundi,Bur.,Burundi,Burundi
+13,BEN,0.0,2.0,BEN,BEN,BEN,204,Sovereign country,Benin,Benin,Benin,Benin
+14,BFA,0.0,2.0,BFA,BFA,BFA,854,Sovereign country,Burkina Faso,B.F.,Burkina Faso,Burkina Faso
+15,BGD,0.0,2.0,BGD,BGD,BGD,50,Sovereign country,Bangladesh,Bang.,Bangladesh,Bangladesh
+16,BGR,0.0,2.0,BGR,BGR,BGR,100,Sovereign country,Bulgaria,Bulg.,Bulgaria,Bulgaria
+17,BHR,0.0,2.0,BHR,BHR,BHR,48,Sovereign country,Bahrain,Bahr.,Bahrain,Bahrain
+18,BHS,0.0,2.0,BHS,BHS,BHS,44,Sovereign country,The Bahamas,Bhs.,Bahamas,Bahamas
+19,BLR,0.0,2.0,BLR,BLR,BLR,112,Sovereign country,Belarus,Bela.,Belarus,Belarus
+20,BLZ,0.0,2.0,BLZ,BLZ,BLZ,84,Sovereign country,Belize,Belize,Belize,Belize
+21,BOL,0.0,2.0,BOL,BOL,BOL,68,Sovereign country,Bolivia,Bolivia,Bolivia,Bolivia
+22,BRA,0.0,2.0,BRA,BRA,BRA,76,Sovereign country,Brazil,Brazil,Brazil,Brazil
+23,BRB,0.0,2.0,BRB,BRB,BRB,52,Sovereign country,Barbados,Barb.,Barbados,Barbados
+24,BRN,0.0,2.0,BRN,BRN,BRN,96,Sovereign country,Brunei,Brunei,Brunei,Brunei Darussalam
+25,BTN,0.0,2.0,BTN,BTN,BTN,64,Sovereign country,Bhutan,Bhutan,Bhutan,Bhutan
+26,BWA,0.0,2.0,BWA,BWA,BWA,72,Sovereign country,Botswana,Bwa.,Botswana,Botswana
+27,CAF,0.0,2.0,CAF,CAF,CAF,140,Sovereign country,Central African Republic,C.A.R.,Central African Rep.,Central African Republic
+28,CAN,0.0,2.0,CAN,CAN,CAN,124,Sovereign country,Canada,Can.,Canada,Canada
+29,CHE,0.0,2.0,CHE,CHE,CHE,756,Sovereign country,Switzerland,Switz.,Switzerland,Switzerland
+30,CHL,0.0,2.0,CHL,CHL,CHL,152,Sovereign country,Chile,Chile,Chile,Chile
+31,CHN,1.0,2.0,CHN,CHN,CHN,156,Country,China,China,China,China
+32,CIV,0.0,2.0,CIV,CIV,CIV,384,Sovereign country,Ivory Coast,I.C.,Côte d'Ivoire,Côte d'Ivoire
+33,CMR,0.0,2.0,CMR,CMR,CMR,120,Sovereign country,Cameroon,Cam.,Cameroon,Cameroon
+34,COD,0.0,2.0,COD,COD,COD,180,Sovereign country,Democratic Republic of the Congo,D.R.C.,Dem. Rep. Congo,Democratic Republic of the Congo
+35,COG,0.0,2.0,COG,COG,COG,178,Sovereign country,Republic of Congo,Rep. Congo,Congo,Republic of Congo
+36,COL,0.0,2.0,COL,COL,COL,170,Sovereign country,Colombia,Col.,Colombia,Colombia
+37,COM,0.0,2.0,COM,COM,COM,174,Sovereign country,Comoros,Com.,Comoros,Comoros
+38,CPV,0.0,2.0,CPV,CPV,CPV,132,Sovereign country,Cape Verde,C.Vd.,Cape Verde,Cape Verde
+39,CRI,0.0,2.0,CRI,CRI,CRI,188,Sovereign country,Costa Rica,C.R.,Costa Rica,Costa Rica
+40,CUB,0.0,2.0,CUB,CUB,CUB,192,Sovereign country,Cuba,Cuba,Cuba,Cuba
+41,CUW,1.0,2.0,CUW,CUW,CUW,531,Country,Curaçao,Cur.,Curaçao,Curaçao
+42,-99,0.0,2.0,CYN,CYP,CYN,-99,Sovereign country,Northern Cyprus,N. Cy.,N. Cyprus,Northern Cyprus
+43,CYP,0.0,2.0,CYP,CYP,CYP,196,Sovereign country,Cyprus,Cyp.,Cyprus,Cyprus
+44,CZE,0.0,2.0,CZE,CZE,CZE,203,Sovereign country,Czech Republic,Cz. Rep.,Czech Rep.,Czech Republic
+45,DEU,0.0,2.0,DEU,DEU,DEU,276,Sovereign country,Germany,Ger.,Germany,Germany
+46,DJI,0.0,2.0,DJI,DJI,DJI,262,Sovereign country,Djibouti,Dji.,Djibouti,Djibouti
+47,DMA,0.0,2.0,DMA,DMA,DMA,212,Sovereign country,Dominica,D'inca,Dominica,Dominica
+48,DNK,1.0,2.0,DNK,DNK,DNK,208,Country,Denmark,Den.,Denmark,Denmark
+49,DOM,0.0,2.0,DOM,DOM,DOM,214,Sovereign country,Dominican Republic,Dom. Rep.,Dominican Rep.,Dominican Republic
+50,DZA,0.0,2.0,DZA,DZA,DZA,12,Sovereign country,Algeria,Alg.,Algeria,Algeria
+51,ECU,0.0,2.0,ECU,ECU,ECU,218,Sovereign country,Ecuador,Ecu.,Ecuador,Ecuador
+52,EGY,0.0,2.0,EGY,EGY,EGY,818,Sovereign country,Egypt,Egypt,Egypt,Egypt
+53,ERI,0.0,2.0,ERI,ERI,ERI,232,Sovereign country,Eritrea,Erit.,Eritrea,Eritrea
+54,ESP,0.0,2.0,ESP,ESP,ESP,724,Sovereign country,Spain,Sp.,Spain,Spain
+55,EST,0.0,2.0,EST,EST,EST,233,Sovereign country,Estonia,Est.,Estonia,Estonia
+56,ETH,0.0,2.0,ETH,ETH,ETH,231,Sovereign country,Ethiopia,Eth.,Ethiopia,Ethiopia
+57,FIN,1.0,2.0,FIN,FIN,FIN,246,Country,Finland,Fin.,Finland,Finland
+58,FJI,0.0,2.0,FJI,FJI,FJI,242,Sovereign country,Fiji,Fiji,Fiji,Fiji
+59,FSM,0.0,2.0,FSM,FSM,FSM,583,Sovereign country,Federated States of Micronesia,F.S.M.,Micronesia,Federated States of Micronesia
+60,GAB,0.0,2.0,GAB,GAB,GAB,266,Sovereign country,Gabon,Gabon,Gabon,Gabon
+61,GGY,1.0,2.0,GGY,GGY,GGY,831,Country,Guernsey,Guern.,Guernsey,Guernsey
+62,GHA,0.0,2.0,GHA,GHA,GHA,288,Sovereign country,Ghana,Ghana,Ghana,Ghana
+63,GIN,0.0,2.0,GIN,GIN,GIN,324,Sovereign country,Guinea,Gin.,Guinea,Guinea
+64,GMB,0.0,2.0,GMB,GMB,GMB,270,Sovereign country,Gambia,Gambia,Gambia,The Gambia
+65,GNB,0.0,2.0,GNB,GNB,GNB,624,Sovereign country,Guinea Bissau,GnB.,Guinea-Bissau,Guinea-Bissau
+66,GNQ,0.0,2.0,GNQ,GNQ,GNQ,226,Sovereign country,Equatorial Guinea,Eq. G.,Eq. Guinea,Equatorial Guinea
+67,GRC,0.0,2.0,GRC,GRC,GRC,300,Sovereign country,Greece,Greece,Greece,Greece
+68,GRD,0.0,2.0,GRD,GRD,GRD,308,Sovereign country,Grenada,Gren.,Grenada,Grenada
+69,GRL,1.0,2.0,GRL,GRL,GRL,304,Country,Greenland,Grlnd.,Greenland,Greenland
+70,GTM,0.0,2.0,GTM,GTM,GTM,320,Sovereign country,Guatemala,Guat.,Guatemala,Guatemala
+71,GUY,0.0,2.0,GUY,GUY,GUY,328,Sovereign country,Guyana,Guy.,Guyana,Guyana
+72,HKG,1.0,2.0,HKG,HKG,HKG,344,Country,Hong Kong S.A.R.,H.K.,Hong Kong,Hong Kong
+73,HND,0.0,2.0,HND,HND,HND,340,Sovereign country,Honduras,Hond.,Honduras,Honduras
+74,HRV,0.0,2.0,HRV,HRV,HRV,191,Sovereign country,Croatia,Cro.,Croatia,Croatia
+75,HTI,0.0,2.0,HTI,HTI,HTI,332,Sovereign country,Haiti,Haiti,Haiti,Haiti
+76,HUN,0.0,2.0,HUN,HUN,HUN,348,Sovereign country,Hungary,Hun.,Hungary,Hungary
+77,IDN,0.0,2.0,IDN,IDN,IDN,360,Sovereign country,Indonesia,Indo.,Indonesia,Indonesia
+78,IMN,1.0,2.0,IMN,IMN,IMN,833,Country,Isle of Man,IoMan,Isle of Man,Isle of Man
+79,IND,0.0,2.0,IND,IND,IND,356,Sovereign country,India,India,India,India
+80,IRL,0.0,2.0,IRL,IRL,IRL,372,Sovereign country,Ireland,Ire.,Ireland,Ireland
+81,IRN,0.0,2.0,IRN,IRN,IRN,364,Sovereign country,Iran,Iran,Iran,Iran
+82,ISL,0.0,2.0,ISL,ISL,ISL,352,Sovereign country,Iceland,Iceland,Iceland,Iceland
+83,ISR,1.0,2.0,ISR,ISR,ISR,376,Country,Israel,Isr.,Israel,Israel
+84,ITA,0.0,2.0,ITA,ITA,ITA,380,Sovereign country,Italy,Italy,Italy,Italy
+85,JAM,0.0,2.0,JAM,JAM,JAM,388,Sovereign country,Jamaica,Jam.,Jamaica,Jamaica
+86,JEY,1.0,2.0,JEY,JEY,JEY,832,Country,Jersey,Jey.,Jersey,Jersey
+87,JOR,0.0,2.0,JOR,JOR,JOR,400,Sovereign country,Jordan,Jord.,Jordan,Jordan
+88,JPN,0.0,2.0,JPN,JPN,JPN,392,Sovereign country,Japan,Japan,Japan,Japan
+89,-99,1.0,2.0,KAB,KAZ,KAB,-99,Lease,Baykonur Cosmodrome,Bayk.,Baikonur,Baikonur Cosmodrome
+90,KAZ,0.0,2.0,KAZ,KAZ,KAZ,398,Sovereign country,Kazakhstan,Kaz.,Kazakhstan,Kazakhstan
+91,KEN,0.0,2.0,KEN,KEN,KEN,404,Sovereign country,Kenya,Ken.,Kenya,Kenya
+92,KGZ,0.0,2.0,KGZ,KGZ,KGZ,417,Sovereign country,Kyrgyzstan,Kgz.,Kyrgyzstan,Kyrgyzstan
+93,KHM,0.0,2.0,KHM,KHM,KHM,116,Sovereign country,Cambodia,Camb.,Cambodia,Cambodia
+94,KIR,0.0,2.0,KIR,KIR,KIR,296,Sovereign country,Kiribati,Kir.,Kiribati,Kiribati
+95,KNA,0.0,2.0,KNA,KNA,KNA,659,Sovereign country,Saint Kitts and Nevis,St.K.N.,St. Kitts and Nevis,Saint Kitts and Nevis
+96,KOR,0.0,2.0,KOR,KOR,KOR,410,Sovereign country,South Korea,S.K.,Korea,Republic of Korea
+97,-99,0.0,2.0,KOS,SRB,KOS,-99,Sovereign country,Kosovo,Kos.,Kosovo,Kosovo
+98,KWT,0.0,2.0,KWT,KWT,KWT,414,Sovereign country,Kuwait,Kwt.,Kuwait,Kuwait
+99,LAO,0.0,2.0,LAO,LAO,LAO,418,Sovereign country,Laos,Laos,Lao PDR,Lao PDR
+100,LBN,0.0,2.0,LBN,LBN,LBN,422,Sovereign country,Lebanon,Leb.,Lebanon,Lebanon
+101,LBR,0.0,2.0,LBR,LBR,LBR,430,Sovereign country,Liberia,Liberia,Liberia,Liberia
+102,LBY,0.0,2.0,LBY,LBY,LBY,434,Sovereign country,Libya,Libya,Libya,Libya
+103,LCA,0.0,2.0,LCA,LCA,LCA,662,Sovereign country,Saint Lucia,S.L.,Saint Lucia,Saint Lucia
+104,LIE,0.0,2.0,LIE,LIE,LIE,438,Sovereign country,Liechtenstein,Liech.,Liechtenstein,Liechtenstein
+105,LKA,0.0,2.0,LKA,LKA,LKA,144,Sovereign country,Sri Lanka,Sri L.,Sri Lanka,Sri Lanka
+106,LSO,0.0,2.0,LSO,LSO,LSO,426,Sovereign country,Lesotho,Les.,Lesotho,Lesotho
+107,LTU,0.0,2.0,LTU,LTU,LTU,440,Sovereign country,Lithuania,Lith.,Lithuania,Lithuania
+108,LUX,0.0,2.0,LUX,LUX,LUX,442,Sovereign country,Luxembourg,Lux.,Luxembourg,Luxembourg
+109,LVA,0.0,2.0,LVA,LVA,LVA,428,Sovereign country,Latvia,Lat.,Latvia,Latvia
+110,MAC,1.0,2.0,MAC,MAC,MAC,446,Country,Macao S.A.R,Mac.,Macao,Macao
+111,MAR,0.0,2.0,MAR,MAR,MAR,504,Sovereign country,Morocco,Mor.,Morocco,Morocco
+112,MCO,0.0,2.0,MCO,MCO,MCO,492,Sovereign country,Monaco,Mco.,Monaco,Monaco
+113,MDA,0.0,2.0,MDA,MDA,MDA,498,Sovereign country,Moldova,Mda.,Moldova,Moldova
+114,MDG,0.0,2.0,MDG,MDG,MDG,450,Sovereign country,Madagascar,Mad.,Madagascar,Madagascar
+115,MDV,0.0,2.0,MDV,MDV,MDV,462,Sovereign country,Maldives,Mald.,Maldives,Maldives
+116,MEX,0.0,2.0,MEX,MEX,MEX,484,Sovereign country,Mexico,Mex.,Mexico,Mexico
+117,MHL,0.0,2.0,MHL,MHL,MHL,584,Sovereign country,Marshall Islands,M. Is.,Marshall Is.,Marshall Islands
+118,MKD,0.0,2.0,MKD,MKD,MKD,807,Sovereign country,Macedonia,Mkd.,Macedonia,Macedonia
+119,MLI,0.0,2.0,MLI,MLI,MLI,466,Sovereign country,Mali,Mali,Mali,Mali
+120,MLT,0.0,2.0,MLT,MLT,MLT,470,Sovereign country,Malta,Malta,Malta,Malta
+121,MMR,0.0,2.0,MMR,MMR,MMR,104,Sovereign country,Myanmar,Myan.,Myanmar,Myanmar
+122,MNE,0.0,2.0,MNE,MNE,MNE,499,Sovereign country,Montenegro,Mont.,Montenegro,Montenegro
+123,MNG,0.0,2.0,MNG,MNG,MNG,496,Sovereign country,Mongolia,Mong.,Mongolia,Mongolia
+124,MOZ,0.0,2.0,MOZ,MOZ,MOZ,508,Sovereign country,Mozambique,Moz.,Mozambique,Mozambique
+125,MRT,0.0,2.0,MRT,MRT,MRT,478,Sovereign country,Mauritania,Mrt.,Mauritania,Mauritania
+126,MUS,0.0,2.0,MUS,MUS,MUS,480,Sovereign country,Mauritius,Mus.,Mauritius,Mauritius
+127,MWI,0.0,2.0,MWI,MWI,MWI,454,Sovereign country,Malawi,Mal.,Malawi,Malawi
+128,MYS,0.0,2.0,MYS,MYS,MYS,458,Sovereign country,Malaysia,Malay.,Malaysia,Malaysia
+129,NAM,0.0,2.0,NAM,NAM,NAM,516,Sovereign country,Namibia,Nam.,Namibia,Namibia
+130,NER,0.0,2.0,NER,NER,NER,562,Sovereign country,Niger,Niger,Niger,Niger
+131,NGA,0.0,2.0,NGA,NGA,NGA,566,Sovereign country,Nigeria,Nigeria,Nigeria,Nigeria
+132,NIC,0.0,2.0,NIC,NIC,NIC,558,Sovereign country,Nicaragua,Nic.,Nicaragua,Nicaragua
+133,NPL,0.0,2.0,NPL,NPL,NPL,524,Sovereign country,Nepal,Nepal,Nepal,Nepal
+134,NRU,0.0,2.0,NRU,NRU,NRU,520,Sovereign country,Nauru,Nauru,Nauru,Nauru
+135,NZL,1.0,2.0,NZL,NZL,NZL,554,Country,New Zealand,N.Z.,New Zealand,New Zealand
+136,OMN,0.0,2.0,OMN,OMN,OMN,512,Sovereign country,Oman,Oman,Oman,Oman
+137,PAK,0.0,2.0,PAK,PAK,PAK,586,Sovereign country,Pakistan,Pak.,Pakistan,Pakistan
+138,PAN,0.0,2.0,PAN,PAN,PAN,591,Sovereign country,Panama,Pan.,Panama,Panama
+139,PER,0.0,2.0,PER,PER,PER,604,Sovereign country,Peru,Peru,Peru,Peru
+140,PHL,0.0,2.0,PHL,PHL,PHL,608,Sovereign country,Philippines,Phil.,Philippines,Philippines
+141,PLW,0.0,2.0,PLW,PLW,PLW,585,Sovereign country,Palau,Palau,Palau,Palau
+142,POL,0.0,2.0,POL,POL,POL,616,Sovereign country,Poland,Pol.,Poland,Poland
+143,PRK,0.0,2.0,PRK,PRK,PRK,408,Sovereign country,North Korea,N.K.,Dem. Rep. Korea,Dem. Rep. Korea
+144,PRY,0.0,2.0,PRY,PRY,PRY,600,Sovereign country,Paraguay,Para.,Paraguay,Paraguay
+145,QAT,0.0,2.0,QAT,QAT,QAT,634,Sovereign country,Qatar,Qatar,Qatar,Qatar
+146,ROU,0.0,2.0,ROU,ROU,ROU,642,Sovereign country,Romania,Rom.,Romania,Romania
+147,RUS,0.0,2.0,RUS,RUS,RUS,643,Sovereign country,Russia,Rus.,Russia,Russian Federation
+148,RWA,0.0,2.0,RWA,RWA,RWA,646,Sovereign country,Rwanda,Rwa.,Rwanda,Rwanda
+149,SAU,0.0,2.0,SAU,SAU,SAU,682,Sovereign country,Saudi Arabia,Saud.,Saudi Arabia,Saudi Arabia
+150,SDN,0.0,2.0,SDN,SDN,SDN,729,Sovereign country,Sudan,Sudan,Sudan,Sudan
+151,SSD,0.0,2.0,SDS,SSD,SDS,728,Sovereign country,South Sudan,S. Sud.,S. Sudan,South Sudan
+152,SEN,0.0,2.0,SEN,SEN,SEN,686,Sovereign country,Senegal,Sen.,Senegal,Senegal
+153,SGP,0.0,2.0,SGP,SGP,SGP,702,Sovereign country,Singapore,Sing.,Singapore,Singapore
+154,SLB,0.0,2.0,SLB,SLB,SLB,90,Sovereign country,Solomon Islands,S. Is.,Solomon Is.,Solomon Islands
+155,SLE,0.0,2.0,SLE,SLE,SLE,694,Sovereign country,Sierra Leone,S.L.,Sierra Leone,Sierra Leone
+156,SLV,0.0,2.0,SLV,SLV,SLV,222,Sovereign country,El Salvador,El. S.,El Salvador,El Salvador
+157,SMR,0.0,2.0,SMR,SMR,SMR,674,Sovereign country,San Marino,S.M.,San Marino,San Marino
+158,STP,0.0,2.0,STP,STP,STP,678,Sovereign country,Sao Tome and Principe,S.T.P.,São Tomé and Principe,São Tomé and Principe
+159,SUR,0.0,2.0,SUR,SUR,SUR,740,Sovereign country,Suriname,Sur.,Suriname,Suriname
+160,SVK,0.0,2.0,SVK,SVK,SVK,703,Sovereign country,Slovakia,Svk.,Slovakia,Slovakia
+161,SVN,0.0,2.0,SVN,SVN,SVN,705,Sovereign country,Slovenia,Slo.,Slovenia,Slovenia
+162,SWE,0.0,2.0,SWE,SWE,SWE,752,Sovereign country,Sweden,Swe.,Sweden,Sweden
+163,SWZ,0.0,2.0,SWZ,SWZ,SWZ,748,Sovereign country,Swaziland,Swz.,Swaziland,Swaziland
+164,SXM,1.0,2.0,SXM,SXM,SXM,534,Country,Sint Maarten,St. M.,Sint Maarten,Sint Maarten
+165,SYC,0.0,2.0,SYC,SYC,SYC,690,Sovereign country,Seychelles,Syc.,Seychelles,Seychelles
+166,TCD,0.0,2.0,TCD,TCD,TCD,148,Sovereign country,Chad,Chad,Chad,Chad
+167,TGO,0.0,2.0,TGO,TGO,TGO,768,Sovereign country,Togo,Togo,Togo,Togo
+168,THA,0.0,2.0,THA,THA,THA,764,Sovereign country,Thailand,Thai.,Thailand,Thailand
+169,TJK,0.0,2.0,TJK,TJK,TJK,762,Sovereign country,Tajikistan,Tjk.,Tajikistan,Tajikistan
+170,TKM,0.0,2.0,TKM,TKM,TKM,795,Sovereign country,Turkmenistan,Turkm.,Turkmenistan,Turkmenistan
+171,TLS,0.0,2.0,TLS,TLS,TLS,626,Sovereign country,East Timor,T.L.,Timor-Leste,Timor-Leste
+172,TON,0.0,2.0,TON,TON,TON,776,Sovereign country,Tonga,Tongo,Tonga,Tonga
+173,TTO,0.0,2.0,TTO,TTO,TTO,780,Sovereign country,Trinidad and Tobago,Tr.T.,Trinidad and Tobago,Trinidad and Tobago
+174,TUN,0.0,2.0,TUN,TUN,TUN,788,Sovereign country,Tunisia,Tun.,Tunisia,Tunisia
+175,TUR,0.0,2.0,TUR,TUR,TUR,792,Sovereign country,Turkey,Tur.,Turkey,Turkey
+176,TUV,0.0,2.0,TUV,TUV,TUV,798,Sovereign country,Tuvalu,Tuv.,Tuvalu,Tuvalu
+177,TWN,0.0,2.0,TWN,TWN,TWN,158,Sovereign country,Taiwan,Taiwan,Taiwan,Taiwan
+178,TZA,0.0,2.0,TZA,TZA,TZA,834,Sovereign country,Tanzania,Tanz.,Tanzania,Tanzania
+179,UGA,0.0,2.0,UGA,UGA,UGA,800,Sovereign country,Uganda,Uga.,Uganda,Uganda
+180,UKR,0.0,2.0,UKR,UKR,UKR,804,Sovereign country,Ukraine,Ukr.,Ukraine,Ukraine
+181,URY,0.0,2.0,URY,URY,URY,858,Sovereign country,Uruguay,Ury.,Uruguay,Uruguay
+182,USA,1.0,2.0,USA,USA,USA,840,Country,United States of America,U.S.A.,United States,United States
+183,-99,1.0,2.0,USG,-99,USG,-99,Lease,US Naval Base Guantanamo Bay,Guantan.,USNB Guantanamo Bay,US Naval Base Guantanamo Bay
+184,UZB,0.0,2.0,UZB,UZB,UZB,860,Sovereign country,Uzbekistan,Uzb.,Uzbekistan,Uzbekistan
+185,VAT,0.0,2.0,VAT,VAT,VAT,336,Sovereign country,Vatican,Vat.,Vatican,Vatican
+186,VCT,0.0,2.0,VCT,VCT,VCT,670,Sovereign country,Saint Vincent and the Grenadines,St.V.G.,St. Vin. and Gren.,Saint Vincent and the Grenadines
+187,VEN,0.0,2.0,VEN,VEN,VEN,862,Sovereign country,Venezuela,Ven.,Venezuela,Venezuela
+188,VNM,0.0,2.0,VNM,VNM,VNM,704,Sovereign country,Vietnam,Viet.,Vietnam,Vietnam
+189,VUT,0.0,2.0,VUT,VUT,VUT,548,Sovereign country,Vanuatu,Van.,Vanuatu,Vanuatu
+190,WSM,0.0,2.0,WSM,WSM,WSM,882,Sovereign country,Samoa,Samoa,Samoa,Samoa
+191,YEM,0.0,2.0,YEM,YEM,YEM,887,Sovereign country,Yemen,Yem.,Yemen,Yemen
+192,ZAF,0.0,2.0,ZAF,ZAF,ZAF,710,Sovereign country,South Africa,S.Af.,South Africa,South Africa
+193,ZMB,0.0,2.0,ZMB,ZMB,ZMB,894,Sovereign country,Zambia,Zambia,Zambia,Zambia
+194,ZWE,0.0,2.0,ZWE,ZWE,ZWE,716,Sovereign country,Zimbabwe,Zimb.,Zimbabwe,Zimbabwe

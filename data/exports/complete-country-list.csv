@@ -1,296 +1,296 @@
-,ADM0_A3_IS,ISO_A3,ISO_N3,ABBREV,GEOUNIT,NAME,NAME_LONG
-0,ABW,ABW,533,Aruba,Aruba,Aruba,Aruba
-1,ATG,-99,-99,Ant.,Antigua,Antigua,Antigua
-2,ATG,-99,-99,Barb.,Barbuda,Barbuda,Barbuda
-3,AFG,AFG,4,Afg.,Afghanistan,Afghanistan,Afghanistan
-4,AGO,AGO,24,Ang.,Angola,Angola,Angola
-5,AIA,AIA,660,Ang.,Anguilla,Anguilla,Anguilla
-6,ALB,ALB,8,Alb.,Albania,Albania,Albania
-7,ALA,ALA,248,Aland,Aland,Aland,Aland Islands
-8,AND,AND,20,And.,Andorra,Andorra,Andorra
-9,ARE,ARE,784,U.A.E.,United Arab Emirates,United Arab Emirates,United Arab Emirates
-10,ARG,ARG,32,Arg.,Argentina,Argentina,Argentina
-11,ARM,ARM,51,Arm.,Armenia,Armenia,Armenia
-12,ASM,ASM,16,Am. Samoa,American Samoa,American Samoa,American Samoa
-13,ATA,ATA,10,Ant.,Antarctica,Antarctica,Antarctica
-14,AUS,-99,36,A.C.Is.,Ashmore and Cartier Islands,Ashmore and Cartier Is.,Ashmore and Cartier Islands
-15,ATF,ATF,260,Fr. S.A.L.,French Southern and Antarctic Lands,Fr. S. Antarctic Lands,French Southern and Antarctic Lands
-16,AUS,AUS,36,Auz.,Australia,Australia,Australia
-17,AUT,AUT,40,Aust.,Austria,Austria,Austria
-18,AZE,AZE,31,Aze.,Azerbaijan,Azerbaijan,Azerbaijan
-19,BEL,-99,-99,Brus.,Brussels Capital Region,Brussels,Brussels
-20,BDI,BDI,108,Bur.,Burundi,Burundi,Burundi
-21,BEN,BEN,204,Benin,Benin,Benin,Benin
-22,BFA,BFA,854,B.F.,Burkina Faso,Burkina Faso,Burkina Faso
-23,BEL,-99,-99,Flem.,Flemish Region,Flemish,Flemish Region
-24,BGD,BGD,50,Bang.,Bangladesh,Bangladesh,Bangladesh
-25,BGR,BGR,100,Bulg.,Bulgaria,Bulgaria,Bulgaria
-26,BIH,-99,-99,B.D.,Brcko District,Brcko District,Brcko District
-27,BIH,-99,-99,B.H.,Bosnia and Herzegovina,Fed. of Bos. & Herz.,Federation of Bosnia and Herzegovina
-28,BHR,BHR,48,Bahr.,Bahrain,Bahrain,Bahrain
-29,BHS,BHS,44,Bhs.,The Bahamas,Bahamas,Bahamas
-30,BIH,-99,-99,Srp.,Republic Srpska,Rep. Srpska,Republic Srpska
-31,-99,-99,-99,,Bajo Nuevo Bank (Petrel Is.),Bajo Nuevo Bank (Petrel Is.),Bajo Nuevo Bank (Petrel Islands)
-32,BLM,BLM,652,St. B.,Saint Barthelemy,St-Barthélemy,Saint-Barthélemy
-33,BLR,BLR,112,Bela.,Belarus,Belarus,Belarus
-34,BLZ,BLZ,84,Belize,Belize,Belize,Belize
-35,BMU,BMU,60,Berm.,Bermuda,Bermuda,Bermuda
-36,BOL,BOL,68,Bolivia,Bolivia,Bolivia,Bolivia
-37,BQI,-99,-99,Nav. I.,Navassa Island,Navassa I.,Navassa Island
-38,BRA,BRA,76,Brazil,Brazil,Brazil,Brazil
-39,BRB,BRB,52,Barb.,Barbados,Barbados,Barbados
-40,BRN,BRN,96,Brunei,Brunei,Brunei,Brunei Darussalam
-41,BTN,BTN,64,Bhutan,Bhutan,Bhutan,Bhutan
-42,BVT,BVT,74,Bvt. I.,Bouvet Island,Bouvet I.,Bouvet Island
-43,BWA,BWA,72,Bwa.,Botswana,Botswana,Botswana
-44,BEL,-99,-99,Wal.,Walloon Region,Walloon,Walloon Region
-45,CAF,CAF,140,C.A.R.,Central African Republic,Central African Rep.,Central African Republic
-46,CAN,CAN,124,Can.,Canada,Canada,Canada
-47,CCK,CCK,166,Cocos Is.,Cocos (Keeling) Islands,Cocos Is.,Cocos Islands
-48,CHE,CHE,756,Switz.,Switzerland,Switzerland,Switzerland
-49,CHL,CHL,152,Chile,Chile,Chile,Chile
-50,CHN,CHN,156,China,China,China,China
-51,CIV,CIV,384,I.C.,Ivory Coast,Côte d'Ivoire,Côte d'Ivoire
-52,FRA,-99,-99,Clp. I.,Clipperton Island,Clipperton I.,Clipperton Island
-53,CMR,CMR,120,Cam.,Cameroon,Cameroon,Cameroon
-54,CYP,-99,-99,,Cyprus No Mans Area,Cyprus U.N. Buffer Zone,Cyprus U.N. Buffer Zone
-55,COD,COD,180,D.R.C.,Democratic Republic of the Congo,Dem. Rep. Congo,Democratic Republic of the Congo
-56,COG,COG,178,Rep. Congo,Republic of Congo,Congo,Republic of Congo
-57,COK,COK,184,Cook Is.,Cook Islands,Cook Is.,Cook Islands
-58,COL,COL,170,Col.,Colombia,Colombia,Colombia
-59,COM,COM,174,Com.,Comoros,Comoros,Comoros
-60,CPV,CPV,132,C.Vd.,Cape Verde,Cape Verde,Cape Verde
-61,CRI,CRI,188,C.R.,Costa Rica,Costa Rica,Costa Rica
-62,AUS,-99,-99,C.S.I.,Coral Sea Islands,Coral Sea Is.,Coral Sea Islands
-63,CUB,CUB,192,Cuba,Cuba,Cuba,Cuba
-64,CUW,CUW,531,Cur.,Curaçao,Curaçao,Curaçao
-65,CXR,CXR,162,Chris. I.,Christmas Island,Christmas I.,Christmas Island
-66,CYM,CYM,136,Cym. Is.,Cayman Islands,Cayman Is.,Cayman Islands
-67,CYP,-99,-99,N. Cy.,Northern Cyprus,N. Cyprus,Northern Cyprus
-68,CYP,CYP,196,Cyp.,Cyprus,Cyprus,Cyprus
-69,CZE,CZE,203,Cz. Rep.,Czech Republic,Czech Rep.,Czech Republic
-70,DEU,DEU,276,Ger.,Germany,Germany,Germany
-71,DJI,DJI,262,Dji.,Djibouti,Djibouti,Djibouti
-72,DMA,DMA,212,D'inca,Dominica,Dominica,Dominica
-73,DNK,DNK,208,Den.,Denmark,Denmark,Denmark
-74,DOM,DOM,214,Dom. Rep.,Dominican Republic,Dominican Rep.,Dominican Republic
-75,DQI,-99,-99,Jar. I.,Jarvis Island,Jarvis I.,Jarvis Island
-76,DZA,DZA,12,Alg.,Algeria,Algeria,Algeria
-77,ECU,ECU,218,Ecu.,Ecuador,Ecuador,Ecuador
-78,EGY,EGY,818,Egypt,Egypt,Egypt,Egypt
-79,-99,-99,-99,Eng.,England,England,England
-80,ERI,ERI,232,Erit.,Eritrea,Eritrea,Eritrea
-81,GBR,-99,-99,Dhek.,Dhekelia Sovereign Base Area,Dhekelia,Dhekelia
-82,ESP,ESP,724,Sp.,Spain,Spain,Spain
-83,EST,EST,233,Est.,Estonia,Estonia,Estonia
-84,ETH,ETH,231,Eth.,Ethiopia,Ethiopia,Ethiopia
-85,FIN,FIN,246,Fin.,Finland,Finland,Finland
-86,FJI,FJI,242,Fiji,Fiji,Fiji,Fiji
-87,FLK,FLK,238,Flk. Is.,Falkland Islands,Falkland Is.,Falkland Islands
-88,FQI,-99,-99,Baker I.,Baker Island,Baker I.,Baker Island
-89,FRO,FRO,234,Faeroe Is.,Faroe Islands,Faeroe Is.,Faeroe Islands
-90,FSM,FSM,583,F.S.M.,Federated States of Micronesia,Micronesia,Federated States of Micronesia
-91,FRA,FRA,249,Fr.,France,France,France
-92,GAB,GAB,266,Gabon,Gabon,Gabon,Gabon
-93,PSE,-99,275,Gaza,Gaza,Gaza,Gaza
-94,GEO,-99,-99,Ajaria,Ajaria,Adjara,Adjara
-95,GEO,-99,-99,Geo.,Georgia,Georgia,Georgia
-96,GGY,GGY,831,Guern.,Guernsey,Guernsey,Guernsey
-97,GHA,GHA,288,Ghana,Ghana,Ghana,Ghana
-98,GIB,GIB,292,Gib.,Gibraltar,Gibraltar,Gibraltar
-99,GIN,GIN,324,Gin.,Guinea,Guinea,Guinea
-100,GLP,GLP,312,Guad.,Guadeloupe,Guadeloupe,Guadeloupe
-101,GMB,GMB,270,Gambia,Gambia,Gambia,The Gambia
-102,GNB,GNB,624,GnB.,Guinea Bissau,Guinea-Bissau,Guinea-Bissau
-103,GNQ,GNQ,226,Eq. G.,Equatorial Guinea,Eq. Guinea,Equatorial Guinea
-104,GRC,GRC,300,Greece,Greece,Greece,Greece
-105,GRD,GRD,308,Gren.,Grenada,Grenada,Grenada
-106,GRL,GRL,304,Grlnd.,Greenland,Greenland,Greenland
-107,GTM,GTM,320,Guat.,Guatemala,Guatemala,Guatemala
-108,GUF,GUF,254,Fr. G.,French Guiana,French Guiana,French Guiana
-109,GUM,GUM,316,Guam,Guam,Guam,Guam
-110,GUY,GUY,328,Guy.,Guyana,Guyana,Guyana
-111,HKG,HKG,344,H.K.,Hong Kong S.A.R.,Hong Kong,Hong Kong
-112,HMD,HMD,334,H.M.Is.,Heard Island and McDonald Islands,Heard I. and McDonald Is.,Heard I. and McDonald Islands
-113,HND,HND,340,Hond.,Honduras,Honduras,Honduras
-114,HQI,-99,-99,How. I.,Howland Island,Howland I.,Howland Island
-115,HRV,HRV,191,Cro.,Croatia,Croatia,Croatia
-116,HTI,HTI,332,Haiti,Haiti,Haiti,Haiti
-117,HUN,HUN,348,Hun.,Hungary,Hungary,Hungary
-118,IDN,IDN,360,Indo.,Indonesia,Indonesia,Indonesia
-119,IMN,IMN,833,IoMan,Isle of Man,Isle of Man,Isle of Man
-120,IND,IND,356,India,India,India,India
-121,IOT,IOT,86,I.O.T.,British Indian Ocean Territory,Br. Indian Ocean Ter.,British Indian Ocean Territory
-122,IRQ,-99,-99,KRG,Iraqi Kurdistan,Iraqi Kurdistan,Iraqi Kurdistan
-123,IRL,IRL,372,Ire.,Ireland,Ireland,Ireland
-124,IRN,IRN,364,Iran,Iran,Iran,Iran
-125,IRQ,-99,-99,Iraq,Iraq,Iraq,Iraq
-126,ISL,ISL,352,Iceland,Iceland,Iceland,Iceland
-127,ISR,ISR,376,Isr.,Israel,Israel,Israel
-128,ITA,ITA,380,Italy,Italy,Italy,Italy
-129,JAM,JAM,388,Jam.,Jamaica,Jamaica,Jamaica
-130,JEY,JEY,832,Jey.,Jersey,Jersey,Jersey
-131,JOR,JOR,400,Jord.,Jordan,Jordan,Jordan
-132,JPN,JPN,392,Japan,Japan,Japan,Japan
-133,JQI,-99,-99,John. At.,Johnston Atoll,Johnston Atoll,Johnston Atoll
-134,KAZ,-99,-99,Bayk.,Baykonur Cosmodrome,Baikonur,Baikonur Cosmodrome
-135,-99,-99,-99,Siachen,Siachen Glacier,Siachen Glacier,Siachen Glacier
-136,KAZ,KAZ,398,Kaz.,Kazakhstan,Kazakhstan,Kazakhstan
-137,KEN,KEN,404,Ken.,Kenya,Kenya,Kenya
-138,KGZ,KGZ,417,Kgz.,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan
-139,KHM,KHM,116,Camb.,Cambodia,Cambodia,Cambodia
-140,KIR,KIR,296,Kir.,Kiribati,Kiribati,Kiribati
-141,KNA,KNA,659,St.K.N.,Saint Kitts and Nevis,St. Kitts and Nevis,Saint Kitts and Nevis
-142,-99,-99,-99,DMZ South,Korean Demilitarized Zone (south),Korean DMZ (south),Korean DMZ (south)
-143,-99,-99,-99,DMZ North,Korean Demilitarized Zone (north),Korean DMZ (north),Korean DMZ (north)
-144,KOR,KOR,410,S.K.,South Korea,Korea,Republic of Korea
-145,SRB,-99,-99,Kos.,Kosovo,Kosovo,Kosovo
-146,KQI,-99,-99,King. Rf.,Kingman Reef,Kingman Reef,Kingman Reef
-147,KWT,KWT,414,Kwt.,Kuwait,Kuwait,Kuwait
-148,LAO,LAO,418,Laos,Laos,Lao PDR,Lao PDR
-149,LBN,LBN,422,Leb.,Lebanon,Lebanon,Lebanon
-150,LBR,LBR,430,Liberia,Liberia,Liberia,Liberia
-151,LBY,LBY,434,Libya,Libya,Libya,Libya
-152,LCA,LCA,662,S.L.,Saint Lucia,Saint Lucia,Saint Lucia
-153,LIE,LIE,438,Liech.,Liechtenstein,Liechtenstein,Liechtenstein
-154,LKA,LKA,144,Sri L.,Sri Lanka,Sri Lanka,Sri Lanka
-155,LQI,-99,-99,Palm. At.,Palmyra Atoll,Palmyra Atoll,Palmyra Atoll
-156,LSO,LSO,426,Les.,Lesotho,Lesotho,Lesotho
-157,LTU,LTU,440,Lith.,Lithuania,Lithuania,Lithuania
-158,LUX,LUX,442,Lux.,Luxembourg,Luxembourg,Luxembourg
-159,LVA,LVA,428,Lat.,Latvia,Latvia,Latvia
-160,MAC,MAC,446,Mac.,Macao S.A.R,Macao,Macao
-161,MAF,MAF,663,St. M.,Saint Martin,St-Martin,Saint-Martin
-162,MAR,MAR,504,Mor.,Morocco,Morocco,Morocco
-163,MCO,MCO,492,Mco.,Monaco,Monaco,Monaco
-164,MDA,MDA,498,Mda.,Moldova,Moldova,Moldova
-165,MDG,MDG,450,Mad.,Madagascar,Madagascar,Madagascar
-166,MDV,MDV,462,Mald.,Maldives,Maldives,Maldives
-167,MEX,MEX,484,Mex.,Mexico,Mexico,Mexico
-168,MHL,MHL,584,M. Is.,Marshall Islands,Marshall Is.,Marshall Islands
-169,MKD,MKD,807,Mkd.,Macedonia,Macedonia,Macedonia
-170,MLI,MLI,466,Mali,Mali,Mali,Mali
-171,MLT,MLT,470,Malta,Malta,Malta,Malta
-172,MMR,MMR,104,Myan.,Myanmar,Myanmar,Myanmar
-173,MNE,MNE,499,Mont.,Montenegro,Montenegro,Montenegro
-174,MNG,MNG,496,Mong.,Mongolia,Mongolia,Mongolia
-175,MNP,MNP,580,N.M.I.,Northern Mariana Islands,N. Mariana Is.,Northern Mariana Islands
-176,MOZ,MOZ,508,Moz.,Mozambique,Mozambique,Mozambique
-177,MQI,-99,-99,Mid. Is.,Midway Islands,Midway Is.,Midway Islands
-178,MRT,MRT,478,Mrt.,Mauritania,Mauritania,Mauritania
-179,MSR,MSR,500,Monts.,Montserrat,Montserrat,Montserrat
-180,MTQ,MTQ,474,Mtq.,Martinique,Martinique,Martinique
-181,MUS,MUS,480,Mus.,Mauritius,Mauritius,Mauritius
-182,MWI,MWI,454,Mal.,Malawi,Malawi,Malawi
-183,MYS,MYS,458,Malay.,Malaysia,Malaysia,Malaysia
-184,MYT,MYT,175,Myt.,Mayotte,Mayotte,Mayotte
-185,NAM,NAM,516,Nam.,Namibia,Namibia,Namibia
-186,NCL,NCL,540,New C.,New Caledonia,New Caledonia,New Caledonia
-187,NER,NER,562,Niger,Niger,Niger,Niger
-188,NFK,NFK,574,Nfk. I.,Norfolk Island,Norfolk Island,Norfolk Island
-189,NGA,NGA,566,Nigeria,Nigeria,Nigeria,Nigeria
-190,NIC,NIC,558,Nic.,Nicaragua,Nicaragua,Nicaragua
-191,-99,-99,-99,N.Ire.,Northern Ireland,N. Ireland,Northern Ireland
-192,NIU,NIU,570,Niue,Niue,Niue,Niue
-193,SJM,-99,-99,J.M.,Jan Mayen,Jan Mayen I.,Jan Mayen Island
-194,NLD,-99,-99,Neth.,Netherlands,Netherlands,Netherlands
-195,BES,BES,535,BES Is.,Caribbean Netherlands,Caribbean Netherlands,Caribbean Netherlands
-196,NOR,NOR,578,Nor.,Norway,Norway,Norway
-197,NPL,NPL,524,Nepal,Nepal,Nepal,Nepal
-198,NRU,NRU,520,Nauru,Nauru,Nauru,Nauru
-199,SJM,SJM,-99,Sval.,Svalbard,Svalbard Is.,Svalbard Islands
-200,NZL,NZL,554,N.Z.,New Zealand,New Zealand,New Zealand
-201,OMN,OMN,512,Oman,Oman,Oman,Oman
-202,PAK,PAK,586,Pak.,Pakistan,Pakistan,Pakistan
-203,PAN,PAN,591,Pan.,Panama,Panama,Panama
-204,-99,-99,-99,Az.,Azores,Azores,Azores
-205,PCN,PCN,612,Pit. Is.,Pitcairn Islands,Pitcairn Is.,Pitcairn Islands
-206,PER,PER,604,Peru,Peru,Peru,Peru
-207,-99,-99,-99,Par. Is.,Paracel Islands,Paracel Is.,Paracel Islands
-208,-99,-99,-99,Spratly Is.,Spratly Islands,Spratly Is.,Spratly Islands
-209,PHL,PHL,608,Phil.,Philippines,Philippines,Philippines
-210,PLW,PLW,585,Palau,Palau,Palau,Palau
-211,-99,-99,-99,Mad.,Madeira,Madeira,Madeira
-212,PNG,-99,-99,Boug.,Bougainville,Bougainville,Bougainville
-213,PNG,-99,-99,P.N.G.,Papua New Guinea,Papua New Guinea,Papua New Guinea
-214,POL,POL,616,Pol.,Poland,Poland,Poland
-215,PRI,PRI,630,P.R.,Puerto Rico,Puerto Rico,Puerto Rico
-216,PRK,PRK,408,N.K.,North Korea,Dem. Rep. Korea,Dem. Rep. Korea
-217,PRT,-99,-99,Port.,Portugal,Portugal,Portugal
-218,PRY,PRY,600,Para.,Paraguay,Paraguay,Paraguay
-219,PYF,PYF,258,Fr. Poly.,French Polynesia,Fr. Polynesia,French Polynesia
-220,QAT,QAT,634,Qatar,Qatar,Qatar,Qatar
-221,REU,REU,638,Reu.,Reunion,Reunion,Reunion
-222,ROU,ROU,642,Rom.,Romania,Romania,Romania
-223,RUS,RUS,643,Rus.,Russia,Russia,Russian Federation
-224,RWA,RWA,646,Rwa.,Rwanda,Rwanda,Rwanda
-225,MAR,ESH,732,W. Sah.,Western Sahara,W. Sahara,Western Sahara
-226,SAU,SAU,682,Saud.,Saudi Arabia,Saudi Arabia,Saudi Arabia
-227,-99,-99,-99,S.R.,Scarborough Reef,Scarborough Reef,Scarborough Reef
-228,-99,-99,-99,Scot.,Scotland,Scotland,Scotland
-229,SDN,SDN,729,Sudan,Sudan,Sudan,Sudan
-230,SSD,SSD,728,S. Sud.,South Sudan,S. Sudan,South Sudan
-231,SEN,SEN,686,Sen.,Senegal,Senegal,Senegal
-232,-99,-99,-99,S.B.,Serranilla Bank,Serranilla Bank,Serranilla Bank
-233,SGP,SGP,702,Sing.,Singapore,Singapore,Singapore
-234,SGS,SGS,239,S.G. S.S. Is.,South Georgia and South Sandwich Islands,S. Geo. and S. Sandw. Is.,South Georgia and South Sandwich Islands
-235,SHN,SHN,654,St.H.,Saint Helena,Saint Helena,Saint Helena
-236,SLB,SLB,90,S. Is.,Solomon Islands,Solomon Is.,Solomon Islands
-237,SLE,SLE,694,S.L.,Sierra Leone,Sierra Leone,Sierra Leone
-238,SLV,SLV,222,El. S.,El Salvador,El Salvador,El Salvador
-239,SMR,SMR,674,S.M.,San Marino,San Marino,San Marino
-240,SOM,-99,-99,Solnd.,Somaliland,Somaliland,Somaliland
-241,SOM,-99,-99,Punt.,Puntland,Puntland,Puntland
-242,SOM,-99,-99,Som.,Somalia,Somalia,Somalia
-243,SPM,SPM,666,St. P.M.,Saint Pierre and Miquelon,St. Pierre and Miquelon,Saint Pierre and Miquelon
-244,SRB,-99,-99,Serb.,Serbia,Serbia,Serbia
-245,SRB,-99,-99,Vojv.,Vojvodina,Vojvodina,Vojvodina
-246,STP,STP,678,S.T.P.,Sao Tome and Principe,São Tomé and Principe,São Tomé and Principe
-247,SUR,SUR,740,Sur.,Suriname,Suriname,Suriname
-248,SVK,SVK,703,Svk.,Slovakia,Slovakia,Slovakia
-249,SVN,SVN,705,Slo.,Slovenia,Slovenia,Slovenia
-250,SWE,SWE,752,Swe.,Sweden,Sweden,Sweden
-251,SWZ,SWZ,748,Swz.,Swaziland,Swaziland,Swaziland
-252,SXM,SXM,534,St. M.,Sint Maarten,Sint Maarten,Sint Maarten
-253,SYC,SYC,690,Syc.,Seychelles,Seychelles,Seychelles
-254,SYR,-99,-99,DOF,UNDOF,UNDOF Zone,UNDOF Zone
-255,SYR,SYR,760,Syria,Syria,Syria,Syrian Arab Republic
-256,TCA,TCA,796,T.C. Is.,Turks and Caicos Islands,Turks and Caicos Is.,Turks and Caicos Islands
-257,TCD,TCD,148,Chad,Chad,Chad,Chad
-258,TGO,TGO,768,Togo,Togo,Togo,Togo
-259,THA,THA,764,Thai.,Thailand,Thailand,Thailand
-260,TJK,TJK,762,Tjk.,Tajikistan,Tajikistan,Tajikistan
-261,TKL,TKL,772,Tkl.,Tokelau,Tokelau,Tokelau
-262,TKM,TKM,795,Turkm.,Turkmenistan,Turkmenistan,Turkmenistan
-263,TLS,TLS,626,T.L.,East Timor,Timor-Leste,Timor-Leste
-264,TON,TON,776,Tongo,Tonga,Tonga,Tonga
-265,TTO,TTO,780,Tr.T.,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago
-266,TUN,TUN,788,Tun.,Tunisia,Tunisia,Tunisia
-267,TUR,TUR,792,Tur.,Turkey,Turkey,Turkey
-268,TUV,TUV,798,Tuv.,Tuvalu,Tuvalu,Tuvalu
-269,TWN,TWN,158,Taiwan,Taiwan,Taiwan,Taiwan
-270,TZA,TZA,834,Tanz.,Tanzania,Tanzania,Tanzania
-271,TZA,-99,-99,Zan.,Zanzibar,Zanzibar,Zanzibar
-272,UGA,UGA,800,Uga.,Uganda,Uganda,Uganda
-273,UKR,UKR,804,Ukr.,Ukraine,Ukraine,Ukraine
-274,URY,URY,858,Ury.,Uruguay,Uruguay,Uruguay
-275,USA,USA,840,U.S.A.,United States of America,United States,United States
-276,-99,-99,-99,Guantan.,US Naval Base Guantanamo Bay,USNB Guantanamo Bay,US Naval Base Guantanamo Bay
-277,UZB,UZB,860,Uzb.,Uzbekistan,Uzbekistan,Uzbekistan
-278,VAT,VAT,336,Vat.,Vatican,Vatican,Vatican
-279,VCT,VCT,670,St.V.G.,Saint Vincent and the Grenadines,St. Vin. and Gren.,Saint Vincent and the Grenadines
-280,VEN,VEN,862,Ven.,Venezuela,Venezuela,Venezuela
-281,VGB,VGB,92,V.I. (Br.),British Virgin Islands,British Virgin Is.,British Virgin Islands
-282,VIR,VIR,850,V.I. (U.S.),United States Virgin Islands,U.S. Virgin Is.,United States Virgin Islands
-283,VNM,VNM,704,Viet.,Vietnam,Vietnam,Vietnam
-284,VUT,VUT,548,Van.,Vanuatu,Vanuatu,Vanuatu
-285,PSE,-99,275,W.B.,West Bank,West Bank,West Bank
-286,WLF,WLF,876,Wlf.,Wallis and Futuna,Wallis and Futuna Is.,Wallis and Futuna Islands
-287,-99,-99,-99,Wales,Wales,Wales,Wales
-288,WQI,-99,-99,Wake At.,Wake Atoll,Wake Atoll,Wake Atoll
-289,GBR,-99,-99,Akr.,Akrotiri Sovereign Base Area,Akrotiri,Akrotiri
-290,WSM,WSM,882,Samoa,Samoa,Samoa,Samoa
-291,YEM,YEM,887,Yem.,Yemen,Yemen,Yemen
-292,ZAF,ZAF,710,S.Af.,South Africa,South Africa,South Africa
-293,ZMB,ZMB,894,Zambia,Zambia,Zambia,Zambia
-294,ZWE,ZWE,716,Zimb.,Zimbabwe,Zimbabwe,Zimbabwe
+,ISO_A3,ADM0_DIF,LEVEL,ADM0_A3,ADM0_A3_IS,GU_A3,ISO_N3,TYPE,GEOUNIT,ABBREV,NAME,NAME_LONG
+0,ABW,1.0,2.0,ABW,ABW,ABW,533,Country,Aruba,Aruba,Aruba,Aruba
+1,-99,0.0,3.0,ATG,ATG,ACA,-99,Geo unit,Antigua,Ant.,Antigua,Antigua
+2,-99,0.0,3.0,ATG,ATG,ACB,-99,Geo unit,Barbuda,Barb.,Barbuda,Barbuda
+3,AFG,0.0,2.0,AFG,AFG,AFG,4,Sovereign country,Afghanistan,Afg.,Afghanistan,Afghanistan
+4,AGO,0.0,2.0,AGO,AGO,AGO,24,Sovereign country,Angola,Ang.,Angola,Angola
+5,AIA,1.0,2.0,AIA,AIA,AIA,660,Dependency,Anguilla,Ang.,Anguilla,Anguilla
+6,ALB,0.0,2.0,ALB,ALB,ALB,8,Sovereign country,Albania,Alb.,Albania,Albania
+7,ALA,1.0,2.0,ALD,ALA,ALD,248,Country,Aland,Aland,Aland,Aland Islands
+8,AND,0.0,2.0,AND,AND,AND,20,Sovereign country,Andorra,And.,Andorra,Andorra
+9,ARE,0.0,2.0,ARE,ARE,ARE,784,Sovereign country,United Arab Emirates,U.A.E.,United Arab Emirates,United Arab Emirates
+10,ARG,0.0,2.0,ARG,ARG,ARG,32,Sovereign country,Argentina,Arg.,Argentina,Argentina
+11,ARM,0.0,2.0,ARM,ARM,ARM,51,Sovereign country,Armenia,Arm.,Armenia,Armenia
+12,ASM,1.0,2.0,ASM,ASM,ASM,16,Dependency,American Samoa,Am. Samoa,American Samoa,American Samoa
+13,ATA,0.0,2.0,ATA,ATA,ATA,10,Indeterminate,Antarctica,Ant.,Antarctica,Antarctica
+14,-99,1.0,2.0,ATC,AUS,ATC,36,Dependency,Ashmore and Cartier Islands,A.C.Is.,Ashmore and Cartier Is.,Ashmore and Cartier Islands
+15,ATF,1.0,2.0,ATF,ATF,ATF,260,Dependency,French Southern and Antarctic Lands,Fr. S.A.L.,Fr. S. Antarctic Lands,French Southern and Antarctic Lands
+16,AUS,1.0,2.0,AUS,AUS,AUS,36,Country,Australia,Auz.,Australia,Australia
+17,AUT,0.0,2.0,AUT,AUT,AUT,40,Sovereign country,Austria,Aust.,Austria,Austria
+18,AZE,0.0,2.0,AZE,AZE,AZE,31,Sovereign country,Azerbaijan,Aze.,Azerbaijan,Azerbaijan
+19,-99,0.0,3.0,BEL,BEL,BCR,-99,Geo unit,Brussels Capital Region,Brus.,Brussels,Brussels
+20,BDI,0.0,2.0,BDI,BDI,BDI,108,Sovereign country,Burundi,Bur.,Burundi,Burundi
+21,BEN,0.0,2.0,BEN,BEN,BEN,204,Sovereign country,Benin,Benin,Benin,Benin
+22,BFA,0.0,2.0,BFA,BFA,BFA,854,Sovereign country,Burkina Faso,B.F.,Burkina Faso,Burkina Faso
+23,-99,0.0,3.0,BEL,BEL,BFR,-99,Geo unit,Flemish Region,Flem.,Flemish,Flemish Region
+24,BGD,0.0,2.0,BGD,BGD,BGD,50,Sovereign country,Bangladesh,Bang.,Bangladesh,Bangladesh
+25,BGR,0.0,2.0,BGR,BGR,BGR,100,Sovereign country,Bulgaria,Bulg.,Bulgaria,Bulgaria
+26,-99,0.0,3.0,BIH,BIH,BHB,-99,Geo unit,Brcko District,B.D.,Brcko District,Brcko District
+27,-99,0.0,3.0,BIH,BIH,BHF,-99,Geo unit,Bosnia and Herzegovina,B.H.,Fed. of Bos. & Herz.,Federation of Bosnia and Herzegovina
+28,BHR,0.0,2.0,BHR,BHR,BHR,48,Sovereign country,Bahrain,Bahr.,Bahrain,Bahrain
+29,BHS,0.0,2.0,BHS,BHS,BHS,44,Sovereign country,The Bahamas,Bhs.,Bahamas,Bahamas
+30,-99,0.0,3.0,BIH,BIH,BIS,-99,Geo unit,Republic Srpska,Srp.,Rep. Srpska,Republic Srpska
+31,-99,0.0,2.0,BJN,-99,BJN,-99,Indeterminate,Bajo Nuevo Bank (Petrel Is.),,Bajo Nuevo Bank (Petrel Is.),Bajo Nuevo Bank (Petrel Islands)
+32,BLM,1.0,2.0,BLM,BLM,BLM,652,Dependency,Saint Barthelemy,St. B.,St-Barthélemy,Saint-Barthélemy
+33,BLR,0.0,2.0,BLR,BLR,BLR,112,Sovereign country,Belarus,Bela.,Belarus,Belarus
+34,BLZ,0.0,2.0,BLZ,BLZ,BLZ,84,Sovereign country,Belize,Belize,Belize,Belize
+35,BMU,1.0,2.0,BMU,BMU,BMU,60,Dependency,Bermuda,Berm.,Bermuda,Bermuda
+36,BOL,0.0,2.0,BOL,BOL,BOL,68,Sovereign country,Bolivia,Bolivia,Bolivia,Bolivia
+37,-99,1.0,3.0,UMI,BQI,BQI,-99,Geo unit,Navassa Island,Nav. I.,Navassa I.,Navassa Island
+38,BRA,0.0,2.0,BRA,BRA,BRA,76,Sovereign country,Brazil,Brazil,Brazil,Brazil
+39,BRB,0.0,2.0,BRB,BRB,BRB,52,Sovereign country,Barbados,Barb.,Barbados,Barbados
+40,BRN,0.0,2.0,BRN,BRN,BRN,96,Sovereign country,Brunei,Brunei,Brunei,Brunei Darussalam
+41,BTN,0.0,2.0,BTN,BTN,BTN,64,Sovereign country,Bhutan,Bhutan,Bhutan,Bhutan
+42,BVT,0.0,3.0,NOR,BVT,BVT,74,Geo unit,Bouvet Island,Bvt. I.,Bouvet I.,Bouvet Island
+43,BWA,0.0,2.0,BWA,BWA,BWA,72,Sovereign country,Botswana,Bwa.,Botswana,Botswana
+44,-99,0.0,3.0,BEL,BEL,BWR,-99,Geo unit,Walloon Region,Wal.,Walloon,Walloon Region
+45,CAF,0.0,2.0,CAF,CAF,CAF,140,Sovereign country,Central African Republic,C.A.R.,Central African Rep.,Central African Republic
+46,CAN,0.0,2.0,CAN,CAN,CAN,124,Sovereign country,Canada,Can.,Canada,Canada
+47,CCK,1.0,3.0,IOA,CCK,CCK,166,Geo unit,Cocos (Keeling) Islands,Cocos Is.,Cocos Is.,Cocos Islands
+48,CHE,0.0,2.0,CHE,CHE,CHE,756,Sovereign country,Switzerland,Switz.,Switzerland,Switzerland
+49,CHL,0.0,2.0,CHL,CHL,CHL,152,Sovereign country,Chile,Chile,Chile,Chile
+50,CHN,1.0,2.0,CHN,CHN,CHN,156,Country,China,China,China,China
+51,CIV,0.0,2.0,CIV,CIV,CIV,384,Sovereign country,Ivory Coast,I.C.,Côte d'Ivoire,Côte d'Ivoire
+52,-99,1.0,2.0,CLP,FRA,CLP,-99,Dependency,Clipperton Island,Clp. I.,Clipperton I.,Clipperton Island
+53,CMR,0.0,2.0,CMR,CMR,CMR,120,Sovereign country,Cameroon,Cam.,Cameroon,Cameroon
+54,-99,0.0,2.0,CNM,CYP,CNM,-99,Indeterminate,Cyprus No Mans Area,,Cyprus U.N. Buffer Zone,Cyprus U.N. Buffer Zone
+55,COD,0.0,2.0,COD,COD,COD,180,Sovereign country,Democratic Republic of the Congo,D.R.C.,Dem. Rep. Congo,Democratic Republic of the Congo
+56,COG,0.0,2.0,COG,COG,COG,178,Sovereign country,Republic of Congo,Rep. Congo,Congo,Republic of Congo
+57,COK,1.0,2.0,COK,COK,COK,184,Dependency,Cook Islands,Cook Is.,Cook Is.,Cook Islands
+58,COL,0.0,2.0,COL,COL,COL,170,Sovereign country,Colombia,Col.,Colombia,Colombia
+59,COM,0.0,2.0,COM,COM,COM,174,Sovereign country,Comoros,Com.,Comoros,Comoros
+60,CPV,0.0,2.0,CPV,CPV,CPV,132,Sovereign country,Cape Verde,C.Vd.,Cape Verde,Cape Verde
+61,CRI,0.0,2.0,CRI,CRI,CRI,188,Sovereign country,Costa Rica,C.R.,Costa Rica,Costa Rica
+62,-99,1.0,2.0,CSI,AUS,CSI,-99,Dependency,Coral Sea Islands,C.S.I.,Coral Sea Is.,Coral Sea Islands
+63,CUB,0.0,2.0,CUB,CUB,CUB,192,Sovereign country,Cuba,Cuba,Cuba,Cuba
+64,CUW,1.0,2.0,CUW,CUW,CUW,531,Country,Curaçao,Cur.,Curaçao,Curaçao
+65,CXR,1.0,3.0,IOA,CXR,CXR,162,Geo unit,Christmas Island,Chris. I.,Christmas I.,Christmas Island
+66,CYM,1.0,2.0,CYM,CYM,CYM,136,Dependency,Cayman Islands,Cym. Is.,Cayman Is.,Cayman Islands
+67,-99,0.0,2.0,CYN,CYP,CYN,-99,Sovereign country,Northern Cyprus,N. Cy.,N. Cyprus,Northern Cyprus
+68,CYP,0.0,2.0,CYP,CYP,CYP,196,Sovereign country,Cyprus,Cyp.,Cyprus,Cyprus
+69,CZE,0.0,2.0,CZE,CZE,CZE,203,Sovereign country,Czech Republic,Cz. Rep.,Czech Rep.,Czech Republic
+70,DEU,0.0,2.0,DEU,DEU,DEU,276,Sovereign country,Germany,Ger.,Germany,Germany
+71,DJI,0.0,2.0,DJI,DJI,DJI,262,Sovereign country,Djibouti,Dji.,Djibouti,Djibouti
+72,DMA,0.0,2.0,DMA,DMA,DMA,212,Sovereign country,Dominica,D'inca,Dominica,Dominica
+73,DNK,1.0,2.0,DNK,DNK,DNK,208,Country,Denmark,Den.,Denmark,Denmark
+74,DOM,0.0,2.0,DOM,DOM,DOM,214,Sovereign country,Dominican Republic,Dom. Rep.,Dominican Rep.,Dominican Republic
+75,-99,1.0,3.0,UMI,DQI,DQI,-99,Geo unit,Jarvis Island,Jar. I.,Jarvis I.,Jarvis Island
+76,DZA,0.0,2.0,DZA,DZA,DZA,12,Sovereign country,Algeria,Alg.,Algeria,Algeria
+77,ECU,0.0,2.0,ECU,ECU,ECU,218,Sovereign country,Ecuador,Ecu.,Ecuador,Ecuador
+78,EGY,0.0,2.0,EGY,EGY,EGY,818,Sovereign country,Egypt,Egypt,Egypt,Egypt
+79,-99,1.0,3.0,GBR,-99,ENG,-99,Geo unit,England,Eng.,England,England
+80,ERI,0.0,2.0,ERI,ERI,ERI,232,Sovereign country,Eritrea,Erit.,Eritrea,Eritrea
+81,-99,1.0,2.0,ESB,GBR,ESB,-99,Dependency,Dhekelia Sovereign Base Area,Dhek.,Dhekelia,Dhekelia
+82,ESP,0.0,2.0,ESP,ESP,ESP,724,Sovereign country,Spain,Sp.,Spain,Spain
+83,EST,0.0,2.0,EST,EST,EST,233,Sovereign country,Estonia,Est.,Estonia,Estonia
+84,ETH,0.0,2.0,ETH,ETH,ETH,231,Sovereign country,Ethiopia,Eth.,Ethiopia,Ethiopia
+85,FIN,1.0,2.0,FIN,FIN,FIN,246,Country,Finland,Fin.,Finland,Finland
+86,FJI,0.0,2.0,FJI,FJI,FJI,242,Sovereign country,Fiji,Fiji,Fiji,Fiji
+87,FLK,1.0,2.0,FLK,FLK,FLK,238,Dependency,Falkland Islands,Flk. Is.,Falkland Is.,Falkland Islands
+88,-99,1.0,3.0,UMI,FQI,FQI,-99,Geo unit,Baker Island,Baker I.,Baker I.,Baker Island
+89,FRO,1.0,2.0,FRO,FRO,FRO,234,Dependency,Faroe Islands,Faeroe Is.,Faeroe Is.,Faeroe Islands
+90,FSM,0.0,2.0,FSM,FSM,FSM,583,Sovereign country,Federated States of Micronesia,F.S.M.,Micronesia,Federated States of Micronesia
+91,FRA,1.0,3.0,FRA,FRA,FXX,249,Geo unit,France,Fr.,France,France
+92,GAB,0.0,2.0,GAB,GAB,GAB,266,Sovereign country,Gabon,Gabon,Gabon,Gabon
+93,-99,1.0,3.0,PSX,PSE,GAZ,275,Geo unit,Gaza,Gaza,Gaza,Gaza
+94,-99,0.0,3.0,GEO,GEO,GEA,-99,Geo unit,Ajaria,Ajaria,Adjara,Adjara
+95,-99,0.0,3.0,GEO,GEO,GEG,-99,Geo unit,Georgia,Geo.,Georgia,Georgia
+96,GGY,1.0,2.0,GGY,GGY,GGY,831,Country,Guernsey,Guern.,Guernsey,Guernsey
+97,GHA,0.0,2.0,GHA,GHA,GHA,288,Sovereign country,Ghana,Ghana,Ghana,Ghana
+98,GIB,1.0,2.0,GIB,GIB,GIB,292,Dependency,Gibraltar,Gib.,Gibraltar,Gibraltar
+99,GIN,0.0,2.0,GIN,GIN,GIN,324,Sovereign country,Guinea,Gin.,Guinea,Guinea
+100,GLP,1.0,3.0,FRA,GLP,GLP,312,Geo unit,Guadeloupe,Guad.,Guadeloupe,Guadeloupe
+101,GMB,0.0,2.0,GMB,GMB,GMB,270,Sovereign country,Gambia,Gambia,Gambia,The Gambia
+102,GNB,0.0,2.0,GNB,GNB,GNB,624,Sovereign country,Guinea Bissau,GnB.,Guinea-Bissau,Guinea-Bissau
+103,GNQ,0.0,2.0,GNQ,GNQ,GNQ,226,Sovereign country,Equatorial Guinea,Eq. G.,Eq. Guinea,Equatorial Guinea
+104,GRC,0.0,2.0,GRC,GRC,GRC,300,Sovereign country,Greece,Greece,Greece,Greece
+105,GRD,0.0,2.0,GRD,GRD,GRD,308,Sovereign country,Grenada,Gren.,Grenada,Grenada
+106,GRL,1.0,2.0,GRL,GRL,GRL,304,Country,Greenland,Grlnd.,Greenland,Greenland
+107,GTM,0.0,2.0,GTM,GTM,GTM,320,Sovereign country,Guatemala,Guat.,Guatemala,Guatemala
+108,GUF,1.0,3.0,FRA,GUF,GUF,254,Geo unit,French Guiana,Fr. G.,French Guiana,French Guiana
+109,GUM,1.0,2.0,GUM,GUM,GUM,316,Dependency,Guam,Guam,Guam,Guam
+110,GUY,0.0,2.0,GUY,GUY,GUY,328,Sovereign country,Guyana,Guy.,Guyana,Guyana
+111,HKG,1.0,2.0,HKG,HKG,HKG,344,Country,Hong Kong S.A.R.,H.K.,Hong Kong,Hong Kong
+112,HMD,1.0,2.0,HMD,HMD,HMD,334,Dependency,Heard Island and McDonald Islands,H.M.Is.,Heard I. and McDonald Is.,Heard I. and McDonald Islands
+113,HND,0.0,2.0,HND,HND,HND,340,Sovereign country,Honduras,Hond.,Honduras,Honduras
+114,-99,1.0,3.0,UMI,HQI,HQI,-99,Geo unit,Howland Island,How. I.,Howland I.,Howland Island
+115,HRV,0.0,2.0,HRV,HRV,HRV,191,Sovereign country,Croatia,Cro.,Croatia,Croatia
+116,HTI,0.0,2.0,HTI,HTI,HTI,332,Sovereign country,Haiti,Haiti,Haiti,Haiti
+117,HUN,0.0,2.0,HUN,HUN,HUN,348,Sovereign country,Hungary,Hun.,Hungary,Hungary
+118,IDN,0.0,2.0,IDN,IDN,IDN,360,Sovereign country,Indonesia,Indo.,Indonesia,Indonesia
+119,IMN,1.0,2.0,IMN,IMN,IMN,833,Country,Isle of Man,IoMan,Isle of Man,Isle of Man
+120,IND,0.0,2.0,IND,IND,IND,356,Sovereign country,India,India,India,India
+121,IOT,1.0,2.0,IOT,IOT,IOT,86,Dependency,British Indian Ocean Territory,I.O.T.,Br. Indian Ocean Ter.,British Indian Ocean Territory
+122,-99,0.0,3.0,IRQ,IRQ,IRK,-99,Geo unit,Iraqi Kurdistan,KRG,Iraqi Kurdistan,Iraqi Kurdistan
+123,IRL,0.0,2.0,IRL,IRL,IRL,372,Sovereign country,Ireland,Ire.,Ireland,Ireland
+124,IRN,0.0,2.0,IRN,IRN,IRN,364,Sovereign country,Iran,Iran,Iran,Iran
+125,-99,0.0,3.0,IRQ,IRQ,IRR,-99,Geo unit,Iraq,Iraq,Iraq,Iraq
+126,ISL,0.0,2.0,ISL,ISL,ISL,352,Sovereign country,Iceland,Iceland,Iceland,Iceland
+127,ISR,1.0,2.0,ISR,ISR,ISR,376,Country,Israel,Isr.,Israel,Israel
+128,ITA,0.0,2.0,ITA,ITA,ITA,380,Sovereign country,Italy,Italy,Italy,Italy
+129,JAM,0.0,2.0,JAM,JAM,JAM,388,Sovereign country,Jamaica,Jam.,Jamaica,Jamaica
+130,JEY,1.0,2.0,JEY,JEY,JEY,832,Country,Jersey,Jey.,Jersey,Jersey
+131,JOR,0.0,2.0,JOR,JOR,JOR,400,Sovereign country,Jordan,Jord.,Jordan,Jordan
+132,JPN,0.0,2.0,JPN,JPN,JPN,392,Sovereign country,Japan,Japan,Japan,Japan
+133,-99,1.0,3.0,UMI,JQI,JQI,-99,Geo unit,Johnston Atoll,John. At.,Johnston Atoll,Johnston Atoll
+134,-99,1.0,2.0,KAB,KAZ,KAB,-99,Lease,Baykonur Cosmodrome,Bayk.,Baikonur,Baikonur Cosmodrome
+135,-99,0.0,2.0,KAS,-99,KAS,-99,Indeterminate,Siachen Glacier,Siachen,Siachen Glacier,Siachen Glacier
+136,KAZ,0.0,2.0,KAZ,KAZ,KAZ,398,Sovereign country,Kazakhstan,Kaz.,Kazakhstan,Kazakhstan
+137,KEN,0.0,2.0,KEN,KEN,KEN,404,Sovereign country,Kenya,Ken.,Kenya,Kenya
+138,KGZ,0.0,2.0,KGZ,KGZ,KGZ,417,Sovereign country,Kyrgyzstan,Kgz.,Kyrgyzstan,Kyrgyzstan
+139,KHM,0.0,2.0,KHM,KHM,KHM,116,Sovereign country,Cambodia,Camb.,Cambodia,Cambodia
+140,KIR,0.0,2.0,KIR,KIR,KIR,296,Sovereign country,Kiribati,Kir.,Kiribati,Kiribati
+141,KNA,0.0,2.0,KNA,KNA,KNA,659,Sovereign country,Saint Kitts and Nevis,St.K.N.,St. Kitts and Nevis,Saint Kitts and Nevis
+142,-99,0.0,3.0,KOR,-99,KNX,-99,Overlay,Korean Demilitarized Zone (south),DMZ South,Korean DMZ (south),Korean DMZ (south)
+143,-99,0.0,3.0,PRK,-99,KNZ,-99,Overlay,Korean Demilitarized Zone (north),DMZ North,Korean DMZ (north),Korean DMZ (north)
+144,KOR,0.0,2.0,KOR,KOR,KOR,410,Sovereign country,South Korea,S.K.,Korea,Republic of Korea
+145,-99,0.0,2.0,KOS,SRB,KOS,-99,Sovereign country,Kosovo,Kos.,Kosovo,Kosovo
+146,-99,1.0,3.0,UMI,KQI,KQI,-99,Geo unit,Kingman Reef,King. Rf.,Kingman Reef,Kingman Reef
+147,KWT,0.0,2.0,KWT,KWT,KWT,414,Sovereign country,Kuwait,Kwt.,Kuwait,Kuwait
+148,LAO,0.0,2.0,LAO,LAO,LAO,418,Sovereign country,Laos,Laos,Lao PDR,Lao PDR
+149,LBN,0.0,2.0,LBN,LBN,LBN,422,Sovereign country,Lebanon,Leb.,Lebanon,Lebanon
+150,LBR,0.0,2.0,LBR,LBR,LBR,430,Sovereign country,Liberia,Liberia,Liberia,Liberia
+151,LBY,0.0,2.0,LBY,LBY,LBY,434,Sovereign country,Libya,Libya,Libya,Libya
+152,LCA,0.0,2.0,LCA,LCA,LCA,662,Sovereign country,Saint Lucia,S.L.,Saint Lucia,Saint Lucia
+153,LIE,0.0,2.0,LIE,LIE,LIE,438,Sovereign country,Liechtenstein,Liech.,Liechtenstein,Liechtenstein
+154,LKA,0.0,2.0,LKA,LKA,LKA,144,Sovereign country,Sri Lanka,Sri L.,Sri Lanka,Sri Lanka
+155,-99,1.0,3.0,UMI,LQI,LQI,-99,Geo unit,Palmyra Atoll,Palm. At.,Palmyra Atoll,Palmyra Atoll
+156,LSO,0.0,2.0,LSO,LSO,LSO,426,Sovereign country,Lesotho,Les.,Lesotho,Lesotho
+157,LTU,0.0,2.0,LTU,LTU,LTU,440,Sovereign country,Lithuania,Lith.,Lithuania,Lithuania
+158,LUX,0.0,2.0,LUX,LUX,LUX,442,Sovereign country,Luxembourg,Lux.,Luxembourg,Luxembourg
+159,LVA,0.0,2.0,LVA,LVA,LVA,428,Sovereign country,Latvia,Lat.,Latvia,Latvia
+160,MAC,1.0,2.0,MAC,MAC,MAC,446,Country,Macao S.A.R,Mac.,Macao,Macao
+161,MAF,1.0,2.0,MAF,MAF,MAF,663,Dependency,Saint Martin,St. M.,St-Martin,Saint-Martin
+162,MAR,0.0,2.0,MAR,MAR,MAR,504,Sovereign country,Morocco,Mor.,Morocco,Morocco
+163,MCO,0.0,2.0,MCO,MCO,MCO,492,Sovereign country,Monaco,Mco.,Monaco,Monaco
+164,MDA,0.0,2.0,MDA,MDA,MDA,498,Sovereign country,Moldova,Mda.,Moldova,Moldova
+165,MDG,0.0,2.0,MDG,MDG,MDG,450,Sovereign country,Madagascar,Mad.,Madagascar,Madagascar
+166,MDV,0.0,2.0,MDV,MDV,MDV,462,Sovereign country,Maldives,Mald.,Maldives,Maldives
+167,MEX,0.0,2.0,MEX,MEX,MEX,484,Sovereign country,Mexico,Mex.,Mexico,Mexico
+168,MHL,0.0,2.0,MHL,MHL,MHL,584,Sovereign country,Marshall Islands,M. Is.,Marshall Is.,Marshall Islands
+169,MKD,0.0,2.0,MKD,MKD,MKD,807,Sovereign country,Macedonia,Mkd.,Macedonia,Macedonia
+170,MLI,0.0,2.0,MLI,MLI,MLI,466,Sovereign country,Mali,Mali,Mali,Mali
+171,MLT,0.0,2.0,MLT,MLT,MLT,470,Sovereign country,Malta,Malta,Malta,Malta
+172,MMR,0.0,2.0,MMR,MMR,MMR,104,Sovereign country,Myanmar,Myan.,Myanmar,Myanmar
+173,MNE,0.0,2.0,MNE,MNE,MNE,499,Sovereign country,Montenegro,Mont.,Montenegro,Montenegro
+174,MNG,0.0,2.0,MNG,MNG,MNG,496,Sovereign country,Mongolia,Mong.,Mongolia,Mongolia
+175,MNP,1.0,2.0,MNP,MNP,MNP,580,Dependency,Northern Mariana Islands,N.M.I.,N. Mariana Is.,Northern Mariana Islands
+176,MOZ,0.0,2.0,MOZ,MOZ,MOZ,508,Sovereign country,Mozambique,Moz.,Mozambique,Mozambique
+177,-99,1.0,3.0,UMI,MQI,MQI,-99,Geo unit,Midway Islands,Mid. Is.,Midway Is.,Midway Islands
+178,MRT,0.0,2.0,MRT,MRT,MRT,478,Sovereign country,Mauritania,Mrt.,Mauritania,Mauritania
+179,MSR,1.0,2.0,MSR,MSR,MSR,500,Dependency,Montserrat,Monts.,Montserrat,Montserrat
+180,MTQ,1.0,3.0,FRA,MTQ,MTQ,474,Geo unit,Martinique,Mtq.,Martinique,Martinique
+181,MUS,0.0,2.0,MUS,MUS,MUS,480,Sovereign country,Mauritius,Mus.,Mauritius,Mauritius
+182,MWI,0.0,2.0,MWI,MWI,MWI,454,Sovereign country,Malawi,Mal.,Malawi,Malawi
+183,MYS,0.0,2.0,MYS,MYS,MYS,458,Sovereign country,Malaysia,Malay.,Malaysia,Malaysia
+184,MYT,1.0,3.0,FRA,MYT,MYT,175,Geo unit,Mayotte,Myt.,Mayotte,Mayotte
+185,NAM,0.0,2.0,NAM,NAM,NAM,516,Sovereign country,Namibia,Nam.,Namibia,Namibia
+186,NCL,1.0,2.0,NCL,NCL,NCL,540,Dependency,New Caledonia,New C.,New Caledonia,New Caledonia
+187,NER,0.0,2.0,NER,NER,NER,562,Sovereign country,Niger,Niger,Niger,Niger
+188,NFK,1.0,2.0,NFK,NFK,NFK,574,Dependency,Norfolk Island,Nfk. I.,Norfolk Island,Norfolk Island
+189,NGA,0.0,2.0,NGA,NGA,NGA,566,Sovereign country,Nigeria,Nigeria,Nigeria,Nigeria
+190,NIC,0.0,2.0,NIC,NIC,NIC,558,Sovereign country,Nicaragua,Nic.,Nicaragua,Nicaragua
+191,-99,1.0,3.0,GBR,-99,NIR,-99,Geo unit,Northern Ireland,N.Ire.,N. Ireland,Northern Ireland
+192,NIU,1.0,2.0,NIU,NIU,NIU,570,Dependency,Niue,Niue,Niue,Niue
+193,-99,0.0,3.0,NOR,SJM,NJM,-99,Geo unit,Jan Mayen,J.M.,Jan Mayen I.,Jan Mayen Island
+194,-99,1.0,3.0,NLD,NLD,NLX,-99,Geo core,Netherlands,Neth.,Netherlands,Netherlands
+195,BES,1.0,3.0,NLD,BES,NLY,535,Geo unit,Caribbean Netherlands,BES Is.,Caribbean Netherlands,Caribbean Netherlands
+196,NOR,0.0,3.0,NOR,NOR,NOW,578,Geo unit,Norway,Nor.,Norway,Norway
+197,NPL,0.0,2.0,NPL,NPL,NPL,524,Sovereign country,Nepal,Nepal,Nepal,Nepal
+198,NRU,0.0,2.0,NRU,NRU,NRU,520,Sovereign country,Nauru,Nauru,Nauru,Nauru
+199,SJM,0.0,3.0,NOR,SJM,NSV,-99,Geo unit,Svalbard,Sval.,Svalbard Is.,Svalbard Islands
+200,NZL,1.0,2.0,NZL,NZL,NZL,554,Country,New Zealand,N.Z.,New Zealand,New Zealand
+201,OMN,0.0,2.0,OMN,OMN,OMN,512,Sovereign country,Oman,Oman,Oman,Oman
+202,PAK,0.0,2.0,PAK,PAK,PAK,586,Sovereign country,Pakistan,Pak.,Pakistan,Pakistan
+203,PAN,0.0,2.0,PAN,PAN,PAN,591,Sovereign country,Panama,Pan.,Panama,Panama
+204,-99,0.0,3.0,PRT,-99,PAZ,-99,Geo unit,Azores,Az.,Azores,Azores
+205,PCN,1.0,2.0,PCN,PCN,PCN,612,Dependency,Pitcairn Islands,Pit. Is.,Pitcairn Is.,Pitcairn Islands
+206,PER,0.0,2.0,PER,PER,PER,604,Sovereign country,Peru,Peru,Peru,Peru
+207,-99,1.0,3.0,CHN,-99,PFA,-99,Geo unit,Paracel Islands,Par. Is.,Paracel Is.,Paracel Islands
+208,-99,0.0,2.0,PGA,-99,PGA,-99,Indeterminate,Spratly Islands,Spratly Is.,Spratly Is.,Spratly Islands
+209,PHL,0.0,2.0,PHL,PHL,PHL,608,Sovereign country,Philippines,Phil.,Philippines,Philippines
+210,PLW,0.0,2.0,PLW,PLW,PLW,585,Sovereign country,Palau,Palau,Palau,Palau
+211,-99,0.0,3.0,PRT,-99,PMD,-99,Geo unit,Madeira,Mad.,Madeira,Madeira
+212,-99,0.0,3.0,PNG,PNG,PNB,-99,Geo unit,Bougainville,Boug.,Bougainville,Bougainville
+213,-99,0.0,3.0,PNG,PNG,PNX,-99,Geo unit,Papua New Guinea,P.N.G.,Papua New Guinea,Papua New Guinea
+214,POL,0.0,2.0,POL,POL,POL,616,Sovereign country,Poland,Pol.,Poland,Poland
+215,PRI,1.0,2.0,PRI,PRI,PRI,630,Dependency,Puerto Rico,P.R.,Puerto Rico,Puerto Rico
+216,PRK,0.0,2.0,PRK,PRK,PRK,408,Sovereign country,North Korea,N.K.,Dem. Rep. Korea,Dem. Rep. Korea
+217,-99,0.0,3.0,PRT,PRT,PRX,-99,Geo unit,Portugal,Port.,Portugal,Portugal
+218,PRY,0.0,2.0,PRY,PRY,PRY,600,Sovereign country,Paraguay,Para.,Paraguay,Paraguay
+219,PYF,1.0,2.0,PYF,PYF,PYF,258,Dependency,French Polynesia,Fr. Poly.,Fr. Polynesia,French Polynesia
+220,QAT,0.0,2.0,QAT,QAT,QAT,634,Sovereign country,Qatar,Qatar,Qatar,Qatar
+221,REU,1.0,3.0,FRA,REU,REU,638,Geo unit,Reunion,Reu.,Reunion,Reunion
+222,ROU,0.0,2.0,ROU,ROU,ROU,642,Sovereign country,Romania,Rom.,Romania,Romania
+223,RUS,0.0,2.0,RUS,RUS,RUS,643,Sovereign country,Russia,Rus.,Russia,Russian Federation
+224,RWA,0.0,2.0,RWA,RWA,RWA,646,Sovereign country,Rwanda,Rwa.,Rwanda,Rwanda
+225,ESH,0.0,2.0,SAH,MAR,SAH,732,Indeterminate,Western Sahara,W. Sah.,W. Sahara,Western Sahara
+226,SAU,0.0,2.0,SAU,SAU,SAU,682,Sovereign country,Saudi Arabia,Saud.,Saudi Arabia,Saudi Arabia
+227,-99,0.0,2.0,SCR,-99,SCR,-99,Indeterminate,Scarborough Reef,S.R.,Scarborough Reef,Scarborough Reef
+228,-99,1.0,3.0,GBR,-99,SCT,-99,Geo unit,Scotland,Scot.,Scotland,Scotland
+229,SDN,0.0,2.0,SDN,SDN,SDN,729,Sovereign country,Sudan,Sudan,Sudan,Sudan
+230,SSD,0.0,2.0,SDS,SSD,SDS,728,Sovereign country,South Sudan,S. Sud.,S. Sudan,South Sudan
+231,SEN,0.0,2.0,SEN,SEN,SEN,686,Sovereign country,Senegal,Sen.,Senegal,Senegal
+232,-99,0.0,2.0,SER,-99,SER,-99,Indeterminate,Serranilla Bank,S.B.,Serranilla Bank,Serranilla Bank
+233,SGP,0.0,2.0,SGP,SGP,SGP,702,Sovereign country,Singapore,Sing.,Singapore,Singapore
+234,SGS,1.0,2.0,SGS,SGS,SGS,239,Dependency,South Georgia and South Sandwich Islands,S.G. S.S. Is.,S. Geo. and S. Sandw. Is.,South Georgia and South Sandwich Islands
+235,SHN,1.0,2.0,SHN,SHN,SHN,654,Dependency,Saint Helena,St.H.,Saint Helena,Saint Helena
+236,SLB,0.0,2.0,SLB,SLB,SLB,90,Sovereign country,Solomon Islands,S. Is.,Solomon Is.,Solomon Islands
+237,SLE,0.0,2.0,SLE,SLE,SLE,694,Sovereign country,Sierra Leone,S.L.,Sierra Leone,Sierra Leone
+238,SLV,0.0,2.0,SLV,SLV,SLV,222,Sovereign country,El Salvador,El. S.,El Salvador,El Salvador
+239,SMR,0.0,2.0,SMR,SMR,SMR,674,Sovereign country,San Marino,S.M.,San Marino,San Marino
+240,-99,0.0,2.0,SOL,SOM,SOL,-99,Indeterminate,Somaliland,Solnd.,Somaliland,Somaliland
+241,-99,0.0,3.0,SOM,SOM,SOP,-99,Geo unit,Puntland,Punt.,Puntland,Puntland
+242,-99,0.0,3.0,SOM,SOM,SOX,-99,Geo unit,Somalia,Som.,Somalia,Somalia
+243,SPM,1.0,2.0,SPM,SPM,SPM,666,Dependency,Saint Pierre and Miquelon,St. P.M.,St. Pierre and Miquelon,Saint Pierre and Miquelon
+244,-99,0.0,3.0,SRB,SRB,SRS,-99,Geo unit,Serbia,Serb.,Serbia,Serbia
+245,-99,0.0,3.0,SRB,SRB,SRV,-99,Geo unit,Vojvodina,Vojv.,Vojvodina,Vojvodina
+246,STP,0.0,2.0,STP,STP,STP,678,Sovereign country,Sao Tome and Principe,S.T.P.,São Tomé and Principe,São Tomé and Principe
+247,SUR,0.0,2.0,SUR,SUR,SUR,740,Sovereign country,Suriname,Sur.,Suriname,Suriname
+248,SVK,0.0,2.0,SVK,SVK,SVK,703,Sovereign country,Slovakia,Svk.,Slovakia,Slovakia
+249,SVN,0.0,2.0,SVN,SVN,SVN,705,Sovereign country,Slovenia,Slo.,Slovenia,Slovenia
+250,SWE,0.0,2.0,SWE,SWE,SWE,752,Sovereign country,Sweden,Swe.,Sweden,Sweden
+251,SWZ,0.0,2.0,SWZ,SWZ,SWZ,748,Sovereign country,Swaziland,Swz.,Swaziland,Swaziland
+252,SXM,1.0,2.0,SXM,SXM,SXM,534,Country,Sint Maarten,St. M.,Sint Maarten,Sint Maarten
+253,SYC,0.0,2.0,SYC,SYC,SYC,690,Sovereign country,Seychelles,Syc.,Seychelles,Seychelles
+254,-99,0.0,3.0,SYR,SYR,SYU,-99,Overlay,UNDOF,DOF,UNDOF Zone,UNDOF Zone
+255,SYR,0.0,3.0,SYR,SYR,SYX,760,Geo unit,Syria,Syria,Syria,Syrian Arab Republic
+256,TCA,1.0,2.0,TCA,TCA,TCA,796,Dependency,Turks and Caicos Islands,T.C. Is.,Turks and Caicos Is.,Turks and Caicos Islands
+257,TCD,0.0,2.0,TCD,TCD,TCD,148,Sovereign country,Chad,Chad,Chad,Chad
+258,TGO,0.0,2.0,TGO,TGO,TGO,768,Sovereign country,Togo,Togo,Togo,Togo
+259,THA,0.0,2.0,THA,THA,THA,764,Sovereign country,Thailand,Thai.,Thailand,Thailand
+260,TJK,0.0,2.0,TJK,TJK,TJK,762,Sovereign country,Tajikistan,Tjk.,Tajikistan,Tajikistan
+261,TKL,1.0,3.0,NZL,TKL,TKL,772,Geo unit,Tokelau,Tkl.,Tokelau,Tokelau
+262,TKM,0.0,2.0,TKM,TKM,TKM,795,Sovereign country,Turkmenistan,Turkm.,Turkmenistan,Turkmenistan
+263,TLS,0.0,2.0,TLS,TLS,TLS,626,Sovereign country,East Timor,T.L.,Timor-Leste,Timor-Leste
+264,TON,0.0,2.0,TON,TON,TON,776,Sovereign country,Tonga,Tongo,Tonga,Tonga
+265,TTO,0.0,2.0,TTO,TTO,TTO,780,Sovereign country,Trinidad and Tobago,Tr.T.,Trinidad and Tobago,Trinidad and Tobago
+266,TUN,0.0,2.0,TUN,TUN,TUN,788,Sovereign country,Tunisia,Tun.,Tunisia,Tunisia
+267,TUR,0.0,2.0,TUR,TUR,TUR,792,Sovereign country,Turkey,Tur.,Turkey,Turkey
+268,TUV,0.0,2.0,TUV,TUV,TUV,798,Sovereign country,Tuvalu,Tuv.,Tuvalu,Tuvalu
+269,TWN,0.0,2.0,TWN,TWN,TWN,158,Sovereign country,Taiwan,Taiwan,Taiwan,Taiwan
+270,TZA,0.0,2.0,TZA,TZA,TZA,834,Sovereign country,Tanzania,Tanz.,Tanzania,Tanzania
+271,-99,0.0,3.0,TZA,TZA,TZZ,-99,Geo unit,Zanzibar,Zan.,Zanzibar,Zanzibar
+272,UGA,0.0,2.0,UGA,UGA,UGA,800,Sovereign country,Uganda,Uga.,Uganda,Uganda
+273,UKR,0.0,2.0,UKR,UKR,UKR,804,Sovereign country,Ukraine,Ukr.,Ukraine,Ukraine
+274,URY,0.0,2.0,URY,URY,URY,858,Sovereign country,Uruguay,Ury.,Uruguay,Uruguay
+275,USA,1.0,2.0,USA,USA,USA,840,Country,United States of America,U.S.A.,United States,United States
+276,-99,1.0,2.0,USG,-99,USG,-99,Lease,US Naval Base Guantanamo Bay,Guantan.,USNB Guantanamo Bay,US Naval Base Guantanamo Bay
+277,UZB,0.0,2.0,UZB,UZB,UZB,860,Sovereign country,Uzbekistan,Uzb.,Uzbekistan,Uzbekistan
+278,VAT,0.0,2.0,VAT,VAT,VAT,336,Sovereign country,Vatican,Vat.,Vatican,Vatican
+279,VCT,0.0,2.0,VCT,VCT,VCT,670,Sovereign country,Saint Vincent and the Grenadines,St.V.G.,St. Vin. and Gren.,Saint Vincent and the Grenadines
+280,VEN,0.0,2.0,VEN,VEN,VEN,862,Sovereign country,Venezuela,Ven.,Venezuela,Venezuela
+281,VGB,1.0,2.0,VGB,VGB,VGB,92,Dependency,British Virgin Islands,V.I. (Br.),British Virgin Is.,British Virgin Islands
+282,VIR,1.0,2.0,VIR,VIR,VIR,850,Dependency,United States Virgin Islands,V.I. (U.S.),U.S. Virgin Is.,United States Virgin Islands
+283,VNM,0.0,2.0,VNM,VNM,VNM,704,Sovereign country,Vietnam,Viet.,Vietnam,Vietnam
+284,VUT,0.0,2.0,VUT,VUT,VUT,548,Sovereign country,Vanuatu,Van.,Vanuatu,Vanuatu
+285,-99,1.0,3.0,PSX,PSE,WEB,275,Geo unit,West Bank,W.B.,West Bank,West Bank
+286,WLF,1.0,2.0,WLF,WLF,WLF,876,Dependency,Wallis and Futuna,Wlf.,Wallis and Futuna Is.,Wallis and Futuna Islands
+287,-99,1.0,3.0,GBR,-99,WLS,-99,Geo unit,Wales,Wales,Wales,Wales
+288,-99,1.0,3.0,UMI,WQI,WQI,-99,Geo unit,Wake Atoll,Wake At.,Wake Atoll,Wake Atoll
+289,-99,1.0,2.0,WSB,GBR,WSB,-99,Dependency,Akrotiri Sovereign Base Area,Akr.,Akrotiri,Akrotiri
+290,WSM,0.0,2.0,WSM,WSM,WSM,882,Sovereign country,Samoa,Samoa,Samoa,Samoa
+291,YEM,0.0,2.0,YEM,YEM,YEM,887,Sovereign country,Yemen,Yem.,Yemen,Yemen
+292,ZAF,0.0,2.0,ZAF,ZAF,ZAF,710,Sovereign country,South Africa,S.Af.,South Africa,South Africa
+293,ZMB,0.0,2.0,ZMB,ZMB,ZMB,894,Sovereign country,Zambia,Zambia,Zambia,Zambia
+294,ZWE,0.0,2.0,ZWE,ZWE,ZWE,716,Sovereign country,Zimbabwe,Zimb.,Zimbabwe,Zimbabwe

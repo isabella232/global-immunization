@@ -1,0 +1,289 @@
+,name,name_abbrev,id,lat,lon,ISO_A3,ADM0_DIF,LEVEL,ADM0_A3,ADM0_A3_IS,GU_A3,ISO_N3,TYPE,GEOUNIT,ABBREV,NAME_LONG,ISOA3_GUA3,unicef_region,country,IncomeGroup,GDP 2016,PPP 2016,Pop % under 14,Pop # under 14,DTP1-16,DTP1-96,DTP1-86
+0,Afghanistan,Afg.,4.0,,,AFG,0.0,2.0,AFG,AFG,AFG,4.0,Sovereign country,Afghanistan,Afg.,Afghanistan,AFG,South Asia,Afghanistan,Low income,"19,469",1876.544682,43.0,15277900.0,73.0,56.0,32.0
+1,Aland Islands,Aland,248.0,60.211,20.275,,,,,,,,,,,,,,,,,,,,,,
+2,Albania,Alb.,8.0,,,ALB,0.0,2.0,ALB,ALB,ALB,8.0,Sovereign country,Albania,Alb.,Albania,ALB,Eastern Europe & Central Asia,Albania,Upper middle income,"11,927",11928.53656,17.0,498100.0,99.0,98.0,98.0
+3,Algeria,Alg.,12.0,,,DZA,0.0,2.0,DZA,DZA,DZA,12.0,Sovereign country,Algeria,Alg.,Algeria,DZA,Middle East & North Africa,Algeria,Upper middle income,"156,080",15074.92481,29.0,11982220.0,96.0,96.0,92.0
+4,American Samoa,Am. Samoa,16.0,-14.3,-170.7,,,,,,,,,,,,,,,,,,,,,,
+5,Andorra,And.,20.0,42.5,1.517,AND,0.0,2.0,AND,AND,AND,20.0,Sovereign country,Andorra,And.,Andorra,AND,Western Europe,Andorra,High income, .. ,,,,99.0,,
+6,Angola,Ang.,24.0,,,AGO,0.0,2.0,AGO,AGO,AGO,24.0,Sovereign country,Angola,Ang.,Angola,AGO,Eastern & Southern Africa,Angola,Lower middle income,"89,633",6499.067104,47.0,13998480.0,79.0,53.0,31.0
+7,Anguilla,Ang.,660.0,18.227,-63.049,,,,,,,,,,,,,,,,,,,,,,
+8,Antarctica,Ant.,10.0,,,,,,,,,,,,,,,,,,,,,,,,
+9,Antigua and Barbuda,Ant.B.,28.0,17.117,-61.85,,,,,,,,,,,,,,,,,,,,,,
+10,Argentina,Arg.,32.0,,,ARG,0.0,2.0,ARG,ARG,ARG,32.0,Sovereign country,Argentina,Arg.,Argentina,ARG,Latin America & Caribbean,Argentina,Upper middle income,"545,866",19934.37249,25.0,11067750.0,97.0,94.0,86.0
+11,Armenia,Arm.,51.0,,,ARM,0.0,2.0,ARM,ARM,ARM,51.0,Sovereign country,Armenia,Arm.,Armenia,ARM,Eastern Europe & Central Asia,Armenia,Lower middle income,"10,547",8817.953996,20.0,586000.0,97.0,95.0,
+12,Aruba,Aruba,533.0,12.5,-69.967,,,,,,,,,,,,,,,,,,,,,,
+13,Ashmore and Cartier Islands,A.C.Is.,36.0,-12.258,123.042,,,,,,,,,,,,,,,,,,,,,,
+14,Australia,Auz.,36.0,,,AUS,1.0,2.0,AUS,AUS,AUS,36.0,Country,Australia,Auz.,Australia,AUS,East Asia & Pacific,Australia,High income,"1,204,616",46789.92724,19.0,4645690.0,98.0,95.0,91.0
+15,Austria,Aust.,40.0,,,AUT,0.0,2.0,AUT,AUT,AUT,40.0,Sovereign country,Austria,Aust.,Austria,AUT,Western Europe,Austria,High income,"386,428",50077.83261,14.0,1222900.0,99.0,96.0,96.0
+16,Azerbaijan,Aze.,31.0,,,AZE,0.0,2.0,AZE,AZE,AZE,31.0,Sovereign country,Azerbaijan,Aze.,Azerbaijan,AZE,Eastern Europe & Central Asia,Azerbaijan,Upper middle income,"37,848",17253.25603,23.0,2260440.0,98.0,82.0,
+17,Bahamas,Bhs.,44.0,,,BHS,0.0,2.0,BHS,BHS,BHS,44.0,Sovereign country,The Bahamas,Bhs.,Bahamas,BHS,Latin America & Caribbean,Bahamas,High income,"9,047",23173.0333,20.0,79000.0,95.0,95.0,95.0
+18,Bahrain,Bahr.,48.0,26.028,50.55,BHR,0.0,2.0,BHR,BHR,BHR,48.0,Sovereign country,Bahrain,Bahr.,Bahrain,BHR,Middle East & North Africa,Bahrain,High income,"31,859",,20.0,298600.0,99.0,96.0,97.0
+19,Bangladesh,Bang.,50.0,,,BGD,0.0,2.0,BGD,BGD,BGD,50.0,Sovereign country,Bangladesh,Bang.,Bangladesh,BGD,South Asia,Bangladesh,Lower middle income,"221,415",3580.694128,28.0,46107600.0,99.0,91.0,22.0
+20,Barbados,Barb.,52.0,13.167,-59.55,BRB,0.0,2.0,BRB,BRB,BRB,52.0,Sovereign country,Barbados,Barb.,Barbados,BRB,Latin America & Caribbean,Barbados,High income,"4,588",16815.57034,19.0,54340.0,99.0,95.0,92.0
+21,Belarus,Bela.,112.0,,,BLR,0.0,2.0,BLR,BLR,BLR,112.0,Sovereign country,Belarus,Bela.,Belarus,BLR,Eastern Europe & Central Asia,Belarus,Upper middle income,"47,433",18060.41295,17.0,1609560.0,99.0,98.0,
+22,Belgium,Belg.,56.0,,,,,,,,,,,,,,,,,,,,,,,,
+23,Belize,Belize,84.0,,,BLZ,0.0,2.0,BLZ,BLZ,BLZ,84.0,Sovereign country,Belize,Belize,Belize,BLZ,Latin America & Caribbean,Belize,Upper middle income,"1,765",8448.043456,31.0,116250.0,98.0,95.0,98.0
+24,Benin,Benin,204.0,,,BEN,0.0,2.0,BEN,BEN,BEN,204.0,Sovereign country,Benin,Benin,Benin,BEN,West & Central Africa,Benin,Low income,"8,583",2168.210407,43.0,4805680.0,86.0,86.0,36.0
+25,Bermuda,Berm.,60.0,32.3,-64.783,,,,,,,,,,,,,,,,,,,,,,
+26,Bhutan,Bhutan,64.0,,,BTN,0.0,2.0,BTN,BTN,BTN,64.0,Sovereign country,Bhutan,Bhutan,Bhutan,BTN,South Asia,Bhutan,Lower middle income,"2,237",8743.985571,27.0,218160.0,99.0,95.0,77.0
+27,Bolivia,Bolivia,68.0,,,BOL,0.0,2.0,BOL,BOL,BOL,68.0,Sovereign country,Bolivia,Bolivia,Bolivia,BOL,Latin America & Caribbean,Bolivia (Plurinational State of),Lower middle income,"33,806",7236.089471,32.0,3536640.0,99.0,82.0,67.0
+28,Bosnia and Herzegovina,B.H.,70.0,,,,,,,,,,,,,,,,,,,,,,,,
+29,Botswana,Bwa.,72.0,,,BWA,0.0,2.0,BWA,BWA,BWA,72.0,Sovereign country,Botswana,Bwa.,Botswana,BWA,Eastern & Southern Africa,Botswana,Upper middle income,"15,275",16734.85198,31.0,710520.0,98.0,98.0,98.0
+30,Brazil,Brazil,76.0,,,BRA,0.0,2.0,BRA,BRA,BRA,76.0,Sovereign country,Brazil,Brazil,Brazil,BRA,Latin America & Caribbean,Brazil,Upper middle income,"1,796,187",15127.8101,22.0,46043360.0,89.0,75.0,80.0
+31,British Indian Ocean Territory,I.O.T.,86.0,-6.0,71.5,,,,,,,,,,,,,,,,,,,,,,
+32,British Virgin Islands,V.I. (Br.),92.0,18.429,-64.624,,,,,,,,,,,,,,,,,,,,,,
+33,Brunei,Brunei,96.0,,,BRN,0.0,2.0,BRN,BRN,BRN,96.0,Sovereign country,Brunei,Brunei,Brunei Darussalam,BRN,East Asia & Pacific,Brunei Darussalam,High income,"11,400",77440.88443,23.0,98670.0,99.0,99.0,95.0
+34,Bulgaria,Bulg.,100.0,,,BGR,0.0,2.0,BGR,BGR,BGR,100.0,Sovereign country,Bulgaria,Bulg.,Bulgaria,BGR,Eastern Europe & Central Asia,Bulgaria,Upper middle income,"52,395",19199.07115,14.0,991900.0,94.0,98.0,99.0
+35,Burkina Faso,B.F.,854.0,,,BFA,0.0,2.0,BFA,BFA,BFA,854.0,Sovereign country,Burkina Faso,B.F.,Burkina Faso,BFA,West & Central Africa,Burkina Faso,Low income,"12,115",1720.121585,45.0,8636850.0,95.0,78.0,48.0
+36,Burundi,Bur.,108.0,,,BDI,0.0,2.0,BDI,BDI,BDI,108.0,Sovereign country,Burundi,Bur.,Burundi,BDI,Eastern & Southern Africa,Burundi,Low income,"3,007",777.9565012,45.0,4888800.0,97.0,86.0,76.0
+37,Cambodia,Camb.,116.0,,,KHM,0.0,2.0,KHM,KHM,KHM,116.0,Sovereign country,Cambodia,Camb.,Cambodia,KHM,East Asia & Pacific,Cambodia,Lower middle income,"20,017",3735.478623,31.0,4961550.0,92.0,59.0,62.0
+38,Cameroon,Cam.,120.0,,,CMR,0.0,2.0,CMR,CMR,CMR,120.0,Sovereign country,Cameroon,Cam.,Cameroon,CMR,West & Central Africa,Cameroon,Lower middle income,"24,204",3285.731599,43.0,10343220.0,92.0,71.0,58.0
+39,Canada,Can.,124.0,,,CAN,0.0,2.0,CAN,CAN,CAN,124.0,Sovereign country,Canada,Can.,Canada,CAN,North America,Canada,High income,"1,529,760",44025.18343,16.0,5859840.0,96.0,98.0,
+40,Cape Verde,C.Vd.,132.0,15.111,-23.617,CPV,0.0,2.0,CPV,CPV,CPV,132.0,Sovereign country,Cape Verde,C.Vd.,Cape Verde,CPV,West & Central Africa,Cabo Verde,Lower middle income,"1,617",6553.034369,30.0,163800.0,96.0,90.0,77.0
+41,Cayman Islands,Cym. Is.,136.0,19.333,-81.4,,,,,,,,,,,,,,,,,,,,,,
+42,Central African Republic,C.A.R.,140.0,,,,,,,,,,,,,,,,,,,,,,,,
+43,Chad,Chad,148.0,,,TCD,0.0,2.0,TCD,TCD,TCD,148.0,Sovereign country,Chad,Chad,Chad,TCD,West & Central Africa,Chad,Low income,"9,601",1991.247916,47.0,7003000.0,60.0,44.0,31.0
+44,Chile,Chile,152.0,,,CHL,0.0,2.0,CHL,CHL,CHL,152.0,Sovereign country,Chile,Chile,Chile,CHL,Latin America & Caribbean,Chile,High income,"247,028",23960.27015,20.0,3611000.0,99.0,97.0,96.0
+45,China,China,156.0,,,CHN,1.0,2.0,CHN,CHN,CHN,156.0,Country,China,China,China,CHN,East Asia & Pacific,China,Upper middle income,"11,199,145",15534.70194,18.0,253713060.0,99.0,94.0,92.0
+46,Colombia,Col.,170.0,,,COL,0.0,2.0,COL,COL,COL,170.0,Sovereign country,Colombia,Col.,Colombia,COL,Latin America & Caribbean,Colombia,Upper middle income,"282,463",14157.63404,23.0,11285180.0,93.0,95.0,72.0
+47,Comoros,Com.,174.0,-11.683,43.267,COM,0.0,2.0,COM,COM,COM,174.0,Sovereign country,Comoros,Com.,Comoros,COM,Eastern & Southern Africa,Comoros,Low income,617,1522.255706,40.0,325600.0,96.0,82.0,88.0
+48,Congo,D.R.C.,180.0,,,COG,0.0,2.0,COG,COG,COG,178.0,Sovereign country,Republic of Congo,Rep. Congo,Republic of Congo,COG,West & Central Africa,Congo,Lower middle income,"7,834",5718.788841,42.0,2209620.0,85.0,62.0,88.0
+49,Cook Islands,Cook Is.,184.0,-21.2,-159.767,,,,,,,,,,,,,,,,,,,,,,
+50,Costa Rica,C.R.,188.0,,,CRI,0.0,2.0,CRI,CRI,CRI,188.0,Sovereign country,Costa Rica,C.R.,Costa Rica,CRI,Latin America & Caribbean,Costa Rica,Upper middle income,"57,436",16614.08851,22.0,1079320.0,99.0,95.0,96.0
+51,Croatia,Cro.,191.0,,,HRV,0.0,2.0,HRV,HRV,HRV,191.0,Sovereign country,Croatia,Cro.,Croatia,HRV,Eastern Europe & Central Asia,Croatia,Upper middle income,"50,425",23596.24491,15.0,628350.0,98.0,97.0,
+52,Cuba,Cuba,192.0,,,CUB,0.0,2.0,CUB,CUB,CUB,192.0,Sovereign country,Cuba,Cuba,Cuba,CUB,Latin America & Caribbean,Cuba,Upper middle income,"87,133",,16.0,1837600.0,99.0,96.0,99.0
+53,Curacao,Cur.,531.0,12.183,-69.0,,,,,,,,,,,,,,,,,,,,,,
+54,Cyprus,Cyp.,196.0,,,CYP,0.0,2.0,CYP,CYP,CYP,196.0,Sovereign country,Cyprus,Cyp.,Cyprus,CYP,Western Europe,Cyprus,High income,"19,802",32580.35064,17.0,200600.0,98.0,98.0,97.0
+55,Czech Republic,Cz. Rep.,203.0,,,,,,,,,,,,,,,,,,,,,,,,
+56,Denmark,Den.,208.0,,,DNK,1.0,2.0,DNK,DNK,DNK,208.0,Country,Denmark,Den.,Denmark,DNK,Western Europe,Denmark,High income,"306,143",49695.96751,16.0,917440.0,97.0,94.0,97.0
+57,Djibouti,Dji.,262.0,,,DJI,0.0,2.0,DJI,DJI,DJI,262.0,Sovereign country,Djibouti,Dji.,Djibouti,DJI,Eastern & Southern Africa,Djibouti,Lower middle income,"1,727",,31.0,296670.0,90.0,66.0,48.0
+58,Dominica,D'inca,212.0,15.3,-61.383,DMA,0.0,2.0,DMA,DMA,DMA,212.0,Sovereign country,Dominica,D'inca,Dominica,DMA,Latin America & Caribbean,Dominica,Upper middle income,525,10975.06471,,,99.0,99.0,97.0
+59,Dominican Republic,Dom. Rep.,214.0,,,,,,,,,,,,,,,,,,,,,,,,
+60,East Timor,T.L.,626.0,,,,,,,,,,,,,,,,,,,,,,,,
+61,Ecuador,Ecu.,218.0,,,ECU,0.0,2.0,ECU,ECU,ECU,218.0,Sovereign country,Ecuador,Ecu.,Ecuador,ECU,Latin America & Caribbean,Ecuador,Upper middle income,"97,802",11286.17413,28.0,4655000.0,94.0,94.0,69.0
+62,Egypt,Egypt,818.0,,,EGY,0.0,2.0,EGY,EGY,EGY,818.0,Sovereign country,Egypt,Egypt,Egypt,EGY,Middle East & North Africa,Egypt,Lower middle income,"336,297",11131.71648,33.0,32192490.0,96.0,96.0,93.0
+63,El Salvador,El. S.,222.0,,,SLV,0.0,2.0,SLV,SLV,SLV,222.0,Sovereign country,El Salvador,El. S.,El Salvador,SLV,Latin America & Caribbean,El Salvador,Lower middle income,"26,797",8619.068674,27.0,1722060.0,97.0,98.0,74.0
+64,Equatorial Guinea,Eq. G.,226.0,,,,,,,,,,,,,,,,,,,,,,,,
+65,Eritrea,Erit.,232.0,,,ERI,0.0,2.0,ERI,ERI,ERI,232.0,Sovereign country,Eritrea,Erit.,Eritrea,ERI,Eastern & Southern Africa,Eritrea,Low income, .. ,,42.0,2128980.0,97.0,75.0,
+66,Estonia,Est.,233.0,,,EST,0.0,2.0,EST,EST,EST,233.0,Sovereign country,Estonia,Est.,Estonia,EST,Western Europe,Estonia,High income,"23,137",29364.72111,16.0,209600.0,94.0,96.0,
+67,Ethiopia,Eth.,231.0,,,ETH,0.0,2.0,ETH,ETH,ETH,231.0,Sovereign country,Ethiopia,Eth.,Ethiopia,ETH,Eastern & Southern Africa,Ethiopia,Low income,"72,374",1734.918233,41.0,43032370.0,86.0,78.0,27.0
+68,Falkland Islands,Flk. Is.,238.0,,,,,,,,,,,,,,,,,,,,,,,,
+69,Faroe Islands,Faeroe Is.,234.0,62.0,-6.783,,,,,,,,,,,,,,,,,,,,,,
+70,Fiji,Fiji,242.0,,,FJI,0.0,2.0,FJI,FJI,FJI,242.0,Sovereign country,Fiji,Fiji,Fiji,FJI,East Asia & Pacific,Fiji,Upper middle income,"4,632",9560.525,28.0,253680.0,99.0,98.0,88.0
+71,Finland,Fin.,246.0,,,FIN,1.0,2.0,FIN,FIN,FIN,246.0,Country,Finland,Fin.,Finland,FIN,Western Europe,Finland,High income,"236,785",43052.7268,16.0,883680.0,99.0,99.0,98.0
+72,France,Fr.,250.0,,,FRA,1.0,3.0,FRA,FRA,FXX,249.0,Geo unit,France,Fr.,France,FRA,Western Europe,France,High income,"2,465,454",41466.26571,18.0,11696400.0,99.0,98.0,98.0
+73,French Polynesia,Fr. Poly.,258.0,-17.533,-149.567,,,,,,,,,,,,,,,,,,,,,,
+74,French Southern and Antarctic Lands,Fr. S.A.L.,260.0,,,,,,,,,,,,,,,,,,,,,,,,
+75,Gabon,Gabon,266.0,,,GAB,0.0,2.0,GAB,GAB,GAB,266.0,Sovereign country,Gabon,Gabon,Gabon,GAB,West & Central Africa,Gabon,Upper middle income,"14,214",18107.59942,36.0,729000.0,83.0,78.0,66.0
+76,Gambia,Gambia,270.0,,,GMB,0.0,2.0,GMB,GMB,GMB,270.0,Sovereign country,Gambia,Gambia,The Gambia,GMB,West & Central Africa,Gambia,Low income,965,1689.07559,45.0,945450.0,99.0,99.0,93.0
+77,Georgia,Geo.,268.0,,,-99,0.0,3.0,GEO,GEO,GEG,-99.0,Geo unit,Georgia,Geo.,Georgia,GEO,Eastern Europe & Central Asia,Georgia,Lower middle income,"14,333",9996.935415,19.0,743280.0,97.0,90.0,
+78,Germany,Ger.,276.0,,,DEU,0.0,2.0,DEU,DEU,DEU,276.0,Sovereign country,Germany,Ger.,Germany,DEU,Western Europe,Germany,High income,"3,466,757",48729.59042,13.0,10674820.0,95.0,94.0,96.0
+79,Ghana,Ghana,288.0,,,GHA,0.0,2.0,GHA,GHA,GHA,288.0,Sovereign country,Ghana,Ghana,Ghana,GHA,West & Central Africa,Ghana,Lower middle income,"42,690",4293.57285,39.0,11245260.0,94.0,88.0,60.0
+80,Gibraltar,Gib.,292.0,36.143,-5.353,,,,,,,,,,,,,,,,,,,,,,
+81,Greece,Greece,300.0,,,GRC,0.0,2.0,GRC,GRC,GRC,300.0,Sovereign country,Greece,Greece,Greece,GRC,Western Europe,Greece,High income,"194,559",26783.02457,14.0,1562400.0,99.0,96.0,93.0
+82,Greenland,Grlnd.,304.0,,,,,,,,,,,,,,,,,,,,,,,,
+83,Grenada,Gren.,308.0,12.05,-61.75,GRD,0.0,2.0,GRD,GRD,GRD,308.0,Sovereign country,Grenada,Gren.,Grenada,GRD,Latin America & Caribbean,Grenada,Upper middle income,"1,016",13927.50344,26.0,28080.0,98.0,93.0,98.0
+84,Guam,Guam,316.0,13.5,144.8,,,,,,,,,,,,,,,,,,,,,,
+85,Guatemala,Guat.,320.0,,,GTM,0.0,2.0,GTM,GTM,GTM,320.0,Sovereign country,Guatemala,Guat.,Guatemala,GTM,Latin America & Caribbean,Guatemala,Lower middle income,"68,763",7946.771619,35.0,5919900.0,96.0,86.0,62.0
+86,Guernsey,Guern.,831.0,49.45,-2.55,,,,,,,,,,,,,,,,,,,,,,
+87,Guinea,Gin.,324.0,,,GIN,0.0,2.0,GIN,GIN,GIN,324.0,Sovereign country,Guinea,Gin.,Guinea,GIN,West & Central Africa,Guinea,Low income,"6,299",1310.687204,42.0,5341140.0,65.0,72.0,37.0
+88,Guinea-Bissau,GnB.,624.0,,,GNB,0.0,2.0,GNB,GNB,GNB,624.0,Sovereign country,Guinea Bissau,GnB.,Guinea-Bissau,GNB,West & Central Africa,Guinea-Bissau,Low income,"1,126",1581.710425,41.0,763010.0,95.0,77.0,88.0
+89,Guyana,Guy.,328.0,,,GUY,0.0,2.0,GUY,GUY,GUY,328.0,Sovereign country,Guyana,Guy.,Guyana,GUY,Latin America & Caribbean,Guyana,Upper middle income,"3,446",7818.900522,29.0,225620.0,97.0,94.0,84.0
+90,Haiti,Haiti,332.0,,,HTI,0.0,2.0,HTI,HTI,HTI,332.0,Sovereign country,Haiti,Haiti,Haiti,HTI,Latin America & Caribbean,Haiti,Low income,"8,023",1784.182184,33.0,3623730.0,78.0,75.0,48.0
+91,Heard Island and McDonald Islands,H.M.Is.,334.0,53.0,73.5,,,,,,,,,,,,,,,,,,,,,,
+92,Honduras,Hond.,340.0,,,HND,0.0,2.0,HND,HND,HND,340.0,Sovereign country,Honduras,Hond.,Honduras,HND,Latin America & Caribbean,Honduras,Lower middle income,"21,517",4738.079453,32.0,2964800.0,99.0,97.0,83.0
+93,Hong Kong,H.K.,344.0,22.278,114.175,,,,,,,,,,,,,,,,,,,,,,
+94,Hungary,Hun.,348.0,,,HUN,0.0,2.0,HUN,HUN,HUN,348.0,Sovereign country,Hungary,Hun.,Hungary,HUN,Western Europe,Hungary,High income,"124,343",26680.5941,14.0,1361080.0,99.0,99.0,99.0
+95,Iceland,Iceland,352.0,,,ISL,0.0,2.0,ISL,ISL,ISL,352.0,Sovereign country,Iceland,Iceland,Iceland,ISL,Western Europe,Iceland,High income,"20,047",51398.92651,20.0,67000.0,96.0,99.0,99.0
+96,India,India,356.0,,,IND,0.0,2.0,IND,IND,IND,356.0,Sovereign country,India,India,India,IND,South Asia,India,Lower middle income,"2,263,523",6572.336719,28.0,374970400.0,91.0,86.0,44.0
+97,Indonesia,Indo.,360.0,,,IDN,0.0,2.0,IDN,IDN,IDN,360.0,Sovereign country,Indonesia,Indo.,Indonesia,IDN,East Asia & Pacific,Indonesia,Lower middle income,"932,259",11612.06637,27.0,71277570.0,95.0,89.0,72.0
+98,Iran,Iran,364.0,,,IRN,0.0,2.0,IRN,IRN,IRN,364.0,Sovereign country,Iran,Iran,Iran,IRN,Middle East & North Africa,Iran (Islamic Republic of),Upper middle income,"393,436",,24.0,19479120.0,99.0,99.0,80.0
+99,Iraq,Iraq,368.0,,,-99,0.0,3.0,IRQ,IRQ,IRR,-99.0,Geo unit,Iraq,Iraq,Iraq,IRQ,Middle East & North Africa,Iraq,Upper middle income,"171,489",17353.47924,40.0,15310000.0,73.0,88.0,98.0
+100,Ireland,Ire.,372.0,,,IRL,0.0,2.0,IRL,IRL,IRL,372.0,Sovereign country,Ireland,Ire.,Ireland,IRL,Western Europe,Ireland,High income,"294,054",68882.87834,22.0,1047640.0,98.0,90.0,69.0
+101,Isle of Man,IoMan,833.0,54.25,-4.5,,,,,,,,,,,,,,,,,,,,,,
+102,Israel,Isr.,376.0,,,ISR,1.0,2.0,ISR,ISR,ISR,376.0,Country,Israel,Isr.,Israel,ISR,Middle East & North Africa,Israel,High income,"318,744",37901.34697,28.0,2330160.0,94.0,97.0,97.0
+103,Italy,Italy,380.0,,,ITA,0.0,2.0,ITA,ITA,ITA,380.0,Sovereign country,Italy,Italy,Italy,ITA,Western Europe,Italy,High income,"1,849,970",38160.67359,14.0,8310400.0,97.0,98.0,
+104,Ivory Coast,I.C.,384.0,,,,,,,,,,,,,,,,,,,,,,,,
+105,Jamaica,Jam.,388.0,,,JAM,0.0,2.0,JAM,JAM,JAM,388.0,Sovereign country,Jamaica,Jam.,Jamaica,JAM,Latin America & Caribbean,Jamaica,Upper middle income,"14,027",8834.819084,23.0,664700.0,99.0,97.0,90.0
+106,Japan,Japan,392.0,,,JPN,0.0,2.0,JPN,JPN,JPN,392.0,Sovereign country,Japan,Japan,Japan,JPN,East Asia & Pacific,Japan,High income,"4,939,384",41469.85471,13.0,16572920.0,99.0,99.0,94.0
+107,Jersey,Jey.,832.0,49.19,-2.11,,,,,,,,,,,,,,,,,,,,,,
+108,Jordan,Jord.,400.0,,,JOR,0.0,2.0,JOR,JOR,JOR,400.0,Sovereign country,Jordan,Jord.,Jordan,JOR,Middle East & North Africa,Jordan,Lower middle income,"38,655",9050.071964,36.0,3492720.0,99.0,99.0,96.0
+109,Kazakhstan,Kaz.,398.0,,,KAZ,0.0,2.0,KAZ,KAZ,KAZ,398.0,Sovereign country,Kazakhstan,Kaz.,Kazakhstan,KAZ,Eastern Europe & Central Asia,Kazakhstan,Upper middle income,"133,657",25263.81024,28.0,5097120.0,93.0,98.0,
+110,Kenya,Ken.,404.0,,,KEN,0.0,2.0,KEN,KEN,KEN,404.0,Sovereign country,Kenya,Ken.,Kenya,KEN,Eastern & Southern Africa,Kenya,Lower middle income,"70,529",3155.94041,40.0,19880000.0,96.0,96.0,89.0
+111,Kiribati,Kir.,296.0,1.467,173.033,KIR,0.0,2.0,KIR,KIR,KIR,296.0,Sovereign country,Kiribati,Kir.,Kiribati,KIR,East Asia & Pacific,Kiribati,Lower middle income,166,2047.231611,35.0,40600.0,82.0,92.0,62.0
+112,Kosovo,Kos.,-2.0,,,-99,0.0,2.0,KOS,SRB,KOS,-99.0,Sovereign country,Kosovo,Kos.,Kosovo,SRB,Eastern Europe & Central Asia,Serbia,Upper middle income,"37,745",14511.79145,16.0,1406560.0,97.0,97.0,
+113,Kuwait,Kwt.,414.0,,,KWT,0.0,2.0,KWT,KWT,KWT,414.0,Sovereign country,Kuwait,Kwt.,Kuwait,KWT,Middle East & North Africa,Kuwait,High income,"114,041",,21.0,868770.0,99.0,99.0,97.0
+114,Kyrgyzstan,Kgz.,417.0,,,KGZ,0.0,2.0,KGZ,KGZ,KGZ,417.0,Sovereign country,Kyrgyzstan,Kgz.,Kyrgyzstan,KGZ,Eastern Europe & Central Asia,Kyrgyzstan,Lower middle income,"6,551",3551.152704,32.0,1934400.0,97.0,98.0,
+115,Laos,Laos,418.0,,,,,,,,,,,,,,,,,,,,,,,,
+116,Latvia,Lat.,428.0,,,LVA,0.0,2.0,LVA,LVA,LVA,428.0,Sovereign country,Latvia,Lat.,Latvia,LVA,Western Europe,Latvia,High income,"27,677",26031.00442,15.0,292500.0,99.0,99.0,
+117,Lebanon,Leb.,422.0,,,LBN,0.0,2.0,LBN,LBN,LBN,422.0,Sovereign country,Lebanon,Leb.,Lebanon,LBN,Middle East & North Africa,Lebanon,Upper middle income,"47,537",13995.65225,23.0,1398860.0,84.0,97.0,55.0
+118,Lesotho,Les.,426.0,,,LSO,0.0,2.0,LSO,LSO,LSO,426.0,Sovereign country,Lesotho,Les.,Lesotho,LSO,Eastern & Southern Africa,Lesotho,Lower middle income,"2,200",3029.335431,35.0,781550.0,98.0,94.0,91.0
+119,Liberia,Liberia,430.0,,,LBR,0.0,2.0,LBR,LBR,LBR,430.0,Sovereign country,Liberia,Liberia,Liberia,LBR,West & Central Africa,Liberia,Low income,"2,101",812.8867372,42.0,1987440.0,99.0,,
+120,Libya,Libya,434.0,,,LBY,0.0,2.0,LBY,LBY,LBY,434.0,Sovereign country,Libya,Libya,Libya,LBY,Middle East & North Africa,Libya,Upper middle income, .. ,,28.0,1785000.0,98.0,98.0,94.0
+121,Liechtenstein,Liech.,438.0,47.142,9.523,,,,,,,,,,,,,,,,,,,,,,
+122,Lithuania,Lith.,440.0,,,LTU,0.0,2.0,LTU,LTU,LTU,440.0,Sovereign country,Lithuania,Lith.,Lithuania,LTU,Western Europe,Lithuania,High income,"42,739",29966.12707,15.0,433500.0,97.0,97.0,
+123,Luxembourg,Lux.,442.0,,,LUX,0.0,2.0,LUX,LUX,LUX,442.0,Sovereign country,Luxembourg,Lux.,Luxembourg,LUX,Western Europe,Luxembourg,High income,"59,948",105881.7605,16.0,93280.0,99.0,98.0,95.0
+124,Macao,Mac.,446.0,22.167,113.55,,,,,,,,,,,,,,,,,,,,,,
+125,Macedonia,Mkd.,807.0,,,MKD,0.0,2.0,MKD,MKD,MKD,807.0,Sovereign country,Macedonia,Mkd.,Macedonia,MKD,Eastern Europe & Central Asia,The former Yugoslav Republic of Macedonia,Upper middle income,"10,900",15121.25165,17.0,354110.0,97.0,97.0,
+126,Madagascar,Mad.,450.0,,,MDG,0.0,2.0,MDG,MDG,MDG,450.0,Sovereign country,Madagascar,Mad.,Madagascar,MDG,Eastern & Southern Africa,Madagascar,Low income,"9,991",1506.009345,41.0,10484110.0,84.0,73.0,55.0
+127,Malawi,Mal.,454.0,,,MWI,0.0,2.0,MWI,MWI,MWI,454.0,Sovereign country,Malawi,Mal.,Malawi,MWI,Eastern & Southern Africa,Malawi,Low income,"5,442",1169.313739,44.0,8193680.0,89.0,96.0,80.0
+128,Malaysia,Malay.,458.0,,,MYS,0.0,2.0,MYS,MYS,MYS,458.0,Sovereign country,Malaysia,Malay.,Malaysia,MYS,East Asia & Pacific,Malaysia,Upper middle income,"296,359",27680.76867,24.0,7589760.0,99.0,98.0,73.0
+129,Maldives,Mald.,462.0,3.2,73.22,MDV,0.0,2.0,MDV,MDV,MDV,462.0,Sovereign country,Maldives,Mald.,Maldives,MDV,South Asia,Maldives,Upper middle income,"3,591",13198.88003,23.0,100280.0,99.0,98.0,67.0
+130,Mali,Mali,466.0,,,MLI,0.0,2.0,MLI,MLI,MLI,466.0,Sovereign country,Mali,Mali,Mali,MLI,West & Central Africa,Mali,Low income,"14,045",2117.218178,48.0,8900160.0,86.0,77.0,28.0
+131,Malta,Malta,470.0,35.883,14.5,MLT,0.0,2.0,MLT,MLT,MLT,470.0,Sovereign country,Malta,Malta,Malta,MLT,Western Europe,Malta,High income,"10,949",37899.21063,14.0,60340.0,97.0,97.0,95.0
+132,Marshall Islands,M. Is.,584.0,7.067,171.267,,,,,,,,,,,,,,,,,,,,,,
+133,Mauritania,Mrt.,478.0,,,MRT,0.0,2.0,MRT,MRT,MRT,478.0,Sovereign country,Mauritania,Mrt.,Mauritania,MRT,West & Central Africa,Mauritania,Lower middle income,"4,635",3853.534663,40.0,1768000.0,87.0,89.0,57.0
+134,Mauritius,Mus.,480.0,-20.2,57.5,MUS,0.0,2.0,MUS,MUS,MUS,480.0,Sovereign country,Mauritius,Mus.,Mauritius,MUS,Eastern & Southern Africa,Mauritius,Upper middle income,"12,164",21087.74915,18.0,227700.0,97.0,96.0,95.0
+135,Mexico,Mex.,484.0,,,MEX,0.0,2.0,MEX,MEX,MEX,484.0,Sovereign country,Mexico,Mex.,Mexico,MEX,Latin America & Caribbean,Mexico,Upper middle income,"1,045,998",17861.5687,27.0,34874010.0,99.0,98.0,75.0
+136,Micronesia,F.S.M.,583.0,6.917,158.183,FSM,0.0,2.0,FSM,FSM,FSM,583.0,Sovereign country,Federated States of Micronesia,F.S.M.,Federated States of Micronesia,FSM,East Asia & Pacific,Micronesia (Federated States of ),Lower middle income,322,3593.228034,33.0,34980.0,95.0,92.0,
+137,Moldova,Mda.,498.0,,,MDA,0.0,2.0,MDA,MDA,MDA,498.0,Sovereign country,Moldova,Mda.,Moldova,MDA,Eastern Europe & Central Asia,Republic of Moldova,Lower middle income,"6,750",5333.614925,16.0,648160.0,94.0,98.0,
+138,Monaco,Mco.,492.0,43.733,7.42,MCO,0.0,2.0,MCO,MCO,MCO,492.0,Sovereign country,Monaco,Mco.,Monaco,MCO,Western Europe,Monaco,High income, .. ,,,,99.0,99.0,
+139,Mongolia,Mong.,496.0,,,MNG,0.0,2.0,MNG,MNG,MNG,496.0,Sovereign country,Mongolia,Mong.,Mongolia,MNG,East Asia & Pacific,Mongolia,Lower middle income,"11,160",12220.39348,30.0,922800.0,99.0,96.0,93.0
+140,Montenegro,Mont.,499.0,,,MNE,0.0,2.0,MNE,MNE,MNE,499.0,Sovereign country,Montenegro,Mont.,Montenegro,MNE,Eastern Europe & Central Asia,Montenegro,Upper middle income,"4,173",16853.82857,18.0,113220.0,97.0,,
+141,Montserrat,Monts.,500.0,16.75,-62.2,,,,,,,,,,,,,,,,,,,,,,
+142,Morocco,Mor.,504.0,,,MAR,0.0,2.0,MAR,MAR,MAR,504.0,Sovereign country,Morocco,Mor.,Morocco,MAR,Middle East & North Africa,Morocco,Lower middle income,"101,445",7837.904438,27.0,9649800.0,99.0,91.0,84.0
+143,Mozambique,Moz.,508.0,,,MOZ,0.0,2.0,MOZ,MOZ,MOZ,508.0,Sovereign country,Mozambique,Moz.,Mozambique,MOZ,Eastern & Southern Africa,Mozambique,Low income,"11,015",1217.111397,45.0,13351050.0,90.0,76.0,57.0
+144,Myanmar,Myan.,104.0,,,MMR,0.0,2.0,MMR,MMR,MMR,104.0,Sovereign country,Myanmar,Myan.,Myanmar,MMR,East Asia & Pacific,Myanmar,Lower middle income,"67,430",5772.895394,27.0,14410170.0,94.0,96.0,44.0
+145,Namibia,Nam.,516.0,,,NAM,0.0,2.0,NAM,NAM,NAM,516.0,Sovereign country,Namibia,Nam.,Namibia,NAM,Eastern & Southern Africa,Namibia,Upper middle income,"10,267",10584.96281,37.0,937580.0,98.0,88.0,
+146,Nauru,Nauru,520.0,-0.533,166.933,NRU,0.0,2.0,NRU,NRU,NRU,520.0,Sovereign country,Nauru,Nauru,Nauru,NRU,East Asia & Pacific,Nauru,Upper middle income,102,13970.15431,,,98.0,77.0,82.0
+147,Nepal,Nepal,524.0,,,NPL,0.0,2.0,NPL,NPL,NPL,524.0,Sovereign country,Nepal,Nepal,Nepal,NPL,South Asia,Nepal,Low income,"21,144",2467.841139,31.0,9084550.0,92.0,85.0,63.0
+148,Netherlands,Neth.,528.0,,,-99,1.0,3.0,NLD,NLD,NLX,-99.0,Geo core,Netherlands,Neth.,Netherlands,NLD,Western Europe,Netherlands,High income,"770,845",50898.08869,16.0,2725760.0,98.0,98.0,98.0
+149,New Caledonia,New C.,540.0,,,,,,,,,,,,,,,,,,,,,,,,
+150,New Zealand,N.Z.,554.0,,,NZL,1.0,2.0,NZL,NZL,NZL,554.0,Country,New Zealand,N.Z.,New Zealand,NZL,East Asia & Pacific,New Zealand,High income,"185,017",39058.6924,20.0,941200.0,92.0,96.0,88.0
+151,Nicaragua,Nic.,558.0,,,NIC,0.0,2.0,NIC,NIC,NIC,558.0,Sovereign country,Nicaragua,Nic.,Nicaragua,NIC,Latin America & Caribbean,Nicaragua,Lower middle income,"13,231",5541.277284,29.0,1803220.0,99.0,93.0,70.0
+152,Niger,Niger,562.0,,,NER,0.0,2.0,NER,NER,NER,562.0,Sovereign country,Niger,Niger,Niger,NER,West & Central Africa,Niger,Low income,"7,509",978.4021911,50.0,10738500.0,87.0,44.0,24.0
+153,Nigeria,Nigeria,566.0,,,NGA,0.0,2.0,NGA,NGA,NGA,566.0,Sovereign country,Nigeria,Nigeria,Nigeria,NGA,West & Central Africa,Nigeria,Lower middle income,"405,083",5867.141985,44.0,83989840.0,64.0,51.0,46.0
+154,Niue,Niue,570.0,-19.05,-169.917,NIU,1.0,2.0,NIU,NIU,NIU,570.0,Dependency,Niue,Niue,Niue,NIU,East Asia & Pacific,Niue,,,,,,99.0,99.0,93.0
+155,Norfolk Island,Nfk. I.,574.0,-29.033,167.95,,,,,,,,,,,,,,,,,,,,,,
+156,North Korea,N.K.,408.0,,,,,,,,,,,,,,,,,,,,,,,,
+157,Northern Cyprus,N. Cy.,-1.0,,,,,,,,,,,,,,,,,,,,,,,,
+158,Northern Mariana Islands,N.M.I.,580.0,17.0,146.0,,,,,,,,,,,,,,,,,,,,,,
+159,Norway,Nor.,578.0,,,NOR,0.0,3.0,NOR,NOR,NOW,578.0,Geo unit,Norway,Nor.,Norway,NOR,Western Europe,Norway,High income,"370,557",59301.67024,18.0,954900.0,99.0,98.0,94.0
+160,Oman,Oman,512.0,,,OMN,0.0,2.0,OMN,OMN,OMN,512.0,Sovereign country,Oman,Oman,Oman,OMN,Middle East & North Africa,Oman,High income,"66,293",,22.0,1019920.0,99.0,99.0,94.0
+161,Pakistan,Pak.,586.0,,,PAK,0.0,2.0,PAK,PAK,PAK,586.0,Sovereign country,Pakistan,Pak.,Pakistan,PAK,South Asia,Pakistan,Lower middle income,"283,660",5249.288036,35.0,68955600.0,79.0,62.0,59.0
+162,Palau,Palau,585.0,7.5,134.617,PLW,0.0,2.0,PLW,PLW,PLW,585.0,Sovereign country,Palau,Palau,Palau,PLW,East Asia & Pacific,Palau,High income,293,15373.25924,,,99.0,98.0,98.0
+163,Palestinian Territories,Pal.,275.0,,,,,,,,,,,,,,,,,,,,,,,,
+164,Panama,Pan.,591.0,,,PAN,0.0,2.0,PAN,PAN,PAN,591.0,Sovereign country,Panama,Pan.,Panama,PAN,Latin America & Caribbean,Panama,Upper middle income,"55,188",23014.69004,27.0,1106730.0,96.0,97.0,88.0
+165,Papua New Guinea,P.N.G.,598.0,,,-99,0.0,3.0,PNG,PNG,PNX,-99.0,Geo unit,Papua New Guinea,P.N.G.,Papua New Guinea,PNG,East Asia & Pacific,Papua New Guinea,Lower middle income,"16,929",,36.0,2970360.0,87.0,80.0,69.0
+166,Paraguay,Para.,600.0,,,PRY,0.0,2.0,PRY,PRY,PRY,600.0,Sovereign country,Paraguay,Para.,Paraguay,PRY,Latin America & Caribbean,Paraguay,Upper middle income,"27,441",9576.561654,29.0,1975190.0,99.0,89.0,77.0
+167,Peru,Peru,604.0,,,PER,0.0,2.0,PER,PER,PER,604.0,Sovereign country,Peru,Peru,Peru,PER,Latin America & Caribbean,Peru,Upper middle income,"192,094",13022.01745,27.0,8684550.0,94.0,97.0,74.0
+168,Philippines,Phil.,608.0,,,PHL,0.0,2.0,PHL,PHL,PHL,608.0,Sovereign country,Philippines,Phil.,Philippines,PHL,East Asia & Pacific,Philippines,Lower middle income,"304,905",7806.211272,32.0,33573760.0,87.0,82.0,86.0
+169,Pitcairn Islands,Pit. Is.,612.0,-25.067,-130.1,,,,,,,,,,,,,,,,,,,,,,
+170,Poland,Pol.,616.0,,,POL,0.0,2.0,POL,POL,POL,616.0,Sovereign country,Poland,Pol.,Poland,POL,Western Europe,Poland,High income,"469,509",27810.51663,15.0,5725650.0,99.0,98.0,98.0
+171,Portugal,Port.,620.0,,,-99,0.0,3.0,PRT,PRT,PRX,-99.0,Geo unit,Portugal,Port.,Portugal,PRT,Western Europe,Portugal,High income,"204,565",30624.17469,14.0,1446200.0,99.0,98.0,93.0
+172,Puerto Rico,P.R.,630.0,,,,,,,,,,,,,,,,,,,,,,,,
+173,Qatar,Qatar,634.0,,,QAT,0.0,2.0,QAT,QAT,QAT,634.0,Sovereign country,Qatar,Qatar,Qatar,QAT,Middle East & North Africa,Qatar,High income,"152,469",127522.6711,14.0,369460.0,99.0,97.0,89.0
+174,Republic of Congo,Rep. Congo,178.0,,,,,,,,,,,,,,,,,,,,,,,,
+175,Romania,Rom.,642.0,,,ROU,0.0,2.0,ROU,ROU,ROU,642.0,Sovereign country,Romania,Rom.,Romania,ROU,Eastern Europe & Central Asia,Romania,Upper middle income,"186,691",23626.37274,15.0,2951850.0,96.0,98.0,96.0
+176,Russia,Rus.,643.0,,,RUS,0.0,2.0,RUS,RUS,RUS,643.0,Sovereign country,Russia,Rus.,Russian Federation,RUS,Eastern Europe & Central Asia,Russian Federation,Upper middle income,"1,283,162",23162.63216,18.0,25918200.0,97.0,94.0,
+177,Rwanda,Rwa.,646.0,,,RWA,0.0,2.0,RWA,RWA,RWA,646.0,Sovereign country,Rwanda,Rwa.,Rwanda,RWA,Eastern & Southern Africa,Rwanda,Low income,"8,376",1913.402063,40.0,4883200.0,99.0,96.0,95.0
+178,Saint-Barthélemy,St. B.,652.0,17.9,-62.833,,,,,,,,,,,,,,,,,,,,,,
+179,Samoa,Samoa,882.0,-13.833,-171.75,WSM,0.0,2.0,WSM,WSM,WSM,882.0,Sovereign country,Samoa,Samoa,Samoa,WSM,East Asia & Pacific,Samoa,Upper middle income,786,6345.264119,37.0,72520.0,95.0,98.0,97.0
+180,San Marino,S.M.,674.0,43.933,12.467,SMR,0.0,2.0,SMR,SMR,SMR,674.0,Sovereign country,San Marino,S.M.,San Marino,SMR,Western Europe,San Marino,High income, .. ,,,,78.0,99.0,99.0
+181,São Tomé and Príncipe,S.T.P.,678.0,0.333,6.733,,,,,,,,,,,,,,,,,,,,,,
+182,Saudi Arabia,Saud.,682.0,,,SAU,0.0,2.0,SAU,SAU,SAU,682.0,Sovereign country,Saudi Arabia,Saud.,Saudi Arabia,SAU,Middle East & North Africa,Saudi Arabia,High income,"646,438",54430.86113,25.0,8234500.0,98.0,97.0,95.0
+183,Senegal,Sen.,686.0,,,SEN,0.0,2.0,SEN,SEN,SEN,686.0,Sovereign country,Senegal,Sen.,Senegal,SEN,West & Central Africa,Senegal,Low income,"14,765",2567.80042,43.0,6815930.0,96.0,88.0,77.0
+184,Serbia,Serb.,688.0,,,-99,0.0,3.0,SRB,SRB,SRS,-99.0,Geo unit,Serbia,Serb.,Serbia,SRB,Eastern Europe & Central Asia,Serbia,Upper middle income,"37,745",14511.79145,16.0,1406560.0,97.0,97.0,
+185,Seychelles,Syc.,690.0,-4.617,55.45,SYC,0.0,2.0,SYC,SYC,SYC,690.0,Sovereign country,Seychelles,Syc.,Seychelles,SYC,Eastern & Southern Africa,Seychelles,High income,"1,427",28391.32835,22.0,20900.0,98.0,99.0,97.0
+186,Sierra Leone,S.L.,694.0,,,SLE,0.0,2.0,SLE,SLE,SLE,694.0,Sovereign country,Sierra Leone,S.L.,Sierra Leone,SLE,West & Central Africa,Sierra Leone,Low income,"3,669",1473.403805,42.0,3173940.0,97.0,,
+187,Singapore,Sing.,702.0,1.3,103.8,SGP,0.0,2.0,SGP,SGP,SGP,702.0,Sovereign country,Singapore,Sing.,Singapore,SGP,East Asia & Pacific,Singapore,High income,"296,966",87855.58491,15.0,856350.0,98.0,94.0,97.0
+188,Sint Maarten,St. M.,534.0,18.067,63.05,,,,,,,,,,,,,,,,,,,,,,
+189,Slovakia,Svk.,703.0,,,SVK,0.0,2.0,SVK,SVK,SVK,703.0,Sovereign country,Slovakia,Svk.,Slovakia,SVK,Western Europe,Slovakia,High income,"89,552",30631.95391,15.0,817200.0,99.0,99.0,
+190,Slovenia,Slo.,705.0,,,SVN,0.0,2.0,SVN,SVN,SVN,705.0,Sovereign country,Slovenia,Slo.,Slovenia,SVN,Western Europe,Slovenia,High income,"43,991",32884.53889,15.0,312000.0,98.0,98.0,
+191,Solomon Islands,S. Is.,90.0,,,,,,,,,,,,,,,,,,,,,,,,
+192,Somalia,Som.,706.0,,,-99,0.0,3.0,SOM,SOM,SOX,-99.0,Geo unit,Somalia,Som.,Somalia,SOM,Eastern & Southern Africa,Somalia,Low income,"6,217",,46.0,6781780.0,52.0,45.0,40.0
+193,Somaliland,Solnd.,-3.0,,,-99,0.0,2.0,SOL,SOM,SOL,-99.0,Indeterminate,Somaliland,Solnd.,Somaliland,SOM,Eastern & Southern Africa,Somalia,Low income,"6,217",,46.0,6781780.0,52.0,45.0,40.0
+194,South Africa,S.Af.,710.0,,,ZAF,0.0,2.0,ZAF,ZAF,ZAF,710.0,Sovereign country,South Africa,S.Af.,South Africa,ZAF,Eastern & Southern Africa,South Africa,Upper middle income,"294,841",13225.43723,29.0,16447930.0,78.0,90.0,88.0
+195,South Georgia and the South Sandwich Islands,S.G. S.S. Is.,239.0,-54.25,-36.75,,,,,,,,,,,,,,,,,,,,,,
+196,South Korea,S.K.,410.0,,,,,,,,,,,,,,,,,,,,,,,,
+197,South Sudan,S. Sud.,728.0,,,,,,,,,,,,,,,,,,,,,,,,
+198,Spain,Sp.,724.0,,,ESP,0.0,2.0,ESP,ESP,ESP,724.0,Sovereign country,Spain,Sp.,Spain,ESP,Western Europe,Spain,High income,"1,232,088",36309.8443,15.0,6953100.0,99.0,96.0,96.0
+199,Sri Lanka,Sri L.,144.0,,,LKA,0.0,2.0,LKA,LKA,LKA,144.0,Sovereign country,Sri Lanka,Sri L.,Sri Lanka,LKA,South Asia,Sri Lanka,Lower middle income,"81,322",12316.16411,24.0,5010480.0,99.0,97.0,91.0
+200,St. Helena,St.H.,654.0,-15.95,-5.717,,,,,,,,,,,,,,,,,,,,,,
+201,St. Kitts and Nevis,St.K.N.,659.0,17.3,-62.733,KNA,0.0,2.0,KNA,KNA,KNA,659.0,Sovereign country,Saint Kitts and Nevis,St.K.N.,Saint Kitts and Nevis,KNA,Latin America & Caribbean,Saint Kitts and Nevis,High income,917,26685.99418,,,99.0,99.0,99.0
+202,St. Lucia,S.L.,662.0,14.017,-60.983,,,,,,,,,,,,,,,,,,,,,,
+203,St. Martin,St. M.,663.0,18.067,-63.05,,,,,,,,,,,,,,,,,,,,,,
+204,St. Pierre and Miquelon,St. P.M.,666.0,46.783,-56.2,,,,,,,,,,,,,,,,,,,,,,
+205,St. Vincent and the Grenadines,St.V.G.,670.0,13.167,-61.233,,,,,,,,,,,,,,,,,,,,,,
+206,Sudan,Sudan,729.0,,,SDN,0.0,2.0,SDN,SDN,SDN,729.0,Sovereign country,Sudan,Sudan,Sudan,SDN,Eastern & Southern Africa,Sudan,Lower middle income,"95,584",4730.292058,41.0,16618530.0,97.0,79.0,36.0
+207,Suriname,Sur.,740.0,,,SUR,0.0,2.0,SUR,SUR,SUR,740.0,Sovereign country,Suriname,Sur.,Suriname,SUR,Latin America & Caribbean,Suriname,Upper middle income,"3,621",14146.34264,26.0,146380.0,92.0,93.0,93.0
+208,Swaziland,Swz.,748.0,,,SWZ,0.0,2.0,SWZ,SWZ,SWZ,748.0,Sovereign country,Swaziland,Swz.,Swaziland,SWZ,Eastern & Southern Africa,Swaziland,Lower middle income,"3,727",8342.709639,37.0,505790.0,96.0,94.0,90.0
+209,Sweden,Swe.,752.0,,,SWE,0.0,2.0,SWE,SWE,SWE,752.0,Sovereign country,Sweden,Swe.,Sweden,SWE,Western Europe,Sweden,High income,"511,000",49174.86379,18.0,1783980.0,99.0,99.0,99.0
+210,Switzerland,Switz.,756.0,,,CHE,0.0,2.0,CHE,CHE,CHE,756.0,Sovereign country,Switzerland,Switz.,Switzerland,CHE,Western Europe,Switzerland,High income,"659,827",62881.46051,15.0,1271400.0,99.0,93.0,96.0
+211,Syria,Syria,760.0,,,SYR,0.0,3.0,SYR,SYR,SYX,760.0,Geo unit,Syria,Syria,Syrian Arab Republic,SYR,Middle East & North Africa,Syrian Arab Republic,Lower middle income, .. ,,37.0,6759900.0,61.0,96.0,90.0
+212,Taiwan,Taiwan,158.0,,,,,,,,,,,,,,,,,,,,,,,,
+213,Tajikistan,Tjk.,762.0,,,TJK,0.0,2.0,TJK,TJK,TJK,762.0,Sovereign country,Tajikistan,Tjk.,Tajikistan,TJK,Eastern Europe & Central Asia,Tajikistan,Lower middle income,"6,952",2980.090352,35.0,3122350.0,98.0,80.0,
+214,Tanzania,Tanz.,834.0,,,TZA,0.0,2.0,TZA,TZA,TZA,834.0,Sovereign country,Tanzania,Tanz.,Tanzania,TZA,Eastern & Southern Africa,United Republic of Tanzania,Low income,"47,431",2786.666719,45.0,25789500.0,99.0,94.0,90.0
+215,Thailand,Thai.,764.0,,,THA,0.0,2.0,THA,THA,THA,764.0,Sovereign country,Thailand,Thai.,Thailand,THA,East Asia & Pacific,Thailand,Upper middle income,"406,840",16916.48048,17.0,11736460.0,99.0,97.0,86.0
+216,Togo,Togo,768.0,,,TGO,0.0,2.0,TGO,TGO,TGO,768.0,Sovereign country,Togo,Togo,Togo,TGO,West & Central Africa,Togo,Low income,"4,400",1490.926523,42.0,3275160.0,93.0,70.0,59.0
+217,Tonga,Tongo,776.0,-21.133,-175.2,TON,0.0,2.0,TON,TON,TON,776.0,Sovereign country,Tonga,Tongo,Tonga,TON,East Asia & Pacific,Tonga,Upper middle income,395,5752.310637,36.0,38880.0,83.0,99.0,91.0
+218,Trinidad and Tobago,Tr.T.,780.0,,,TTO,0.0,2.0,TTO,TTO,TTO,780.0,Sovereign country,Trinidad and Tobago,Tr.T.,Trinidad and Tobago,TTO,Latin America & Caribbean,Trinidad and Tobago,High income,"20,989",31907.77772,21.0,287490.0,97.0,96.0,88.0
+219,Tunisia,Tun.,788.0,,,TUN,0.0,2.0,TUN,TUN,TUN,788.0,Sovereign country,Tunisia,Tun.,Tunisia,TUN,Middle East & North Africa,Tunisia,Lower middle income,"42,063",11598.54859,24.0,2767680.0,99.0,98.0,89.0
+220,Turkey,Tur.,792.0,,,TUR,0.0,2.0,TUR,TUR,TUR,792.0,Sovereign country,Turkey,Tur.,Turkey,TUR,Eastern Europe & Central Asia,Turkey,Upper middle income,"857,749",24243.92399,25.0,20186250.0,99.0,89.0,70.0
+221,Turkmenistan,Turkm.,795.0,,,TKM,0.0,2.0,TKM,TKM,TKM,795.0,Sovereign country,Turkmenistan,Turkm.,Turkmenistan,TKM,Eastern Europe & Central Asia,Turkmenistan,Upper middle income,"36,180",16880.40662,31.0,1784980.0,99.0,98.0,
+222,Turks and Caicos Islands,T.C. Is.,796.0,21.75,-71.583,,,,,,,,,,,,,,,,,,,,,,
+223,Tuvalu,Tuv.,798.0,8.533,179.217,TUV,0.0,2.0,TUV,TUV,TUV,798.0,Sovereign country,Tuvalu,Tuv.,Tuvalu,TUV,East Asia & Pacific,Tuvalu,Upper middle income,34,3651.97748,,,99.0,98.0,90.0
+224,U.S. Minor Outlying Islands,U.S. MOI,581.0,19.3,166.633,,,,,,,,,,,,,,,,,,,,,,
+225,U.S. Virgin Islands,V.I. (U.S.),850.0,18.35,64.933,,,,,,,,,,,,,,,,,,,,,,
+226,Uganda,Uga.,800.0,,,UGA,0.0,2.0,UGA,UGA,UGA,800.0,Sovereign country,Uganda,Uga.,Uganda,UGA,Eastern & Southern Africa,Uganda,Low income,"25,528",1848.786757,48.0,20574240.0,89.0,80.0,45.0
+227,Ukraine,Ukr.,804.0,,,UKR,0.0,2.0,UKR,UKR,UKR,804.0,Sovereign country,Ukraine,Ukr.,Ukraine,UKR,Eastern Europe & Central Asia,Ukraine,Lower middle income,"93,270",8271.779979,15.0,6633450.0,42.0,99.0,
+228,United Arab Emirates,U.A.E.,784.0,,,ARE,0.0,2.0,ARE,ARE,ARE,784.0,Sovereign country,United Arab Emirates,U.A.E.,United Arab Emirates,ARE,Middle East & North Africa,United Arab Emirates,High income,"348,743",72418.61086,14.0,1316000.0,99.0,96.0,92.0
+229,United Kingdom,U.K.,826.0,,,,,,,,,,,,,,,,,,,,,,,,
+230,United States,U.S.A.,840.0,39.828,-98.58,USA,1.0,2.0,USA,USA,USA,840.0,Country,United States of America,U.S.A.,United States,USA,North America,United States of America,High income,"18,569,100",57466.78711,19.0,61647210.0,97.0,98.0,98.0
+231,Uruguay,Ury.,858.0,,,URY,0.0,2.0,URY,URY,URY,858.0,Sovereign country,Uruguay,Ury.,Uruguay,URY,Latin America & Caribbean,Uruguay,High income,"52,420",21625.26889,21.0,725970.0,97.0,97.0,88.0
+232,Uzbekistan,Uzb.,860.0,,,UZB,0.0,2.0,UZB,UZB,UZB,860.0,Sovereign country,Uzbekistan,Uzb.,Uzbekistan,UZB,Eastern Europe & Central Asia,Uzbekistan,Lower middle income,"67,220",6514.326071,28.0,8935080.0,99.0,98.0,
+233,Vanuatu,Van.,548.0,,,VUT,0.0,2.0,VUT,VUT,VUT,548.0,Sovereign country,Vanuatu,Van.,Vanuatu,VUT,East Asia & Pacific,Vanuatu,Lower middle income,774,3081.372381,36.0,99360.0,75.0,86.0,56.0
+234,Vatican City,Vat.,336.0,41.903,12.453,,,,,,,,,,,,,,,,,,,,,,
+235,Venezuela,Ven.,862.0,,,VEN,0.0,2.0,VEN,VEN,VEN,862.0,Sovereign country,Venezuela,Ven.,Venezuela,VEN,Latin America & Caribbean,Venezuela (Bolivarian Republic of),Upper middle income, .. ,,28.0,8953560.0,98.0,80.0,80.0
+236,Vietnam,Viet.,704.0,,,VNM,0.0,2.0,VNM,VNM,VNM,704.0,Sovereign country,Vietnam,Viet.,Vietnam,VNM,East Asia & Pacific,Viet Nam,Lower middle income,"202,616",6424.133768,23.0,21974430.0,96.0,97.0,68.0
+237,Wallis and Futuna,Wlf.,876.0,13.3,176.2,,,,,,,,,,,,,,,,,,,,,,
+238,Western Sahara,W. Sah.,732.0,,,,,,,,,,,,,,,,,,,,,,,,
+239,Yemen,Yem.,887.0,,,YEM,0.0,2.0,YEM,YEM,YEM,887.0,Sovereign country,Yemen,Yem.,Yemen,YEM,Middle East & North Africa,Yemen,Lower middle income,"27,318",2508.128228,40.0,11300000.0,76.0,72.0,35.0
+240,Zambia,Zambia,894.0,,,ZMB,0.0,2.0,ZMB,ZMB,ZMB,894.0,Sovereign country,Zambia,Zambia,Zambia,ZMB,Eastern & Southern Africa,Zambia,Lower middle income,"19,551",3922.335309,45.0,7692300.0,99.0,94.0,86.0
+241,Zimbabwe,Zimb.,716.0,,,ZWE,0.0,2.0,ZWE,ZWE,ZWE,716.0,Sovereign country,Zimbabwe,Zimb.,Zimbabwe,ZWE,Eastern & Southern Africa,Zimbabwe,Low income,"16,289",2006.374724,41.0,6777300.0,94.0,96.0,91.0
+242,Antigua,,,,,-99,0.0,3.0,ATG,ATG,ACA,-99.0,Geo unit,Antigua,Ant.,Antigua,ATG,Latin America & Caribbean,Antigua and Barbuda,High income,"1,449",22413.4838,24.0,24480.0,99.0,99.0,98.0
+243,Barbuda,,,,,-99,0.0,3.0,ATG,ATG,ACB,-99.0,Geo unit,Barbuda,Barb.,Barbuda,ATG,Latin America & Caribbean,Antigua and Barbuda,High income,"1,449",22413.4838,24.0,24480.0,99.0,99.0,98.0
+244,Brussels,,,,,-99,0.0,3.0,BEL,BEL,BCR,-99.0,Geo unit,Brussels Capital Region,Brus.,Brussels,BEL,Western Europe,Belgium,High income,"466,366",46383.23696,17.0,1942930.0,99.0,98.0,98.0
+245,Flemish,,,,,-99,0.0,3.0,BEL,BEL,BFR,-99.0,Geo unit,Flemish Region,Flem.,Flemish Region,BEL,Western Europe,Belgium,High income,"466,366",46383.23696,17.0,1942930.0,99.0,98.0,98.0
+246,Walloon,,,,,-99,0.0,3.0,BEL,BEL,BWR,-99.0,Geo unit,Walloon Region,Wal.,Walloon Region,BEL,Western Europe,Belgium,High income,"466,366",46383.23696,17.0,1942930.0,99.0,98.0,98.0
+247,Brcko District,,,,,-99,0.0,3.0,BIH,BIH,BHB,-99.0,Geo unit,Brcko District,B.D.,Brcko District,BIH,Eastern Europe & Central Asia,Bosnia and Herzegovina,Upper middle income,"16,560",12074.75236,14.0,490980.0,90.0,86.0,
+248,Fed. of Bos. & Herz.,,,,,-99,0.0,3.0,BIH,BIH,BHF,-99.0,Geo unit,Bosnia and Herzegovina,B.H.,Federation of Bosnia and Herzegovina,BIH,Eastern Europe & Central Asia,Bosnia and Herzegovina,Upper middle income,"16,560",12074.75236,14.0,490980.0,90.0,86.0,
+249,Rep. Srpska,,,,,-99,0.0,3.0,BIH,BIH,BIS,-99.0,Geo unit,Republic Srpska,Srp.,Republic Srpska,BIH,Eastern Europe & Central Asia,Bosnia and Herzegovina,Upper middle income,"16,560",12074.75236,14.0,490980.0,90.0,86.0,
+250,Central African Rep.,,,,,CAF,0.0,2.0,CAF,CAF,CAF,140.0,Sovereign country,Central African Republic,C.A.R.,Central African Republic,CAF,West & Central Africa,Central African Republic,Low income,"1,756",698.8896075,43.0,2003370.0,69.0,72.0,42.0
+251,Paracel Is.,,,,,-99,1.0,3.0,CHN,-99,PFA,-99.0,Geo unit,Paracel Islands,Par. Is.,Paracel Islands,CHN,East Asia & Pacific,China,Upper middle income,"11,199,145",15534.70194,18.0,253713060.0,99.0,94.0,92.0
+252,Côte d'Ivoire,,,,,CIV,0.0,2.0,CIV,CIV,CIV,384.0,Sovereign country,Ivory Coast,I.C.,Côte d'Ivoire,CIV,West & Central Africa,C�te d�Ivoire,Lower middle income,"36,165",3719.624562,42.0,10203900.0,98.0,70.0,55.0
+253,Cyprus U.N. Buffer Zone,,,,,-99,0.0,2.0,CNM,CYP,CNM,-99.0,Indeterminate,Cyprus No Mans Area,,Cyprus U.N. Buffer Zone,CYP,Western Europe,Cyprus,High income,"19,802",32580.35064,17.0,200600.0,98.0,98.0,97.0
+254,N. Cyprus,,,,,-99,0.0,2.0,CYN,CYP,CYN,-99.0,Sovereign country,Northern Cyprus,N. Cy.,Northern Cyprus,CYP,Western Europe,Cyprus,High income,"19,802",32580.35064,17.0,200600.0,98.0,98.0,97.0
+255,Dem. Rep. Congo,,,,,COD,0.0,2.0,COD,COD,COD,180.0,Sovereign country,Democratic Republic of the Congo,D.R.C.,Democratic Republic of the Congo,COD,West & Central Africa,Democratic Republic of the Congo,Low income,"34,999",800.7515654,46.0,37416400.0,80.0,41.0,57.0
+256,Cook Is.,,,,,COK,1.0,2.0,COK,COK,COK,184.0,Dependency,Cook Islands,Cook Is.,Cook Islands,COK,East Asia & Pacific,Cook Islands,,,,,,99.0,91.0,95.0
+257,Czech Rep.,,,,,CZE,0.0,2.0,CZE,CZE,CZE,203.0,Sovereign country,Czech Republic,Cz. Rep.,Czech Republic,CZE,Western Europe,Czech Republic,High income,"192,925",34711.28294,15.0,1592700.0,98.0,98.0,
+258,Dominican Rep.,,,,,DOM,0.0,2.0,DOM,DOM,DOM,214.0,Sovereign country,Dominican Republic,Dom. Rep.,Dominican Republic,DOM,Latin America & Caribbean,Dominican Republic,Upper middle income,"71,584",15208.91378,29.0,3122430.0,98.0,88.0,93.0
+259,England,,,,,-99,1.0,3.0,GBR,-99,ENG,-99.0,Geo unit,England,Eng.,England,GBR,Western Europe,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,18.0,11912760.0,98.0,97.0,86.0
+260,N. Ireland,,,,,-99,1.0,3.0,GBR,-99,NIR,-99.0,Geo unit,Northern Ireland,N.Ire.,Northern Ireland,GBR,Western Europe,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,18.0,11912760.0,98.0,97.0,86.0
+261,Scotland,,,,,-99,1.0,3.0,GBR,-99,SCT,-99.0,Geo unit,Scotland,Scot.,Scotland,GBR,Western Europe,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,18.0,11912760.0,98.0,97.0,86.0
+262,Wales,,,,,-99,1.0,3.0,GBR,-99,WLS,-99.0,Geo unit,Wales,Wales,Wales,GBR,Western Europe,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,18.0,11912760.0,98.0,97.0,86.0
+263,Gaza,,,,,-99,1.0,3.0,PSX,PSE,GAZ,275.0,Geo unit,Gaza,Gaza,Gaza,PSE,Middle East & North Africa,State of Palestine,Lower middle income,"13,397",2943.404534,40.0,1968400.0,99.0,98.0,
+264,West Bank,,,,,-99,1.0,3.0,PSX,PSE,WEB,275.0,Geo unit,West Bank,W.B.,West Bank,PSE,Middle East & North Africa,State of Palestine,Lower middle income,"13,397",2943.404534,40.0,1968400.0,99.0,98.0,
+265,Adjara,,,,,-99,0.0,3.0,GEO,GEO,GEA,-99.0,Geo unit,Ajaria,Ajaria,Adjara,GEO,Eastern Europe & Central Asia,Georgia,Lower middle income,"14,333",9996.935415,19.0,743280.0,97.0,90.0,
+266,Eq. Guinea,,,,,GNQ,0.0,2.0,GNQ,GNQ,GNQ,226.0,Sovereign country,Equatorial Guinea,Eq. G.,Equatorial Guinea,GNQ,West & Central Africa,Equatorial Guinea,Upper middle income,"10,179",25535.10593,37.0,469160.0,40.0,94.0,21.0
+267,Iraqi Kurdistan,,,,,-99,0.0,3.0,IRQ,IRQ,IRK,-99.0,Geo unit,Iraqi Kurdistan,KRG,Iraqi Kurdistan,IRQ,Middle East & North Africa,Iraq,Upper middle income,"171,489",17353.47924,40.0,15310000.0,73.0,88.0,98.0
+268,Korean DMZ (south),,,,,-99,0.0,3.0,KOR,-99,KNX,-99.0,Overlay,Korean Demilitarized Zone (south),DMZ South,Korean DMZ (south),KOR,East Asia & Pacific,Republic of Korea,High income,"1,411,246",35750.76998,13.0,6627660.0,98.0,96.0,91.0
+269,Korea,,,,,KOR,0.0,2.0,KOR,KOR,KOR,410.0,Sovereign country,South Korea,S.K.,Republic of Korea,KOR,East Asia & Pacific,Republic of Korea,High income,"1,411,246",35750.76998,13.0,6627660.0,98.0,96.0,91.0
+270,Korean DMZ (north),,,,,-99,0.0,3.0,PRK,-99,KNZ,-99.0,Overlay,Korean Demilitarized Zone (north),DMZ North,Korean DMZ (north),PRK,East Asia & Pacific,Democratic People�s Republic of Korea,Low income, .. ,,21.0,5353110.0,97.0,74.0,82.0
+271,Dem. Rep. Korea,,,,,PRK,0.0,2.0,PRK,PRK,PRK,408.0,Sovereign country,North Korea,N.K.,Dem. Rep. Korea,PRK,East Asia & Pacific,Democratic People�s Republic of Korea,Low income, .. ,,21.0,5353110.0,97.0,74.0,82.0
+272,Vojvodina,,,,,-99,0.0,3.0,SRB,SRB,SRV,-99.0,Geo unit,Vojvodina,Vojv.,Vojvodina,SRB,Eastern Europe & Central Asia,Serbia,Upper middle income,"37,745",14511.79145,16.0,1406560.0,97.0,97.0,
+273,Lao PDR,,,,,LAO,0.0,2.0,LAO,LAO,LAO,418.0,Sovereign country,Laos,Laos,Lao PDR,LAO,East Asia & Pacific,Lao People�s Democratic Republic,Lower middle income,"15,903",6186.084162,33.0,2263140.0,85.0,80.0,24.0
+274,Saint Lucia,,,,,LCA,0.0,2.0,LCA,LCA,LCA,662.0,Sovereign country,Saint Lucia,S.L.,Saint Lucia,LCA,Latin America & Caribbean,Saint Lucia,Upper middle income,"1,379",11545.77584,19.0,34010.0,95.0,96.0,92.0
+275,Marshall Is.,,,,,MHL,0.0,2.0,MHL,MHL,MHL,584.0,Sovereign country,Marshall Islands,M. Is.,Marshall Islands,MHL,East Asia & Pacific,Marshall Islands,Upper middle income,183,4072.354487,,,87.0,92.0,
+276,Jan Mayen I.,,,,,-99,0.0,3.0,NOR,SJM,NJM,-99.0,Geo unit,Jan Mayen,J.M.,Jan Mayen Island,NOR,Western Europe,Norway,High income,"370,557",59301.67024,18.0,954900.0,99.0,98.0,94.0
+277,Azores,,,,,-99,0.0,3.0,PRT,-99,PAZ,-99.0,Geo unit,Azores,Az.,Azores,PRT,Western Europe,Portugal,High income,"204,565",30624.17469,14.0,1446200.0,99.0,98.0,93.0
+278,Madeira,,,,,-99,0.0,3.0,PRT,-99,PMD,-99.0,Geo unit,Madeira,Mad.,Madeira,PRT,Western Europe,Portugal,High income,"204,565",30624.17469,14.0,1446200.0,99.0,98.0,93.0
+279,Bougainville,,,,,-99,0.0,3.0,PNG,PNG,PNB,-99.0,Geo unit,Bougainville,Boug.,Bougainville,PNG,East Asia & Pacific,Papua New Guinea,Lower middle income,"16,929",,36.0,2970360.0,87.0,80.0,69.0
+280,S. Sudan,,,,,SSD,0.0,2.0,SDS,SSD,SDS,728.0,Sovereign country,South Sudan,S. Sud.,South Sudan,SSD,Eastern & Southern Africa,South Sudan,Low income,"9,015",,42.0,5281920.0,35.0,,
+281,Solomon Is.,,,,,SLB,0.0,2.0,SLB,SLB,SLB,90.0,Sovereign country,Solomon Islands,S. Is.,Solomon Islands,SLB,East Asia & Pacific,Solomon Islands,Lower middle income,"1,202",2235.899993,39.0,238290.0,99.0,89.0,67.0
+282,Puntland,,,,,-99,0.0,3.0,SOM,SOM,SOP,-99.0,Geo unit,Puntland,Punt.,Puntland,SOM,Eastern & Southern Africa,Somalia,Low income,"6,217",,46.0,6781780.0,52.0,45.0,40.0
+283,São Tomé and Principe,,,,,STP,0.0,2.0,STP,STP,STP,678.0,Sovereign country,Sao Tome and Principe,S.T.P.,São Tomé and Principe,STP,West & Central Africa,Sao Tome and Principe,Lower middle income,351,3229.058078,43.0,87720.0,97.0,87.0,85.0
+284,UNDOF Zone,,,,,-99,0.0,3.0,SYR,SYR,SYU,-99.0,Overlay,UNDOF,DOF,UNDOF Zone,SYR,Middle East & North Africa,Syrian Arab Republic,Lower middle income, .. ,,37.0,6759900.0,61.0,96.0,90.0
+285,Timor-Leste,,,,,TLS,0.0,2.0,TLS,TLS,TLS,626.0,Sovereign country,East Timor,T.L.,Timor-Leste,TLS,East Asia & Pacific,Timor-Leste,Lower middle income,"1,442",,44.0,570240.0,95.0,,
+286,Zanzibar,,,,,-99,0.0,3.0,TZA,TZA,TZZ,-99.0,Geo unit,Zanzibar,Zan.,Zanzibar,TZA,Eastern & Southern Africa,United Republic of Tanzania,Low income,"47,431",2786.666719,45.0,25789500.0,99.0,94.0,90.0
+287,St. Vin. and Gren.,,,,,VCT,0.0,2.0,VCT,VCT,VCT,670.0,Sovereign country,Saint Vincent and the Grenadines,St.V.G.,Saint Vincent and the Grenadines,VCT,Latin America & Caribbean,Saint Vincent and The Grenadines,Upper middle income,771,11605.61029,24.0,26400.0,99.0,99.0,98.0

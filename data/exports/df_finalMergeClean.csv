@@ -40,13 +40,13 @@
 38,West & Central Africa,COG,Congo,Lower middle income,"7,834",5718.788841,42.0,2209620.0,85.0,62.0,88.0
 39,East Asia & Pacific,COK,Cook Islands,,,,,,99.0,91.0,95.0
 40,Latin America & Caribbean,CRI,Costa Rica,Upper middle income,"57,436",16614.08851,22.0,1079320.0,99.0,95.0,96.0
-41,West & Central Africa,CIV,Côte d’Ivoire,Lower middle income,"36,165",3719.624562,,,98.0,70.0,55.0
+41,West & Central Africa,CIV,Côte d’Ivoire,Lower middle income,"36,165",3719.624562,42.0,10203900.0,98.0,70.0,55.0
 42,Eastern Europe & Central Asia,HRV,Croatia,Upper middle income,"50,425",23596.24491,15.0,628350.0,98.0,97.0,
 43,Latin America & Caribbean,CUB,Cuba,Upper middle income,"87,133",,16.0,1837600.0,99.0,96.0,99.0
 44,Western Europe,CYP,Cyprus,High income,"19,802",32580.35064,17.0,200600.0,98.0,98.0,97.0
-45,Western Europe,CZE,Czech Republic,High income,"192,925",34711.28294,,,98.0,98.0,
-46,East Asia & Pacific,PRK,Democratic People’s Republic of Korea,Low income, .. ,,,,97.0,74.0,82.0
-47,West & Central Africa,COD,Democratic Republic of the Congo,Low income,"34,999",800.7515654,,,80.0,41.0,57.0
+45,Western Europe,CZE,Czech Republic,High income,"192,925",34711.28294,15.0,1592700.0,98.0,98.0,
+46,East Asia & Pacific,PRK,Democratic People’s Republic of Korea,Low income, .. ,,21.0,5353110.0,97.0,74.0,82.0
+47,West & Central Africa,COD,Democratic Republic of the Congo,Low income,"34,999",800.7515654,46.0,37416400.0,80.0,41.0,57.0
 48,Western Europe,DNK,Denmark,High income,"306,143",49695.96751,16.0,917440.0,97.0,94.0,97.0
 49,Eastern & Southern Africa,DJI,Djibouti,Lower middle income,"1,727",,31.0,296670.0,90.0,66.0,48.0
 50,Latin America & Caribbean,DMA,Dominica,Upper middle income,525,10975.06471,,,99.0,99.0,97.0
@@ -91,7 +91,7 @@
 89,East Asia & Pacific,KIR,Kiribati,Lower middle income,166,2047.231611,35.0,40600.0,82.0,92.0,62.0
 90,Middle East & North Africa,KWT,Kuwait,High income,"114,041",,21.0,868770.0,99.0,99.0,97.0
 91,Eastern Europe & Central Asia,KGZ,Kyrgyzstan,Lower middle income,"6,551",3551.152704,32.0,1934400.0,97.0,98.0,
-92,East Asia & Pacific,LAO,Lao People’s Democratic Republic,Lower middle income,"15,903",6186.084162,,,85.0,80.0,24.0
+92,East Asia & Pacific,LAO,Lao People’s Democratic Republic,Lower middle income,"15,903",6186.084162,33.0,2263140.0,85.0,80.0,24.0
 93,Western Europe,LVA,Latvia,High income,"27,677",26031.00442,15.0,292500.0,99.0,99.0,
 94,Middle East & North Africa,LBN,Lebanon,Upper middle income,"47,537",13995.65225,23.0,1398860.0,84.0,97.0,55.0
 95,Eastern & Southern Africa,LSO,Lesotho,Lower middle income,"2,200",3029.335431,35.0,781550.0,98.0,94.0,91.0
@@ -109,7 +109,7 @@
 107,West & Central Africa,MRT,Mauritania,Lower middle income,"4,635",3853.534663,40.0,1768000.0,87.0,89.0,57.0
 108,Eastern & Southern Africa,MUS,Mauritius,Upper middle income,"12,164",21087.74915,18.0,227700.0,97.0,96.0,95.0
 109,Latin America & Caribbean,MEX,Mexico,Upper middle income,"1,045,998",17861.5687,27.0,34874010.0,99.0,98.0,75.0
-110,East Asia & Pacific,FSM,Micronesia (Federated States of ),Lower middle income,322,3593.228034,,,95.0,92.0,
+110,East Asia & Pacific,FSM,Micronesia (Federated States of ),Lower middle income,322,3593.228034,33.0,34980.0,95.0,92.0,
 111,Western Europe,MCO,Monaco,High income, .. ,,,,99.0,99.0,
 112,East Asia & Pacific,MNG,Mongolia,Lower middle income,"11,160",12220.39348,30.0,922800.0,99.0,96.0,93.0
 113,Eastern Europe & Central Asia,MNE,Montenegro,Upper middle income,"4,173",16853.82857,18.0,113220.0,97.0,,
@@ -144,7 +144,7 @@
 142,Eastern & Southern Africa,RWA,Rwanda,Low income,"8,376",1913.402063,40.0,4883200.0,99.0,96.0,95.0
 143,Latin America & Caribbean,KNA,Saint Kitts and Nevis,High income,917,26685.99418,,,99.0,99.0,99.0
 144,Latin America & Caribbean,LCA,Saint Lucia,Upper middle income,"1,379",11545.77584,19.0,34010.0,95.0,96.0,92.0
-145,Latin America & Caribbean,VCT,Saint Vincent and The Grenadines,Upper middle income,771,11605.61029,,,99.0,99.0,98.0
+145,Latin America & Caribbean,VCT,Saint Vincent and The Grenadines,Upper middle income,771,11605.61029,24.0,26400.0,99.0,99.0,98.0
 146,East Asia & Pacific,WSM,Samoa,Upper middle income,786,6345.264119,37.0,72520.0,95.0,98.0,97.0
 147,Western Europe,SMR,San Marino,High income, .. ,,,,78.0,99.0,99.0
 148,West & Central Africa,STP,Sao Tome and Principe,Lower middle income,351,3229.058078,43.0,87720.0,97.0,87.0,85.0
@@ -171,7 +171,7 @@
 169,Middle East & North Africa,SYR,Syrian Arab Republic,Lower middle income, .. ,,37.0,6759900.0,61.0,96.0,90.0
 170,Eastern Europe & Central Asia,TJK,Tajikistan,Lower middle income,"6,952",2980.090352,35.0,3122350.0,98.0,80.0,
 171,East Asia & Pacific,THA,Thailand,Upper middle income,"406,840",16916.48048,17.0,11736460.0,99.0,97.0,86.0
-172,Eastern Europe & Central Asia,MKD,The former Yugoslav Republic of Macedonia,Upper middle income,"10,900",15121.25165,,,97.0,97.0,
+172,Eastern Europe & Central Asia,MKD,The former Yugoslav Republic of Macedonia,Upper middle income,"10,900",15121.25165,17.0,354110.0,97.0,97.0,
 173,East Asia & Pacific,TLS,Timor-Leste,Lower middle income,"1,442",,44.0,570240.0,95.0,,
 174,West & Central Africa,TGO,Togo,Low income,"4,400",1490.926523,42.0,3275160.0,93.0,70.0,59.0
 175,East Asia & Pacific,TON,Tonga,Upper middle income,395,5752.310637,36.0,38880.0,83.0,99.0,91.0
@@ -183,7 +183,7 @@
 181,Eastern & Southern Africa,UGA,Uganda,Low income,"25,528",1848.786757,48.0,20574240.0,89.0,80.0,45.0
 182,Eastern Europe & Central Asia,UKR,Ukraine,Lower middle income,"93,270",8271.779979,15.0,6633450.0,42.0,99.0,
 183,Middle East & North Africa,ARE,United Arab Emirates,High income,"348,743",72418.61086,14.0,1316000.0,99.0,96.0,92.0
-184,Western Europe,GBR,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,,,98.0,97.0,86.0
+184,Western Europe,GBR,United Kingdom of Great Britain and Northern Ireland,High income,"2,618,886",42608.91939,18.0,11912760.0,98.0,97.0,86.0
 185,Eastern & Southern Africa,TZA,United Republic of Tanzania,Low income,"47,431",2786.666719,45.0,25789500.0,99.0,94.0,90.0
 186,North America,USA,United States of America,High income,"18,569,100",57466.78711,19.0,61647210.0,97.0,98.0,98.0
 187,Latin America & Caribbean,URY,Uruguay,High income,"52,420",21625.26889,21.0,725970.0,97.0,97.0,88.0
